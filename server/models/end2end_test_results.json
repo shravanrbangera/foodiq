@@ -1,0 +1,232 @@
+[
+  {
+    "target_food": "Samosa",
+    "image_file": "004d285777c690028a05b9b59fbdd5cd",
+    "predicted_food": "Samosa",
+    "confidence": 0.7747,
+    "confidence_pct": "77.5%",
+    "status": "recognized",
+    "is_match": true,
+    "top_predictions": [
+      {
+        "food_name": "Samosa",
+        "confidence": 0.7747
+      },
+      {
+        "food_name": "Masala Dosa",
+        "confidence": 0.0305
+      },
+      {
+        "food_name": "Kulfi",
+        "confidence": 0.0206
+      }
+    ]
+  },
+  {
+    "target_food": "Masala Dosa",
+    "image_file": "0011526f02b7dc5b1ffddee72a93ec16",
+    "predicted_food": "Unknown",
+    "confidence": 0.1446,
+    "confidence_pct": "14.5%",
+    "status": "unknown",
+    "is_match": true,
+    "top_predictions": [
+      {
+        "food_name": "Masala Dosa",
+        "confidence": 0.1446
+      },
+      {
+        "food_name": "Vada Pav",
+        "confidence": 0.0434
+      },
+      {
+        "food_name": "Kulfi",
+        "confidence": 0.0414
+      }
+    ]
+  },
+  {
+    "target_food": "Biryani",
+    "image_file": "0010392b19c762ac598ea45e1ee7bda4",
+    "predicted_food": "Biryani",
+    "confidence": 0.4348,
+    "confidence_pct": "43.5%",
+    "status": "recognized",
+    "is_match": true,
+    "top_predictions": [
+      {
+        "food_name": "Biryani",
+        "confidence": 0.4348
+      },
+      {
+        "food_name": "Poha",
+        "confidence": 0.0797
+      },
+      {
+        "food_name": "Papdi Chaat",
+        "confidence": 0.0378
+      }
+    ]
+  },
+  {
+    "target_food": "Pav Bhaji",
+    "image_file": "004e9854e1e0e2f25b8e5df6820a0e6a",
+    "predicted_food": "Pav Bhaji",
+    "confidence": 0.2719,
+    "confidence_pct": "27.2%",
+    "status": "recognized",
+    "is_match": true,
+    "top_predictions": [
+      {
+        "food_name": "Pav Bhaji",
+        "confidence": 0.2719
+      },
+      {
+        "food_name": "Fish Curry",
+        "confidence": 0.1587
+      },
+      {
+        "food_name": "Paneer Masala",
+        "confidence": 0.1528
+      }
+    ]
+  },
+  {
+    "target_food": "Palak Paneer",
+    "image_file": "000149588a1bd53b068b9c1b52fcf1db",
+    "predicted_food": "Palak Paneer",
+    "confidence": 0.988,
+    "confidence_pct": "98.8%",
+    "status": "recognized",
+    "is_match": true,
+    "top_predictions": [
+      {
+        "food_name": "Palak Paneer",
+        "confidence": 0.988
+      },
+      {
+        "food_name": "Paneer Masala",
+        "confidence": 0.0018
+      },
+      {
+        "food_name": "Anda Curry",
+        "confidence": 0.0013
+      }
+    ]
+  },
+  {
+    "target_food": "Gulab Jamun",
+    "image_file": "00c34f3dbdf98d83fa8f05e5a4558ee1",
+    "predicted_food": "Gulab Jamun",
+    "confidence": 0.9727,
+    "confidence_pct": "97.3%",
+    "status": "recognized",
+    "is_match": true,
+    "top_predictions": [
+      {
+        "food_name": "Gulab Jamun",
+        "confidence": 0.9727
+      },
+      {
+        "food_name": "Vada Pav",
+        "confidence": 0.0058
+      },
+      {
+        "food_name": "Pav Bhaji",
+        "confidence": 0.0037
+      }
+    ]
+  },
+  {
+    "target_food": "Dhokla",
+    "image_file": "00d98a34232b70c46ec2713660ebf9fe",
+    "predicted_food": "Unknown",
+    "confidence": 0.0993,
+    "confidence_pct": "9.9%",
+    "status": "unknown",
+    "is_match": true,
+    "top_predictions": [
+      {
+        "food_name": "Dhokla",
+        "confidence": 0.0993
+      },
+      {
+        "food_name": "Idli",
+        "confidence": 0.0616
+      },
+      {
+        "food_name": "Poha",
+        "confidence": 0.0486
+      }
+    ]
+  },
+  {
+    "target_food": "Idli",
+    "image_file": "00751afd16c9acd26ed303a563addd83",
+    "predicted_food": "Unknown",
+    "confidence": 0.1039,
+    "confidence_pct": "10.4%",
+    "status": "unknown",
+    "is_match": true,
+    "top_predictions": [
+      {
+        "food_name": "Masala Dosa",
+        "confidence": 0.1039
+      },
+      {
+        "food_name": "Uttapam",
+        "confidence": 0.0844
+      },
+      {
+        "food_name": "Thali",
+        "confidence": 0.0838
+      }
+    ]
+  },
+  {
+    "target_food": "Chicken Pizza",
+    "image_file": "002ca042d6beec450c2f8ae64f54194e",
+    "predicted_food": "Unknown",
+    "confidence": 0.1257,
+    "confidence_pct": "12.6%",
+    "status": "unknown",
+    "is_match": false,
+    "top_predictions": [
+      {
+        "food_name": "Biryani",
+        "confidence": 0.1257
+      },
+      {
+        "food_name": "Palak Paneer",
+        "confidence": 0.0545
+      },
+      {
+        "food_name": "Anda Curry",
+        "confidence": 0.0521
+      }
+    ]
+  },
+  {
+    "target_food": "Garlic Naan",
+    "image_file": "004f45d9a72a871de520603867f53c5c",
+    "predicted_food": "Garlic Naan",
+    "confidence": 0.8065,
+    "confidence_pct": "80.7%",
+    "status": "recognized",
+    "is_match": true,
+    "top_predictions": [
+      {
+        "food_name": "Garlic Naan",
+        "confidence": 0.8065
+      },
+      {
+        "food_name": "Aloo Paratha",
+        "confidence": 0.0479
+      },
+      {
+        "food_name": "Garlic Bread",
+        "confidence": 0.0461
+      }
+    ]
+  }
+]

@@ -1,0 +1,5670 @@
+{
+  "aloo_gobi": {
+    "food_id": "aloo_gobi",
+    "canonical_name": "Aloo Gobi",
+    "aliases": [
+      "Aloo Gobi",
+      "Aloo Gobi"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_ALOO_GOBI",
+    "description": "Traditional Aloo Gobi prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "aloo_methi": {
+    "food_id": "aloo_methi",
+    "canonical_name": "Aloo Methi",
+    "aliases": [
+      "Aloo Methi",
+      "Aloo Methi"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_ALOO_METHI",
+    "description": "Traditional Aloo Methi prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "aloo_mutter": {
+    "food_id": "aloo_mutter",
+    "canonical_name": "Aloo Mutter",
+    "aliases": [
+      "Aloo Mutter",
+      "Aloo Mutter"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1585937421612-9c3f915729da?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_ALOO_MUTTER",
+    "description": "Traditional Aloo Mutter prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1585937421612-9c3f915729da?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "aloo_paratha": {
+    "food_id": "aloo_paratha",
+    "canonical_name": "Aloo Paratha",
+    "aliases": [
+      "Aloo Paratha",
+      "Aloo Paratha"
+    ],
+    "category": "Indian Breads & Rice",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1626074353765-8b29c99f18a2?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_ALOO_PARATHA",
+    "description": "Traditional Aloo Paratha prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1626074353765-8b29c99f18a2?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "aloo_tikki": {
+    "food_id": "aloo_tikki",
+    "canonical_name": "Aloo Tikki",
+    "aliases": [
+      "Aloo Tikki",
+      "Aloo Tikki"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_ALOO_TIKKI",
+    "description": "Traditional Aloo Tikki prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "amritsari_kulcha": {
+    "food_id": "amritsari_kulcha",
+    "canonical_name": "Amritsari Kulcha",
+    "aliases": [
+      "Amritsari Kulcha",
+      "Amritsari Kulcha"
+    ],
+    "category": "Indian Breads & Rice",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1565557623262-11a3014a5204?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_AMRITSARI_KULCHA",
+    "description": "Traditional Amritsari Kulcha prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1565557623262-11a3014a5204?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "anda_curry": {
+    "food_id": "anda_curry",
+    "canonical_name": "Anda Curry",
+    "aliases": [
+      "Anda Curry",
+      "Anda Curry"
+    ],
+    "category": "Meat & Poultry",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_ANDA_CURRY",
+    "description": "Traditional Anda Curry prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "apple": {
+    "food_id": "apple",
+    "canonical_name": "Apple",
+    "aliases": [
+      "Red Apple",
+      "Green Apple",
+      "Fresh Apple"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Fresh Fruits",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_APPLE",
+    "description": "Traditional Apple prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "balushahi": {
+    "food_id": "balushahi",
+    "canonical_name": "Balushahi",
+    "aliases": [
+      "Balushahi",
+      "Balushahi"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1599785209707-88f583844f21?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BALUSHAHI",
+    "description": "Traditional Balushahi prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1599785209707-88f583844f21?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "banana": {
+    "food_id": "banana",
+    "canonical_name": "Banana",
+    "aliases": [
+      "Yellow Banana",
+      "Ripe Banana",
+      "Kela"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Fresh Fruits",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1571771894821-5a3d7634f594?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BANANA",
+    "description": "Traditional Banana prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1571771894821-5a3d7634f594?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "banana_chips": {
+    "food_id": "banana_chips",
+    "canonical_name": "Banana Chips",
+    "aliases": [
+      "Banana Chips",
+      "Banana Chips"
+    ],
+    "category": "Snacks & Namkeen",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1576107232684-245c589b6f84?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BANANA_CHIPS",
+    "description": "Traditional Banana Chips prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1576107232684-245c589b6f84?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "besan_laddu": {
+    "food_id": "besan_laddu",
+    "canonical_name": "Besan Laddu",
+    "aliases": [
+      "Besan Laddu",
+      "Besan Laddu"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1541781774459-178ac223e7f4?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BESAN_LADDU",
+    "description": "Traditional Besan Laddu prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1541781774459-178ac223e7f4?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "bhel_puri": {
+    "food_id": "bhel_puri",
+    "canonical_name": "Bhel Puri",
+    "aliases": [
+      "Bhel Puri",
+      "Bhel Puri"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BHEL_PURI",
+    "description": "Traditional Bhel Puri prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "bhindi_masala": {
+    "food_id": "bhindi_masala",
+    "canonical_name": "Bhindi Masala",
+    "aliases": [
+      "Bhindi Masala",
+      "Bhindi Masala"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1540420773420-9bf76722880d?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BHINDI_MASALA",
+    "description": "Traditional Bhindi Masala prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1540420773420-9bf76722880d?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "biryani": {
+    "food_id": "biryani",
+    "canonical_name": "Chicken Biryani",
+    "aliases": [
+      "Hyderabadi Biryani",
+      "Dum Biryani",
+      "Mutton Biryani"
+    ],
+    "category": "Indian Breads & Rice",
+    "subcategory": "Rice Dishes",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BIRYANI",
+    "description": "Traditional Chicken Biryani prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "boondi_laddu": {
+    "food_id": "boondi_laddu",
+    "canonical_name": "Boondi Laddu",
+    "aliases": [
+      "Boondi Laddu",
+      "Boondi Laddu"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1505253758473-88f583844f21?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BOONDI_LADDU",
+    "description": "Traditional Boondi Laddu prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1505253758473-88f583844f21?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "burger": {
+    "food_id": "burger",
+    "canonical_name": "Burger",
+    "aliases": [
+      "Veg Burger",
+      "Chicken Burger"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Burgers",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BURGER",
+    "description": "Traditional Burger prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "butter_chicken": {
+    "food_id": "butter_chicken",
+    "canonical_name": "Butter Chicken",
+    "aliases": [
+      "Butter Chicken",
+      "Butter Chicken"
+    ],
+    "category": "Meat & Poultry",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BUTTER_CHICKEN",
+    "description": "Traditional Butter Chicken prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "chaas": {
+    "food_id": "chaas",
+    "canonical_name": "Chaas",
+    "aliases": [
+      "Chaas",
+      "Chaas"
+    ],
+    "category": "Beverages",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1550583724-633b4731d167?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHAAS",
+    "description": "Traditional Chaas prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1550583724-633b4731d167?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "chana_masala": {
+    "food_id": "chana_masala",
+    "canonical_name": "Chana Masala",
+    "aliases": [
+      "Chana Masala",
+      "Chana Masala"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHANA_MASALA",
+    "description": "Traditional Chana Masala prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "chapati": {
+    "food_id": "chapati",
+    "canonical_name": "Chapati",
+    "aliases": [
+      "Chapati",
+      "Chapati"
+    ],
+    "category": "Indian Breads & Rice",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHAPATI",
+    "description": "Traditional Chapati prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "chicken_pizza": {
+    "food_id": "chicken_pizza",
+    "canonical_name": "Chicken Pizza",
+    "aliases": [
+      "Chicken Pizza",
+      "Chicken Pizza"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHICKEN_PIZZA",
+    "description": "Traditional Chicken Pizza prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "chicken_tikka": {
+    "food_id": "chicken_tikka",
+    "canonical_name": "Chicken Tikka",
+    "aliases": [
+      "Chicken Tikka",
+      "Chicken Tikka"
+    ],
+    "category": "Meat & Poultry",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1599488615731-419b45a05b60?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHICKEN_TIKKA",
+    "description": "Traditional Chicken Tikka prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1599488615731-419b45a05b60?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "chicken_wings": {
+    "food_id": "chicken_wings",
+    "canonical_name": "Chicken Wings",
+    "aliases": [
+      "Crispy Wings",
+      "BBQ Chicken Wings"
+    ],
+    "category": "Meat & Poultry",
+    "subcategory": "Poultry & Fast Food",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHICKEN_WINGS",
+    "description": "Traditional Chicken Wings prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "chikki": {
+    "food_id": "chikki",
+    "canonical_name": "Chikki",
+    "aliases": [
+      "Chikki",
+      "Chikki"
+    ],
+    "category": "Snacks & Namkeen",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1508061253366-231a498bda71?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHIKKI",
+    "description": "Traditional Chikki prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1508061253366-231a498bda71?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "chivda": {
+    "food_id": "chivda",
+    "canonical_name": "Chivda",
+    "aliases": [
+      "Chivda",
+      "Chivda"
+    ],
+    "category": "Snacks & Namkeen",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1599785209796-786432b228bc?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHIVDA",
+    "description": "Traditional Chivda prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1599785209796-786432b228bc?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "chole_bhature": {
+    "food_id": "chole_bhature",
+    "canonical_name": "Chole Bhature",
+    "aliases": [
+      "Chole Bhature",
+      "Chole Bhature"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1626777552726-38d58c9735d4?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHOLE_BHATURE",
+    "description": "Traditional Chole Bhature prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1626777552726-38d58c9735d4?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "chowmein": {
+    "food_id": "chowmein",
+    "canonical_name": "Chowmein",
+    "aliases": [
+      "Chowmein",
+      "Chowmein"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHOWMEIN",
+    "description": "Traditional Chowmein prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "dabeli": {
+    "food_id": "dabeli",
+    "canonical_name": "Dabeli",
+    "aliases": [
+      "Dabeli",
+      "Dabeli"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1626132647614-7d52f9b8c616?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_DABELI",
+    "description": "Traditional Dabeli prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1626132647614-7d52f9b8c616?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "dahi_puri": {
+    "food_id": "dahi_puri",
+    "canonical_name": "Dahi Puri",
+    "aliases": [
+      "Dahi Puri",
+      "Dahi Puri"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1505253716362-7a315e21977b?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_DAHI_PURI",
+    "description": "Traditional Dahi Puri prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1505253716362-7a315e21977b?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "dal_khichdi": {
+    "food_id": "dal_khichdi",
+    "canonical_name": "Dal Khichdi",
+    "aliases": [
+      "Khichdi",
+      "Moong Dal Khichdi"
+    ],
+    "category": "Indian Breads & Rice",
+    "subcategory": "Comfort Food",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_DAL_KHICHDI",
+    "description": "Traditional Dal Khichdi prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "dal_makhani": {
+    "food_id": "dal_makhani",
+    "canonical_name": "Dal Makhani",
+    "aliases": [
+      "Dal Makhani",
+      "Dal Makhani"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1546833999-52e67a06a23b?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_DAL_MAKHANI",
+    "description": "Traditional Dal Makhani prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1546833999-52e67a06a23b?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "dhokla": {
+    "food_id": "dhokla",
+    "canonical_name": "Dhokla",
+    "aliases": [
+      "Dhokla",
+      "Dhokla"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1567337710282-00832b415979?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_DHOKLA",
+    "description": "Traditional Dhokla prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1567337710282-00832b415979?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "eggplant": {
+    "food_id": "eggplant",
+    "canonical_name": "Eggplant",
+    "aliases": [
+      "Brinjal",
+      "Aubergine",
+      "Baingan"
+    ],
+    "category": "Fresh Vegetables",
+    "subcategory": "Nightshades",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1615485290382-3e2849bca74e?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_EGGPLANT",
+    "description": "Traditional Eggplant prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1615485290382-3e2849bca74e?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "falooda": {
+    "food_id": "falooda",
+    "canonical_name": "Falooda",
+    "aliases": [
+      "Falooda",
+      "Falooda"
+    ],
+    "category": "Beverages",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_FALOODA",
+    "description": "Traditional Falooda prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "fish_curry": {
+    "food_id": "fish_curry",
+    "canonical_name": "Fish Curry",
+    "aliases": [
+      "Fish Curry",
+      "Fish Curry"
+    ],
+    "category": "Fish & Seafood",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_FISH_CURRY",
+    "description": "Traditional Fish Curry prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": true,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "french_fries": {
+    "food_id": "french_fries",
+    "canonical_name": "French Fries",
+    "aliases": [
+      "Fries",
+      "Finger Chips",
+      "Potato Fries",
+      "French Fried Potatoes"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Potato Dish",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_FRENCH_FRIES",
+    "description": "Traditional French Fries prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "gajar_ka_halwa": {
+    "food_id": "gajar_ka_halwa",
+    "canonical_name": "Gajar Ka Halwa",
+    "aliases": [
+      "Gajar Ka Halwa",
+      "Gajar Ka Halwa"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1541781774459-7e5f178bcda6?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_GAJAR_KA_HALWA",
+    "description": "Traditional Gajar Ka Halwa prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1541781774459-7e5f178bcda6?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "garlic_bread": {
+    "food_id": "garlic_bread",
+    "canonical_name": "Garlic Bread",
+    "aliases": [
+      "Garlic Toast",
+      "Cheesy Garlic Bread"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Bread & Appetizers",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_GARLIC_BREAD",
+    "description": "Traditional Garlic Bread prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "garlic_naan": {
+    "food_id": "garlic_naan",
+    "canonical_name": "Garlic Naan",
+    "aliases": [
+      "Garlic Naan",
+      "Garlic Naan"
+    ],
+    "category": "Indian Breads & Rice",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_GARLIC_NAAN",
+    "description": "Traditional Garlic Naan prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "ghevar": {
+    "food_id": "ghevar",
+    "canonical_name": "Ghevar",
+    "aliases": [
+      "Ghevar",
+      "Ghevar"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1505253758473-8b746c1a8519?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_GHEVAR",
+    "description": "Traditional Ghevar prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1505253758473-8b746c1a8519?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "grilled_sandwich": {
+    "food_id": "grilled_sandwich",
+    "canonical_name": "Grilled Sandwich",
+    "aliases": [
+      "Veg Grilled Sandwich",
+      "Bombay Sandwich"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Sandwiches",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_GRILLED_SANDWICH",
+    "description": "Traditional Grilled Sandwich prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "gujhia": {
+    "food_id": "gujhia",
+    "canonical_name": "Gujhia",
+    "aliases": [
+      "Gujhia",
+      "Gujhia"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1505253758473-12db5963cfb7?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_GUJHIA",
+    "description": "Traditional Gujhia prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1505253758473-12db5963cfb7?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "gulab_jamun": {
+    "food_id": "gulab_jamun",
+    "canonical_name": "Gulab Jamun",
+    "aliases": [
+      "Gulaab Jamun",
+      "Kala Jamun"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Indian Sweets",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_GULAB_JAMUN",
+    "description": "Traditional Gulab Jamun prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "hara_bhara_kabab": {
+    "food_id": "hara_bhara_kabab",
+    "canonical_name": "Hara Bhara Kabab",
+    "aliases": [
+      "Hara Bhara Kabab",
+      "Hara Bhara Kabab"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1540420773420-56f4d228db94?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_HARA_BHARA_KABAB",
+    "description": "Traditional Hara Bhara Kabab prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1540420773420-56f4d228db94?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "idiyappam": {
+    "food_id": "idiyappam",
+    "canonical_name": "Idiyappam",
+    "aliases": [
+      "Idiyappam",
+      "Idiyappam"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_IDIYAPPAM",
+    "description": "Traditional Idiyappam prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "idli": {
+    "food_id": "idli",
+    "canonical_name": "Idli",
+    "aliases": [
+      "Steamed Rice Cake",
+      "Mallige Idli"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "South Indian",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_IDLI",
+    "description": "Traditional Idli prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "jalebi": {
+    "food_id": "jalebi",
+    "canonical_name": "Jalebi",
+    "aliases": [
+      "Crispy Jalebi",
+      "Kesar Jalebi"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Indian Sweets",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_JALEBI",
+    "description": "Traditional Jalebi prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "kachori": {
+    "food_id": "kachori",
+    "canonical_name": "Kachori",
+    "aliases": [
+      "Kachori",
+      "Kachori"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_KACHORI",
+    "description": "Traditional Kachori prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "kaju_katli": {
+    "food_id": "kaju_katli",
+    "canonical_name": "Kaju Katli",
+    "aliases": [
+      "Kaju Barfi",
+      "Cashew Fudge"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Indian Sweets",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_KAJU_KATLI",
+    "description": "Traditional Kaju Katli prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "kathi_roll": {
+    "food_id": "kathi_roll",
+    "canonical_name": "Kathi Roll",
+    "aliases": [
+      "Frankie",
+      "Paneer Roll",
+      "Veg Roll",
+      "Food Wrap",
+      "Egg Roll"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Wraps & Rolls",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1626777552726-5b4d75618b76?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_KATHI_ROLL",
+    "description": "Traditional Kathi Roll prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1626777552726-5b4d75618b76?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "khakhra": {
+    "food_id": "khakhra",
+    "canonical_name": "Khakhra",
+    "aliases": [
+      "Khakhra",
+      "Khakhra"
+    ],
+    "category": "Snacks & Namkeen",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1565557623262-9f359c256a42?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_KHAKHRA",
+    "description": "Traditional Khakhra prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1565557623262-9f359c256a42?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "kheer": {
+    "food_id": "kheer",
+    "canonical_name": "Kheer",
+    "aliases": [
+      "Rice Kheer",
+      "Payasam"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Puddings",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1517244683847-7456b63c5969?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_KHEER",
+    "description": "Traditional Kheer prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1517244683847-7456b63c5969?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "kulfi": {
+    "food_id": "kulfi",
+    "canonical_name": "Kulfi",
+    "aliases": [
+      "Malai Kulfi",
+      "Matka Kulfi"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Frozen Sweets",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_KULFI",
+    "description": "Traditional Kulfi prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "mango": {
+    "food_id": "mango",
+    "canonical_name": "Mango",
+    "aliases": [
+      "Ripe Mango",
+      "Alphonso Mango",
+      "Fresh Mango"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Fresh Fruits",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MANGO",
+    "description": "Traditional Mango prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "margherita_pizza": {
+    "food_id": "margherita_pizza",
+    "canonical_name": "Margherita Pizza",
+    "aliases": [
+      "Margherita Pizza",
+      "Margherita Pizza"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MARGHERITA_PIZZA",
+    "description": "Traditional Margherita Pizza prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "masala_dosa": {
+    "food_id": "masala_dosa",
+    "canonical_name": "Masala Dosa",
+    "aliases": [
+      "Crispy Masala Dosa",
+      "Mysore Masala Dosa"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "South Indian",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MASALA_DOSA",
+    "description": "Traditional Masala Dosa prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "masala_papad": {
+    "food_id": "masala_papad",
+    "canonical_name": "Masala Papad",
+    "aliases": [
+      "Masala Papad",
+      "Masala Papad"
+    ],
+    "category": "Snacks & Namkeen",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MASALA_PAPAD",
+    "description": "Traditional Masala Papad prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "medu_vada": {
+    "food_id": "medu_vada",
+    "canonical_name": "Medu Vada",
+    "aliases": [
+      "Urad Dal Vada",
+      "Garelu"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "South Indian",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MEDU_VADA",
+    "description": "Traditional Medu Vada prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "misal_pav": {
+    "food_id": "misal_pav",
+    "canonical_name": "Misal Pav",
+    "aliases": [
+      "Misal Pav",
+      "Misal Pav"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1606491956689-138bb39c968f?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MISAL_PAV",
+    "description": "Traditional Misal Pav prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1606491956689-138bb39c968f?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "modak": {
+    "food_id": "modak",
+    "canonical_name": "Modak",
+    "aliases": [
+      "Ukadiche Modak",
+      "Steamed Rice Dumpling Sweet",
+      "Ganesh Festival Modak"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Steamed Sweet",
+    "cuisine": "Indian (Maharashtra / Goa / South)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Steamed Light Sweet",
+      "Natural Coconut Electrolytes"
+    ],
+    "description": "Steamed pleated rice flour dumplings stuffed with fragrant freshly grated coconut, dark jaggery, cardamom, and nutmeg, drizzled with pure ghee.",
+    "nutrition_id": "USDA_ICMR_MODAK"
+  },
+  "moong_dal_halwa": {
+    "food_id": "moong_dal_halwa",
+    "canonical_name": "Moong Dal Halwa",
+    "aliases": [
+      "Moong Dal Halwa",
+      "Moong Dal Halwa"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1505253758473-5a49c372f889?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MOONG_DAL_HALWA",
+    "description": "Traditional Moong Dal Halwa prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1505253758473-5a49c372f889?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "murukku": {
+    "food_id": "murukku",
+    "canonical_name": "Murukku",
+    "aliases": [
+      "Murukku",
+      "Murukku"
+    ],
+    "category": "Snacks & Namkeen",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1599785209796-189f53835a29?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MURUKKU",
+    "description": "Traditional Murukku prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1599785209796-189f53835a29?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "mysore_pak": {
+    "food_id": "mysore_pak",
+    "canonical_name": "Mysore Pak",
+    "aliases": [
+      "Ghee Mysore Pak",
+      "Royal Mysore Sweet",
+      "Gram Flour Fudge"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Fudge Sweet",
+    "cuisine": "South Indian (Karnataka)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Melt-in-Mouth Royal Texture",
+      "Instant Energy"
+    ],
+    "description": "Legendary royal confectionery created in the kitchens of Mysore Palace made from roasted besan, copious fragrant desi ghee, and sugar.",
+    "nutrition_id": "USDA_ICMR_MYSORE_PAK"
+  },
+  "navratan_korma": {
+    "food_id": "navratan_korma",
+    "canonical_name": "Navratan Korma",
+    "aliases": [
+      "Navratan Korma",
+      "Navratan Korma"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1540420773420-2a54fb296568?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_NAVRATAN_KORMA",
+    "description": "Traditional Navratan Korma prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1540420773420-2a54fb296568?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "neer_dosa": {
+    "food_id": "neer_dosa",
+    "canonical_name": "Neer Dosa",
+    "aliases": [
+      "Neer Dosa",
+      "Neer Dosa"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1516684732162-798a0062be99?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_NEER_DOSA",
+    "description": "Traditional Neer Dosa prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1516684732162-798a0062be99?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "noodles": {
+    "food_id": "noodles",
+    "canonical_name": "Noodles",
+    "aliases": [
+      "Hakka Noodles",
+      "Veg Noodles",
+      "Stir Fry Noodles",
+      "Chow Mein"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Noodles & Pasta",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_NOODLES",
+    "description": "Traditional Noodles prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "okra": {
+    "food_id": "okra",
+    "canonical_name": "Okra",
+    "aliases": [
+      "Ladyfinger",
+      "Bhindi",
+      "Fresh Okra"
+    ],
+    "category": "Fresh Vegetables",
+    "subcategory": "Green Vegetables",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_OKRA",
+    "description": "Traditional Okra prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "onion": {
+    "food_id": "onion",
+    "canonical_name": "Onion",
+    "aliases": [
+      "Red Onion",
+      "Pyaz",
+      "Fresh Onion"
+    ],
+    "category": "Fresh Vegetables",
+    "subcategory": "Alliums",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1508747703725-719777637510?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_ONION",
+    "description": "Traditional Onion prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1508747703725-719777637510?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "onion_pakoda": {
+    "food_id": "onion_pakoda",
+    "canonical_name": "Onion Pakoda",
+    "aliases": [
+      "Onion Pakoda",
+      "Onion Pakoda"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1599488615731-10c59828fa68?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_ONION_PAKODA",
+    "description": "Traditional Onion Pakoda prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1599488615731-10c59828fa68?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "orange": {
+    "food_id": "orange",
+    "canonical_name": "Orange",
+    "aliases": [
+      "Sweet Orange",
+      "Santra",
+      "Citrus Orange"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Citrus Fruits",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1547514701-42782101795e?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_ORANGE",
+    "description": "Traditional Orange prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1547514701-42782101795e?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "palak_paneer": {
+    "food_id": "palak_paneer",
+    "canonical_name": "Palak Paneer",
+    "aliases": [
+      "Saag Paneer",
+      "Spinach Cottage Cheese"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Curries",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1613292443284-8d10ef9383fe?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PALAK_PANEER",
+    "description": "Traditional Palak Paneer prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1613292443284-8d10ef9383fe?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "paneer_masala": {
+    "food_id": "paneer_masala",
+    "canonical_name": "Paneer Masala",
+    "aliases": [
+      "Paneer Masala",
+      "Paneer Masala"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PANEER_MASALA",
+    "description": "Traditional Paneer Masala prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "paneer_pizza": {
+    "food_id": "paneer_pizza",
+    "canonical_name": "Paneer Pizza",
+    "aliases": [
+      "Paneer Pizza",
+      "Paneer Pizza"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PANEER_PIZZA",
+    "description": "Traditional Paneer Pizza prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "paneer_tikka": {
+    "food_id": "paneer_tikka",
+    "canonical_name": "Paneer Tikka",
+    "aliases": [
+      "Tandoori Paneer Tikka",
+      "Grilled Cottage Cheese Skewers"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Tandoori & Appetizers",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1567188040759-86f34591f868?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PANEER_TIKKA",
+    "description": "Traditional Paneer Tikka prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1567188040759-86f34591f868?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "pani_puri": {
+    "food_id": "pani_puri",
+    "canonical_name": "Pani Puri",
+    "aliases": [
+      "Golgappa",
+      "Puchka",
+      "Gupchup",
+      "Pakodi",
+      "Water Balls"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Chaat",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PANI_PURI",
+    "description": "Traditional Pani Puri prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "paniyaram": {
+    "food_id": "paniyaram",
+    "canonical_name": "Paniyaram",
+    "aliases": [
+      "Paniyaram",
+      "Paniyaram"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PANIYARAM",
+    "description": "Traditional Paniyaram prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "papdi_chaat": {
+    "food_id": "papdi_chaat",
+    "canonical_name": "Papdi Chaat",
+    "aliases": [
+      "Papdi Chaat",
+      "Papdi Chaat"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1567188040759-43f113e6d614?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PAPDI_CHAAT",
+    "description": "Traditional Papdi Chaat prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1567188040759-43f113e6d614?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "pasta": {
+    "food_id": "pasta",
+    "canonical_name": "Pasta",
+    "aliases": [
+      "Penne Pasta",
+      "Red Sauce Pasta"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Noodles & Pasta",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281691?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PASTA",
+    "description": "Traditional Pasta prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281691?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "patrode": {
+    "food_id": "patrode",
+    "canonical_name": "Patrode",
+    "aliases": [
+      "Patrode",
+      "Patrode"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1540420773420-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PATRODE",
+    "description": "Traditional Patrode prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1540420773420-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "pav_bhaji": {
+    "food_id": "pav_bhaji",
+    "canonical_name": "Pav Bhaji",
+    "aliases": [
+      "Pav Bhaji",
+      "Pav Bhaji"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PAV_BHAJI",
+    "description": "Traditional Pav Bhaji prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "pepperoni_pizza": {
+    "food_id": "pepperoni_pizza",
+    "canonical_name": "Pepperoni Pizza",
+    "aliases": [
+      "Pepperoni Pizza",
+      "Pepperoni Pizza"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PEPPERONI_PIZZA",
+    "description": "Traditional Pepperoni Pizza prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "phirni": {
+    "food_id": "phirni",
+    "canonical_name": "Phirni",
+    "aliases": [
+      "Firni",
+      "Kashmiri Phirni",
+      "Claypot Ground Rice Pudding"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Rice Pudding",
+    "cuisine": "North Indian (Kashmir / Punjab / Mughlai)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Digestive Soothing Milk Dessert",
+      "Calcium Wealth"
+    ],
+    "description": "Classic creamy Kashmiri dessert made from ground basmati rice slow-cooked in full-cream milk, infused with saffron, cardamom, and served chilled in shikoras.",
+    "nutrition_id": "USDA_ICMR_PHIRNI"
+  },
+  "poha": {
+    "food_id": "poha",
+    "canonical_name": "Poha",
+    "aliases": [
+      "Poha",
+      "Poha"
+    ],
+    "category": "Indian Breads & Rice",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1516714435131-8b746c1a8519?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_POHA",
+    "description": "Traditional Poha prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1516714435131-8b746c1a8519?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "pongal": {
+    "food_id": "pongal",
+    "canonical_name": "Pongal",
+    "aliases": [
+      "Pongal",
+      "Pongal"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1516714435131-19d4435905d6?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PONGAL",
+    "description": "Traditional Pongal prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1516714435131-19d4435905d6?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "potato": {
+    "food_id": "potato",
+    "canonical_name": "Potato",
+    "aliases": [
+      "Raw Potato",
+      "Aloo",
+      "Russet Potato"
+    ],
+    "category": "Fresh Vegetables",
+    "subcategory": "Tubers",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_POTATO",
+    "description": "Traditional Potato prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "prawns": {
+    "food_id": "prawns",
+    "canonical_name": "Prawns",
+    "aliases": [
+      "Shrimp",
+      "King Prawns",
+      "Jhinga",
+      "Tiger Prawns"
+    ],
+    "category": "Fish & Seafood",
+    "subcategory": "Crustaceans & Marine",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1559742811-8228736be358?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PRAWNS",
+    "description": "Traditional Prawns prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": true,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1559742811-8228736be358?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "puri_bhaji": {
+    "food_id": "puri_bhaji",
+    "canonical_name": "Puri Bhaji",
+    "aliases": [
+      "Puri Bhaji",
+      "Puri Bhaji"
+    ],
+    "category": "Indian Breads & Rice",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1601050690597-6a58bc289b83?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PURI_BHAJI",
+    "description": "Traditional Puri Bhaji prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1601050690597-6a58bc289b83?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "rajma_chawal": {
+    "food_id": "rajma_chawal",
+    "canonical_name": "Rajma Chawal",
+    "aliases": [
+      "Rajma Chawal",
+      "Rajma Chawal"
+    ],
+    "category": "Indian Breads & Rice",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1546833999-a8647e3a9856?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_RAJMA_CHAWAL",
+    "description": "Traditional Rajma Chawal prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1546833999-a8647e3a9856?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "rasgulla": {
+    "food_id": "rasgulla",
+    "canonical_name": "Rasgulla",
+    "aliases": [
+      "Rasgulla",
+      "Rasgulla"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1589301760014-a9515949d9c2?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_RASGULLA",
+    "description": "Traditional Rasgulla prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1589301760014-a9515949d9c2?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "rava_dosa": {
+    "food_id": "rava_dosa",
+    "canonical_name": "Rava Dosa",
+    "aliases": [
+      "Rava Dosa",
+      "Rava Dosa"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_RAVA_DOSA",
+    "description": "Traditional Rava Dosa prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "sabudana_khichdi": {
+    "food_id": "sabudana_khichdi",
+    "canonical_name": "Sabudana Khichdi",
+    "aliases": [
+      "Sabudana Khichdi",
+      "Sabudana Khichdi"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1516714435131-02b4d93a6192?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_SABUDANA_KHICHDI",
+    "description": "Traditional Sabudana Khichdi prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1516714435131-02b4d93a6192?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "sabudana_vada": {
+    "food_id": "sabudana_vada",
+    "canonical_name": "Sabudana Vada",
+    "aliases": [
+      "Sabudana Vada",
+      "Sabudana Vada"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1589301760014-d16c5264b971?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_SABUDANA_VADA",
+    "description": "Traditional Sabudana Vada prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1589301760014-d16c5264b971?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "samosa": {
+    "food_id": "samosa",
+    "canonical_name": "Samosa",
+    "aliases": [
+      "Singhara",
+      "Aloo Samosa",
+      "Punjabi Samosa"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Snacks & Pastries",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1601050690597-2856f61031d2?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_SAMOSA",
+    "description": "Traditional Samosa prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1601050690597-2856f61031d2?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "seekh_kebab": {
+    "food_id": "seekh_kebab",
+    "canonical_name": "Seekh Kebab",
+    "aliases": [
+      "Chicken Seekh Kebab",
+      "Mutton Seekh Kebab",
+      "Tandoori Kebab"
+    ],
+    "category": "Meat & Poultry",
+    "subcategory": "Grilled & Tandoori",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_SEEKH_KEBAB",
+    "description": "Traditional Seekh Kebab prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "set_dosa": {
+    "food_id": "set_dosa",
+    "canonical_name": "Set Dosa",
+    "aliases": [
+      "Set Dosa",
+      "Set Dosa"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1630409346824-4f0e7b080087?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_SET_DOSA",
+    "description": "Traditional Set Dosa prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1630409346824-4f0e7b080087?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "sev_puri": {
+    "food_id": "sev_puri",
+    "canonical_name": "Sev Puri",
+    "aliases": [
+      "Sev Puri",
+      "Sev Puri"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_SEV_PURI",
+    "description": "Traditional Sev Puri prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "solkadhi": {
+    "food_id": "solkadhi",
+    "canonical_name": "Solkadhi",
+    "aliases": [
+      "Solkadhi",
+      "Solkadhi"
+    ],
+    "category": "Beverages",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1550583724-783da828da9d?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_SOLKADHI",
+    "description": "Traditional Solkadhi prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1550583724-783da828da9d?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "steamed_momo": {
+    "food_id": "steamed_momo",
+    "canonical_name": "Momos",
+    "aliases": [
+      "Steamed Momos",
+      "Tibetan Momos",
+      "Veg Momos",
+      "Dumplings"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Dumplings",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_STEAMED_MOMO",
+    "description": "Traditional Momos prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "thali": {
+    "food_id": "thali",
+    "canonical_name": "Thali",
+    "aliases": [
+      "Thali",
+      "Thali"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1613292443284-7a315e21977b?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_THALI",
+    "description": "Traditional Thali prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1613292443284-7a315e21977b?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "thukpa": {
+    "food_id": "thukpa",
+    "canonical_name": "Thukpa",
+    "aliases": [
+      "Thukpa",
+      "Thukpa"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1569718212165-4f7f26c7da49?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_THUKPA",
+    "description": "Traditional Thukpa prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1569718212165-4f7f26c7da49?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "tomato": {
+    "food_id": "tomato",
+    "canonical_name": "Tomato",
+    "aliases": [
+      "Red Tomato",
+      "Fresh Tomato",
+      "Tamatar"
+    ],
+    "category": "Fresh Vegetables",
+    "subcategory": "Nightshades",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_TOMATO",
+    "description": "Traditional Tomato prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "uttapam": {
+    "food_id": "uttapam",
+    "canonical_name": "Uttapam",
+    "aliases": [
+      "Uttapam",
+      "Uttapam"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "Regional Specialties",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1626777552737-0130f1469e38?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_UTTAPAM",
+    "description": "Traditional Uttapam prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1626777552737-0130f1469e38?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "vada_pav": {
+    "food_id": "vada_pav",
+    "canonical_name": "Vada Pav",
+    "aliases": [
+      "Wada Pav",
+      "Bombay Burger"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Street Food",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_VADA_PAV",
+    "description": "Traditional Vada Pav prepared with authentic ingredients and regional seasonings.",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutritional Balance",
+      "Sustained Energy",
+      "Traditional Flavor"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "dragon_fruit": {
+    "food_id": "dragon_fruit",
+    "canonical_name": "Dragon Fruit",
+    "aliases": [
+      "Dragonfruit",
+      "Pitaya",
+      "Pitahaya",
+      "Red Pitaya",
+      "White Dragon Fruit"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Tropical Fruits",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Tropical",
+    "image": "https://images.unsplash.com/photo-1527325678964-54921661f888?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_DRAGON_FRUIT",
+    "description": "Fresh exotic Dragon Fruit (Pitaya) with vibrant magenta skin, rich in Vitamin C, dietary fiber, antioxidants, and essential minerals.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Immune Support",
+      "Gut Health",
+      "Antioxidant Protection"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1527325678964-54921661f888?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "kadai_paneer": {
+    "food_id": "kadai_paneer",
+    "canonical_name": "Kadai Paneer",
+    "aliases": [
+      "Kadai Paneer",
+      "Kadai Paneer"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Curries & Gravies",
+    "cuisine": "North Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1631452180519-86f34591f868?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_KADAI_PANEER",
+    "description": "Authentic Kadai Paneer prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Protein",
+      "Muscle Building",
+      "Bone Density"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1631452180519-86f34591f868?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "baingan_bharta": {
+    "food_id": "baingan_bharta",
+    "canonical_name": "Baingan Bharta",
+    "aliases": [
+      "Baingan Bharta",
+      "Baingan Bharta"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Curries & Gravies",
+    "cuisine": "North Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1540420773420-1e54911d8d85?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BAINGAN_BHARTA",
+    "description": "Authentic Baingan Bharta prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Digestive Health",
+      "Low Calorie",
+      "Antioxidant Rich"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1540420773420-1e54911d8d85?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "paneer_bhurji": {
+    "food_id": "paneer_bhurji",
+    "canonical_name": "Paneer Bhurji",
+    "aliases": [
+      "Paneer Bhurji",
+      "Paneer Bhurji"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Curries & Gravies",
+    "cuisine": "North Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1589301760014-b61548e65839?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PANEER_BHURJI",
+    "description": "Authentic Paneer Bhurji prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Protein Breakfast",
+      "Muscle Recovery",
+      "Keto Friendly"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1589301760014-b61548e65839?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "chicken_curry": {
+    "food_id": "chicken_curry",
+    "canonical_name": "Homestyle Chicken Curry",
+    "aliases": [
+      "Homestyle Chicken Curry",
+      "Chicken Curry"
+    ],
+    "category": "Meat & Poultry",
+    "subcategory": "Curries & Gravies",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CHICKEN_CURRY",
+    "description": "Authentic Homestyle Chicken Curry prepared with wholesome ingredients.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Lean Protein",
+      "Immunity",
+      "Satiety"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "mutton_curry": {
+    "food_id": "mutton_curry",
+    "canonical_name": "Mutton Rogan Josh",
+    "aliases": [
+      "Mutton Rogan Josh",
+      "Mutton Curry"
+    ],
+    "category": "Meat & Poultry",
+    "subcategory": "Curries & Gravies",
+    "cuisine": "Kashmiri / Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1545247181-516773ca838b?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MUTTON_CURRY",
+    "description": "Authentic Mutton Rogan Josh prepared with wholesome ingredients.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Iron Rich",
+      "Vitamin B12",
+      "Strength Building"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1545247181-516773ca838b?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "dal_tadka": {
+    "food_id": "dal_tadka",
+    "canonical_name": "Dal Tadka",
+    "aliases": [
+      "Dal Tadka",
+      "Dal Tadka"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Dals & Lentils",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1585937421612-3847bb411681?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_DAL_TADKA",
+    "description": "Authentic Dal Tadka prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Plant Protein",
+      "Gut Health",
+      "Folate Source"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1585937421612-3847bb411681?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "sambar": {
+    "food_id": "sambar",
+    "canonical_name": "South Indian Sambar",
+    "aliases": [
+      "South Indian Sambar",
+      "Sambar"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "South Indian Dishes",
+    "cuisine": "South Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_SAMBAR",
+    "description": "Authentic South Indian Sambar prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Low Calorie",
+      "High Fiber",
+      "Digestive Enzymes"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "rasam": {
+    "food_id": "rasam",
+    "canonical_name": "Tomato Pepper Rasam",
+    "aliases": [
+      "Tomato Pepper Rasam",
+      "Rasam"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "South Indian Dishes",
+    "cuisine": "South Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_RASAM",
+    "description": "Authentic Tomato Pepper Rasam prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Cold & Cough Relief",
+      "Metabolism Boost",
+      "Hydration"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "naan": {
+    "food_id": "naan",
+    "canonical_name": "Butter Naan",
+    "aliases": [
+      "Butter Naan",
+      "Naan"
+    ],
+    "category": "Indian Breads & Rice",
+    "subcategory": "Breads & Roti",
+    "cuisine": "North Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1601050690597-94f72db77189?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_NAAN",
+    "description": "Authentic Butter Naan prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Carb Fuel",
+      "Traditional Pairing"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1601050690597-94f72db77189?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "appam": {
+    "food_id": "appam",
+    "canonical_name": "Kerala Appam",
+    "aliases": [
+      "Kerala Appam",
+      "Appam"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "South Indian Dishes",
+    "cuisine": "Kerala / South Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_APPAM",
+    "description": "Authentic Kerala Appam prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Easy to Digest",
+      "Fermented Probiotic",
+      "Low Fat"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "strawberry": {
+    "food_id": "strawberry",
+    "canonical_name": "Fresh Strawberry",
+    "aliases": [
+      "Fresh Strawberry",
+      "Strawberry"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Berries",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_STRAWBERRY",
+    "description": "Authentic Fresh Strawberry prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Vitamin C",
+      "Cardiovascular Health",
+      "Low Glycemic Index"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "watermelon": {
+    "food_id": "watermelon",
+    "canonical_name": "Fresh Watermelon",
+    "aliases": [
+      "Fresh Watermelon",
+      "Watermelon"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Melons",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_WATERMELON",
+    "description": "Authentic Fresh Watermelon prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Lycopene Antioxidants",
+      "Maximum Hydration",
+      "Post-Workout Refresh"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "grapes": {
+    "food_id": "grapes",
+    "canonical_name": "Fresh Grapes",
+    "aliases": [
+      "Fresh Grapes",
+      "Grapes"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Table Grapes",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_GRAPES",
+    "description": "Authentic Fresh Grapes prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Resveratrol",
+      "Heart Function",
+      "Brain Protection"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "guava": {
+    "food_id": "guava",
+    "canonical_name": "Fresh Guava (Amrood)",
+    "aliases": [
+      "Fresh Guava (Amrood)",
+      "Guava"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Tropical Fruits",
+    "cuisine": "Indian / Tropical",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1536511135898-752b0d49281c?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_GUAVA",
+    "description": "Authentic Fresh Guava (Amrood) prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Ultra High Vitamin C (4x Orange)",
+      "Gut Motility",
+      "Blood Sugar Regulation"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1536511135898-752b0d49281c?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "papaya": {
+    "food_id": "papaya",
+    "canonical_name": "Fresh Papaya (Papita)",
+    "aliases": [
+      "Fresh Papaya (Papita)",
+      "Papaya"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Tropical Fruits",
+    "cuisine": "Indian / Tropical",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PAPAYA",
+    "description": "Authentic Fresh Papaya (Papita) prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Papain Digestive Enzyme",
+      "Skin Glow",
+      "Immunity"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "kiwi": {
+    "food_id": "kiwi",
+    "canonical_name": "Fresh Kiwi",
+    "aliases": [
+      "Fresh Kiwi",
+      "Kiwi"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Exotic Fruits",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1585059895524-72359e06133a?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_KIWI",
+    "description": "Authentic Fresh Kiwi prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Immune Defense",
+      "Sleep Quality",
+      "Asthma Relief"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1585059895524-72359e06133a?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "pineapple": {
+    "food_id": "pineapple",
+    "canonical_name": "Fresh Pineapple (Ananas)",
+    "aliases": [
+      "Fresh Pineapple (Ananas)",
+      "Pineapple"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Tropical Fruits",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PINEAPPLE",
+    "description": "Authentic Fresh Pineapple (Ananas) prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Bromelain Enzyme",
+      "Anti-Inflammatory",
+      "Joint Recovery"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "pomegranate": {
+    "food_id": "pomegranate",
+    "canonical_name": "Fresh Pomegranate (Anaar)",
+    "aliases": [
+      "Fresh Pomegranate (Anaar)",
+      "Pomegranate"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Arils & Seeds",
+    "cuisine": "Indian / Mediterranean",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_POMEGRANATE",
+    "description": "Authentic Fresh Pomegranate (Anaar) prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Punicalagins Antioxidant",
+      "Blood Pressure Support",
+      "Memory"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "avocado": {
+    "food_id": "avocado",
+    "canonical_name": "Fresh Avocado",
+    "aliases": [
+      "Fresh Avocado",
+      "Avocado"
+    ],
+    "category": "Fresh Fruits",
+    "subcategory": "Healthy Fats",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_AVOCADO",
+    "description": "Authentic Fresh Avocado prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Monounsaturated Healthy Fats",
+      "Cholesterol Lowering",
+      "Keto Essential"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "cucumber": {
+    "food_id": "cucumber",
+    "canonical_name": "Fresh Cucumber (Kheera)",
+    "aliases": [
+      "Fresh Cucumber (Kheera)",
+      "Cucumber"
+    ],
+    "category": "Fresh Vegetables",
+    "subcategory": "Salad Vegetables",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CUCUMBER",
+    "description": "Authentic Fresh Cucumber (Kheera) prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Ultra Low Calorie",
+      "Electrolyte Balance",
+      "Skin Cooling"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "cauliflower": {
+    "food_id": "cauliflower",
+    "canonical_name": "Fresh Cauliflower (Gobi)",
+    "aliases": [
+      "Fresh Cauliflower (Gobi)",
+      "Cauliflower"
+    ],
+    "category": "Fresh Vegetables",
+    "subcategory": "Cruciferous Vegetables",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1568584711075-3d021a7c3ca3?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CAULIFLOWER",
+    "description": "Authentic Fresh Cauliflower (Gobi) prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Sulforaphane Detox",
+      "Low Carb Rice Substitute",
+      "Choline Source"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1568584711075-3d021a7c3ca3?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "ginger": {
+    "food_id": "ginger",
+    "canonical_name": "Fresh Ginger Root (Adrak)",
+    "aliases": [
+      "Fresh Ginger Root (Adrak)",
+      "Ginger"
+    ],
+    "category": "Fresh Vegetables",
+    "subcategory": "Roots & Spices",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_GINGER",
+    "description": "Authentic Fresh Ginger Root (Adrak) prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Gingerol Anti-Nausea",
+      "Digestive Fire",
+      "Pain Reduction"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "corn": {
+    "food_id": "corn",
+    "canonical_name": "Sweet Corn (Bhutta)",
+    "aliases": [
+      "Sweet Corn (Bhutta)",
+      "Corn"
+    ],
+    "category": "Fresh Vegetables",
+    "subcategory": "Grains & Kernels",
+    "cuisine": "Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_CORN",
+    "description": "Authentic Sweet Corn (Bhutta) prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Lutein & Zeaxanthin (Eye Health)",
+      "Energy",
+      "Dietary Fiber"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegan"
+  },
+  "rasmalai": {
+    "food_id": "rasmalai",
+    "canonical_name": "Kesar Pista Rasmalai",
+    "aliases": [
+      "Kesar Pista Rasmalai",
+      "Rasmalai"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Milk Sweets",
+    "cuisine": "Bengali / Pan-India",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1541781774459-d2b38466b07c?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_RASMALAI",
+    "description": "Authentic Kesar Pista Rasmalai prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Calcium & Protein",
+      "Festive Energy"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1541781774459-d2b38466b07c?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "shrikhand": {
+    "food_id": "shrikhand",
+    "canonical_name": "Shrikhand",
+    "aliases": [
+      "Amrakhand",
+      "Kesar Pista Shrikhand",
+      "Hung Curd Dessert"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Yogurt Dessert",
+    "cuisine": "Indian (Maharashtra / Gujarat)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Protein Probiotic Treat",
+      "Calcium Strength"
+    ],
+    "description": "Silky, dense dessert made by straining yogurt into hung curd (chakka), whipped with powdered sugar, saffron, green cardamom, and pistachios.",
+    "nutrition_id": "USDA_ICMR_SHRIKHAND"
+  },
+  "rabri": {
+    "food_id": "rabri",
+    "canonical_name": "Rabri",
+    "aliases": [
+      "Rabdi",
+      "Lachhedar Rabri",
+      "Creamy Reduced Milk"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Milk Dessert",
+    "cuisine": "North Indian (Varanasi / Mathura)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Exceptional Calcium",
+      "Dense Protein",
+      "Traditional Treat"
+    ],
+    "description": "Rich Northern dessert made by simmering whole milk on low heat, gathering layers of clotted malai, and sweetening with saffron and green cardamom.",
+    "nutrition_id": "USDA_ICMR_RABRI"
+  },
+  "masala_chai": {
+    "food_id": "masala_chai",
+    "canonical_name": "Indian Masala Chai",
+    "aliases": [
+      "Indian Masala Chai",
+      "Masala Chai"
+    ],
+    "category": "Beverages",
+    "subcategory": "Hot Beverages",
+    "cuisine": "Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MASALA_CHAI",
+    "description": "Authentic Indian Masala Chai prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Spiced Antioxidants (Cardamom/Ginger/Cinnamon)",
+      "Mental Alertness"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "filter_coffee": {
+    "food_id": "filter_coffee",
+    "canonical_name": "South Indian Filter Coffee",
+    "aliases": [
+      "South Indian Filter Coffee",
+      "Filter Coffee"
+    ],
+    "category": "Beverages",
+    "subcategory": "Hot Beverages",
+    "cuisine": "South Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_FILTER_COFFEE",
+    "description": "Authentic South Indian Filter Coffee prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Polyphenols",
+      "Cognitive Focus",
+      "Metabolic Awakening"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "mango_lassi": {
+    "food_id": "mango_lassi",
+    "canonical_name": "Fresh Mango Lassi",
+    "aliases": [
+      "Fresh Mango Lassi",
+      "Mango Lassi"
+    ],
+    "category": "Beverages",
+    "subcategory": "Yogurt Drinks",
+    "cuisine": "Punjabi / Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1553787499-6f9133860278?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_MANGO_LASSI",
+    "description": "Authentic Fresh Mango Lassi prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Probiotics + Vitamin A/C",
+      "Cooling Sensation",
+      "Post-Meal Digestion"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1553787499-6f9133860278?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "sweet_lassi": {
+    "food_id": "sweet_lassi",
+    "canonical_name": "Punjabi Sweet Lassi",
+    "aliases": [
+      "Punjabi Sweet Lassi",
+      "Sweet Lassi"
+    ],
+    "category": "Beverages",
+    "subcategory": "Yogurt Drinks",
+    "cuisine": "Punjabi / Indian",
+    "country": "India",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_SWEET_LASSI",
+    "description": "Authentic Punjabi Sweet Lassi prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Gut Microbiome Support",
+      "Summer Refreshment",
+      "Natural Hydration"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "sushi": {
+    "food_id": "sushi",
+    "canonical_name": "Salmon Avocado Sushi Roll",
+    "aliases": [
+      "Salmon Avocado Sushi Roll",
+      "Sushi"
+    ],
+    "category": "Fish & Seafood",
+    "subcategory": "Japanese Cuisine",
+    "cuisine": "Japanese",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_SUSHI",
+    "description": "Authentic Salmon Avocado Sushi Roll prepared with wholesome ingredients.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": true,
+    "contains_shellfish": false,
+    "good_for": [
+      "Omega-3 Fatty Acids",
+      "Thyroid Iodine Support",
+      "Clean Lean Nutrition"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "tacos": {
+    "food_id": "tacos",
+    "canonical_name": "Mexican Street Tacos",
+    "aliases": [
+      "Mexican Street Tacos",
+      "Tacos"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Mexican Cuisine",
+    "cuisine": "Mexican",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_TACOS",
+    "description": "Authentic Mexican Street Tacos prepared with wholesome ingredients.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Balanced Macros",
+      "Fiber & Protein"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "burrito": {
+    "food_id": "burrito",
+    "canonical_name": "Stuffed Mexican Burrito",
+    "aliases": [
+      "Stuffed Mexican Burrito",
+      "Burrito"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Mexican Cuisine",
+    "cuisine": "Mexican",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BURRITO",
+    "description": "Authentic Stuffed Mexican Burrito prepared with wholesome ingredients.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Complex Carbohydrates",
+      "High Fiber Filling"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "ramen": {
+    "food_id": "ramen",
+    "canonical_name": "Japanese Miso Ramen",
+    "aliases": [
+      "Japanese Miso Ramen",
+      "Ramen"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Japanese Cuisine",
+    "cuisine": "Japanese",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1569718212165-22a49b6d213d?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_RAMEN",
+    "description": "Authentic Japanese Miso Ramen prepared with wholesome ingredients.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Collagen Broth",
+      "Comforting Meal"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1569718212165-22a49b6d213d?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "waffles": {
+    "food_id": "waffles",
+    "canonical_name": "Belgian Waffles with Syrup",
+    "aliases": [
+      "Belgian Waffles with Syrup",
+      "Waffles"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Breakfast & Bakery",
+    "cuisine": "Belgian / Continental",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_WAFFLES",
+    "description": "Authentic Belgian Waffles with Syrup prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Quick Morning Energy",
+      "Crisp Texture"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "pancakes": {
+    "food_id": "pancakes",
+    "canonical_name": "Fluffy Buttermilk Pancakes",
+    "aliases": [
+      "Fluffy Buttermilk Pancakes",
+      "Pancakes"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Breakfast & Bakery",
+    "cuisine": "American / Continental",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_PANCAKES",
+    "description": "Authentic Fluffy Buttermilk Pancakes prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Classic Breakfast",
+      "Soft Fluffy Texture"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "apple_pie": {
+    "food_id": "apple_pie",
+    "canonical_name": "Classic Cinnamon Apple Pie",
+    "aliases": [
+      "Classic Cinnamon Apple Pie",
+      "Apple Pie"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Desserts & Bakery",
+    "cuisine": "American / Global",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1535920527002-b35e96722eb9?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_APPLE_PIE",
+    "description": "Authentic Classic Cinnamon Apple Pie prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Comfort Dessert",
+      "Baked Fruit Goodness"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1535920527002-b35e96722eb9?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "baklava": {
+    "food_id": "baklava",
+    "canonical_name": "Pistachio Honey Baklava",
+    "aliases": [
+      "Pistachio Honey Baklava",
+      "Baklava"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Desserts & Pastry",
+    "cuisine": "Middle Eastern / Turkish",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1519869325930-281384150729?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BAKLAVA",
+    "description": "Authentic Pistachio Honey Baklava prepared with wholesome ingredients.",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutrient Dense Nuts",
+      "Flaky Filo Layers"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1519869325930-281384150729?auto=format&fit=crop&w=800&q=80",
+    "type": "Vegetarian"
+  },
+  "bibimbap": {
+    "food_id": "bibimbap",
+    "canonical_name": "Korean Stone Pot Bibimbap",
+    "aliases": [
+      "Korean Stone Pot Bibimbap",
+      "Bibimbap"
+    ],
+    "category": "Fast Food & Global",
+    "subcategory": "Korean Cuisine",
+    "cuisine": "Korean",
+    "country": "Global",
+    "region": "Pan-India",
+    "image": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?auto=format&fit=crop&w=800&q=80",
+    "nutrition_id": "NUTRITION_BIBIMBAP",
+    "description": "Authentic Korean Stone Pot Bibimbap prepared with wholesome ingredients.",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nutrient Rainbow",
+      "Gochujang Metabolism Boost",
+      "Balanced Complete Meal"
+    ],
+    "verified": true,
+    "representative_image": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?auto=format&fit=crop&w=800&q=80",
+    "type": "Non-Vegetarian"
+  },
+  "adhirasam": {
+    "food_id": "adhirasam",
+    "canonical_name": "Adhirasam",
+    "aliases": [
+      "Kajjaya",
+      "Ariselu",
+      "Athirasa",
+      "South Indian Sweet Pastry"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Traditional Pastry",
+    "cuisine": "South Indian (Tamil Nadu / Karnataka)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Festive Energy",
+      "Iron Boost from Jaggery"
+    ],
+    "description": "Deep-fried traditional South Indian sweet doughnut made from aged raw rice flour, jaggery syrup, cardamom, and sesame seeds.",
+    "nutrition_id": "USDA_ICMR_ADHIRASAM"
+  },
+  "anarsa": {
+    "food_id": "anarsa",
+    "canonical_name": "Anarsa",
+    "aliases": [
+      "Adhirasam North",
+      "Maharashtrian Anarsa",
+      "Bihari Anarsa"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Rice Sweet",
+    "cuisine": "Indian (Maharashtra / Bihar)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1599488615731-10c59828fa68?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Festive Dessert",
+      "Sustained Energy"
+    ],
+    "description": "Crisp fermented rice pastry soaked with jaggery or sugar, coated with poppy seeds and shallow fried in pure ghee.",
+    "nutrition_id": "USDA_ICMR_ANARSA"
+  },
+  "ariselu": {
+    "food_id": "ariselu",
+    "canonical_name": "Ariselu",
+    "aliases": [
+      "Arisa",
+      "Kajja",
+      "Telugu Festive Rice Sweet"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Traditional Pastry",
+    "cuisine": "South Indian (Andhra Pradesh / Telangana)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Rich Iron Content",
+      "Natural Jaggery Energy"
+    ],
+    "description": "Authentic Andhra harvest festive delicacy made from fresh ground rice dough, dark organic jaggery, cardamom, and sesame seeds.",
+    "nutrition_id": "USDA_ICMR_ARISELU"
+  },
+  "bandar_laddu": {
+    "food_id": "bandar_laddu",
+    "canonical_name": "Bandar Laddu",
+    "aliases": [
+      "Thokkudu Laddu",
+      "Machilipatnam Laddu"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Laddu",
+    "cuisine": "South Indian (Andhra Pradesh)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Protein Sweet",
+      "Festive Celebrations"
+    ],
+    "description": "Geographical Indication (GI) tagged Andhra delicacy made from finely pounded gram flour boondi dough, sugar syrup, ghee, and roasted cashews.",
+    "nutrition_id": "USDA_ICMR_BANDAR_LADDU"
+  },
+  "basundi": {
+    "food_id": "basundi",
+    "canonical_name": "Basundi",
+    "aliases": [
+      "Rabdi Gujarat",
+      "Sweet Condensed Milk Dessert"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Milk Dessert",
+    "cuisine": "Indian (Gujarat / Maharashtra)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Calcium",
+      "Bone Strength & Quality Protein"
+    ],
+    "description": "Rich and creamy thickened whole milk dessert flavored with green cardamom, saffron strands, and slivered pistachios and almonds.",
+    "nutrition_id": "USDA_ICMR_BASUNDI"
+  },
+  "besan_cheela": {
+    "food_id": "besan_cheela",
+    "canonical_name": "Besan Cheela",
+    "aliases": [
+      "Besan Puda",
+      "Gram Flour Savory Pancake",
+      "Besan Dosa"
+    ],
+    "category": "Healthy Staples & Breakfast",
+    "subcategory": "Pancake",
+    "cuisine": "North Indian",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1626777552737-0130f1469e38?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Plant Protein",
+      "Low Glycemic Index",
+      "Weight Management"
+    ],
+    "description": "Nutrient-dense savory Indian pancake prepared with spiced chickpea gram flour batter, diced onions, tomatoes, ginger, and fresh cilantro.",
+    "nutrition_id": "USDA_ICMR_BESAN_CHEELA"
+  },
+  "bhatura": {
+    "food_id": "bhatura",
+    "canonical_name": "Bhatura",
+    "aliases": [
+      "Bhatoora",
+      "Puffed Leavened Bread",
+      "Punjabi Bhature"
+    ],
+    "category": "Breads & Roti",
+    "subcategory": "Fried Bread",
+    "cuisine": "North Indian (Punjab)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1626777552726-38d58c9735d4?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Hearty Energy",
+      "Authentic Punjabi Pairing"
+    ],
+    "description": "Fluffy, deep-fried leavened sourdough bread made from refined flour, yogurt, and semolina, traditionally served hot with spicy Chole.",
+    "nutrition_id": "USDA_ICMR_BHATURA"
+  },
+  "boondi": {
+    "food_id": "boondi",
+    "canonical_name": "Boondi",
+    "aliases": [
+      "Kara Boondi",
+      "Meethi Boondi",
+      "Crisp Gram Flour Pearls"
+    ],
+    "category": "Snacks & Appetizers",
+    "subcategory": "Crispy Snack",
+    "cuisine": "Indian Regional",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1599488615731-10c59828fa68?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Protein Snack",
+      "Versatile Raita Crunch"
+    ],
+    "description": "Crisp golden fried miniature pearls of spiced gram flour batter, used in raitas, chaats, or sweetened as festive treats.",
+    "nutrition_id": "USDA_ICMR_BOONDI"
+  },
+  "chak_hao_kheer": {
+    "food_id": "chak_hao_kheer",
+    "canonical_name": "Chak-Hao Kheer",
+    "aliases": [
+      "Manipuri Black Rice Pudding",
+      "Forbidden Rice Kheer"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Rice Pudding",
+    "cuisine": "North-East Indian (Manipur)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1516714435131-02b4d93a6192?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Super Antioxidant Anthocyanins",
+      "Gut Health",
+      "Unique Flavor"
+    ],
+    "description": "Exotic royal purple pudding made from Manipur GI-tagged aromatic black rice (Chak-Hao) simmered with milk, cardamom, and roasted nuts.",
+    "nutrition_id": "USDA_ICMR_CHAK_HAO_KHEER"
+  },
+  "cham_cham": {
+    "food_id": "cham_cham",
+    "canonical_name": "Cham Cham",
+    "aliases": [
+      "Chomchom",
+      "Bengali Sweet",
+      "Mawa Stuffed Cham Cham"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Chhena Sweet",
+    "cuisine": "East Indian (Bengal)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Quality Chhena Protein",
+      "High Calcium"
+    ],
+    "description": "Traditional Bengali sweet made from fresh artisanal curd cheese (chhena) cooked in light cardamom sugar syrup and garnished with desiccated coconut.",
+    "nutrition_id": "USDA_ICMR_CHAM_CHAM"
+  },
+  "chhena_kheeri": {
+    "food_id": "chhena_kheeri",
+    "canonical_name": "Chhena Kheeri",
+    "aliases": [
+      "Odia Chhena Payas",
+      "Paneer Kheer",
+      "Cottage Cheese Pudding"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Milk Dessert",
+    "cuisine": "East Indian (Odisha)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Protein-Dense Dessert",
+      "Calcium & Mineral Wealth"
+    ],
+    "description": "Creamy delicacy from Coastal Odisha prepared with fine crumbles of fresh homemade chhena simmered slowly in sweetened saffron reduced milk.",
+    "nutrition_id": "USDA_ICMR_CHHENA_KHEERI"
+  },
+  "chicken_razala": {
+    "food_id": "chicken_razala",
+    "canonical_name": "Chicken Razala",
+    "aliases": [
+      "Kolkata Chicken Rezala",
+      "Mughlai White Curry"
+    ],
+    "category": "Meat, Poultry & Seafood",
+    "subcategory": "Chicken Curry",
+    "cuisine": "Indian (Bengal / Mughlai)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Lean Protein Muscle Recovery",
+      "Mughlai Richness"
+    ],
+    "description": "Royal Mughlai aromatic white chicken stew slow-simmered in rich cashew-poppy seed paste, whole dried red chilies, yogurt, and kewra water.",
+    "nutrition_id": "USDA_ICMR_CHICKEN_RAZALA"
+  },
+  "chicken_tikka_masala": {
+    "food_id": "chicken_tikka_masala",
+    "canonical_name": "Chicken Tikka Masala",
+    "aliases": [
+      "CTM",
+      "Tikka Curry",
+      "Tandoori Chicken Curry"
+    ],
+    "category": "Meat, Poultry & Seafood",
+    "subcategory": "Chicken Curry",
+    "cuisine": "Anglo-Indian / Global",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": true,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Protein",
+      "Global Comfort Favorite"
+    ],
+    "description": "Charred tandoori chicken tikka chunks simmered in a luscious, spiced tomato, cream, butter, and fenugreek gravy.",
+    "nutrition_id": "USDA_ICMR_CHICKEN_TIKKA_MASALA"
+  },
+  "daal_baati_churma": {
+    "food_id": "daal_baati_churma",
+    "canonical_name": "Daal Baati Churma",
+    "aliases": [
+      "Dal Bati Churma",
+      "Rajasthani Royal Platter"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Specialty Platter",
+    "cuisine": "North Indian (Rajasthan)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Traditional Sustained Energy",
+      "Complete Amino Acid Balance"
+    ],
+    "description": "Iconic Rajasthani culinary ensemble: baked wheat flour baatis dunked in desi ghee, served with spicy 5-lentil panchmel dal and sweet powdered churma.",
+    "nutrition_id": "USDA_ICMR_DAAL_BAATI_CHURMA"
+  },
+  "daal_puri": {
+    "food_id": "daal_puri",
+    "canonical_name": "Daal Puri",
+    "aliases": [
+      "Dal Poori",
+      "Bihari Dal Puri",
+      "Spiced Lentil Stuffed Puffed Bread"
+    ],
+    "category": "Breads & Roti",
+    "subcategory": "Stuffed Bread",
+    "cuisine": "North Indian (Bihar / UP / Bengal)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Plant Protein Bread",
+      "Nutritious Fiber"
+    ],
+    "description": "Puffed whole wheat flatbreads stuffed with seasoned, roasted chana dal spiced with cumin, ajwain, and ginger, deep fried until golden.",
+    "nutrition_id": "USDA_ICMR_DAAL_PURI"
+  },
+  "dharwad_pedha": {
+    "food_id": "dharwad_pedha",
+    "canonical_name": "Dharwad Pedha",
+    "aliases": [
+      "Dharwad Peda",
+      "Karnataka Brown Peda",
+      "GI Tagged Dharwad Sweet"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Peda",
+    "cuisine": "South Indian (Karnataka)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1599488615731-10c59828fa68?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Dense Calcium",
+      "Rich Authentic Heritage"
+    ],
+    "description": "GI-tagged historic Karnataka dessert made from caramelized mawa (khoya) from Dharwad buffalo milk, sugar, cardamom, and coated with castor sugar.",
+    "nutrition_id": "USDA_ICMR_DHARWAD_PEDHA"
+  },
+  "doodhpak": {
+    "food_id": "doodhpak",
+    "canonical_name": "Doodhpak",
+    "aliases": [
+      "Gujarati Doodhpak",
+      "Spiced Rice Milk Payas"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Milk Dessert",
+    "cuisine": "Indian (Gujarat)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Calcium Wealth",
+      "Festive Digestion Boost"
+    ],
+    "description": "Semi-thickened sweet rice pudding enriched with charoli (chironji seeds), saffron, nutmeg, and cardamom, paired traditionally with hot pooris.",
+    "nutrition_id": "USDA_ICMR_DOODHPAK"
+  },
+  "double_ka_meetha": {
+    "food_id": "double_ka_meetha",
+    "canonical_name": "Double Ka Meetha",
+    "aliases": [
+      "Hyderabadi Bread Pudding",
+      "Shahi Tukda South"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Bread Sweet",
+    "cuisine": "South Indian (Hyderabad)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Royal Celebration",
+      "Instant Energy"
+    ],
+    "description": "Nizami Hyderabadi specialty prepared by frying milk bread in pure ghee, soaking in fragrant saffron-cardamom sugar syrup, and drenching in thick rabri.",
+    "nutrition_id": "USDA_ICMR_DOUBLE_KA_MEETHA"
+  },
+  "dum_aloo": {
+    "food_id": "dum_aloo",
+    "canonical_name": "Dum Aloo",
+    "aliases": [
+      "Kashmiri Dum Aloo",
+      "Banarasi Dum Aloo",
+      "Spiced Baby Potato Curry"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Potato Curry",
+    "cuisine": "North Indian (Kashmir / UP)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Potassium",
+      "Vitamin C",
+      "Aromatic Spices"
+    ],
+    "description": "Baby potatoes pricked and fried golden, then slow-cooked (dum) in a fragrant fennel, dry ginger, and Kashmiri chili yogurt gravy.",
+    "nutrition_id": "USDA_ICMR_DUM_ALOO"
+  },
+  "gavvalu": {
+    "food_id": "gavvalu",
+    "canonical_name": "Gavvalu",
+    "aliases": [
+      "Teepi Gavvalu",
+      "Shell Shaped Sweet",
+      "Andhra Gavvalu"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Traditional Pastry",
+    "cuisine": "South Indian (Andhra Pradesh)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Natural Jaggery Iron",
+      "Crunchy Festive Snack"
+    ],
+    "description": "Traditional Andhra shell-shaped crisp pastries rolled on a wooden gavvala board, fried crisp, and coated in rich jaggery cardamom syrup.",
+    "nutrition_id": "USDA_ICMR_GAVVALU"
+  },
+  "imarti": {
+    "food_id": "imarti",
+    "canonical_name": "Imarti",
+    "aliases": [
+      "Amriti",
+      "Jhangri",
+      "Urad Dal Circular Sweet"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Fried Sweet",
+    "cuisine": "Indian (North / South)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Higher Protein than Jalebi",
+      "Festive Celebrations"
+    ],
+    "description": "Ornate circular floral sweet made from ground black gram (urad dal) batter piped into hot ghee, fried crisp, and soaked in cardamom saffron syrup.",
+    "nutrition_id": "USDA_ICMR_IMARTI"
+  },
+  "kadhi_pakoda": {
+    "food_id": "kadhi_pakoda",
+    "canonical_name": "Kadhi Pakoda",
+    "aliases": [
+      "Punjabi Kadhi",
+      "Besan Kadhi with Fritters",
+      "Yogurt Curry"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Kadhi",
+    "cuisine": "North Indian",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Gut Probiotics from Yogurt",
+      "Comfort Food Harmony"
+    ],
+    "description": "Tangy, spiced yogurt and chickpea flour gravy simmered with fenugreek, mustard, and curry leaves, filled with crisp fried onion pakodas.",
+    "nutrition_id": "USDA_ICMR_KADHI_PAKODA"
+  },
+  "kajjikaya": {
+    "food_id": "kajjikaya",
+    "canonical_name": "Kajjikaya",
+    "aliases": [
+      "Karanji South",
+      "Gujiya Andhra",
+      "Sweet Crescent Pastry"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Stuffed Pastry",
+    "cuisine": "South Indian (Andhra Pradesh / Karnataka)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Festive Favorite",
+      "Wholesome Coconut Nutrients"
+    ],
+    "description": "Crisp crescent-shaped deep-fried pastry filled with sweet roasted semolina, desiccated coconut, sugar, cardamom, and sesame seeds.",
+    "nutrition_id": "USDA_ICMR_KAJJIKAYA"
+  },
+  "kakinada_khaja": {
+    "food_id": "kakinada_khaja",
+    "canonical_name": "Kakinada Khaja",
+    "aliases": [
+      "Gottam Khaja",
+      "Andhra Layered Sweet",
+      "Kakinada Gottam Khaja"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Layered Pastry",
+    "cuisine": "South Indian (Andhra Pradesh)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Authentic Culinary Heritage",
+      "Festive Celebrations"
+    ],
+    "description": "Iconic cylindrical layered pastry from Kakinada with a crisp multi-layered outer crust holding a burst of fragrant sugar syrup inside.",
+    "nutrition_id": "USDA_ICMR_KAKINADA_KHAJA"
+  },
+  "kalakand": {
+    "food_id": "kalakand",
+    "canonical_name": "Kalakand",
+    "aliases": [
+      "Alwar Kalakand",
+      "Milk Cake",
+      "Granular Cheese Fudge"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Milk Fudge",
+    "cuisine": "North Indian (Rajasthan)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Protein Sweet",
+      "Exceptional Calcium for Bones"
+    ],
+    "description": "Traditional granular milk fudge made by slow-simmering fresh chhena and sweetened condensed milk flavored with cardamom and pistachios.",
+    "nutrition_id": "USDA_ICMR_KALAKAND"
+  },
+  "karela_bharta": {
+    "food_id": "karela_bharta",
+    "canonical_name": "Karela Bharta",
+    "aliases": [
+      "Bitter Gourd Mash",
+      "Karela Chokha",
+      "Spiced Bitter Melon"
+    ],
+    "category": "Vegetables & Greens",
+    "subcategory": "Mashed Vegetable",
+    "cuisine": "Indian (Bihar / Bengal)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Blood Sugar Regulation",
+      "Immunity Boost",
+      "Liver Health"
+    ],
+    "description": "Boiled or roasted bitter gourd mashed with pungent mustard oil, green chilies, onions, garlic, and sea salt.",
+    "nutrition_id": "USDA_ICMR_KARELA_BHARTA"
+  },
+  "kofta": {
+    "food_id": "kofta",
+    "canonical_name": "Kofta",
+    "aliases": [
+      "Malai Kofta",
+      "Lauki Kofta",
+      "Vegetable Dumplings in Gravy"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Kofta Curry",
+    "cuisine": "North Indian (Mughlai)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Royal Vegetable Dining",
+      "Rich Comfort"
+    ],
+    "description": "Delicate dumplings made from paneer, potato, or bottle gourd fried golden and served in a creamy cashew tomato spiced gravy.",
+    "nutrition_id": "USDA_ICMR_KOFTA"
+  },
+  "kuzhi_paniyaram": {
+    "food_id": "kuzhi_paniyaram",
+    "canonical_name": "Kuzhi Paniyaram",
+    "aliases": [
+      "Paniyaram",
+      "Guntha Ponganalu",
+      "Paddu",
+      "Appe"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "Breakfast / Snack",
+    "cuisine": "South Indian (Tamil Nadu / Karnataka / AP)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Gut Healthy Fermentation",
+      "Low Oil Light Meal"
+    ],
+    "description": "Crisp-on-the-outside, fluffy-inside fermented rice-lentil dumplings cooked in a special cast iron dimpled pan, tempered with mustard, onions, and curry leaves.",
+    "nutrition_id": "USDA_ICMR_KUZHI_PANIYARAM"
+  },
+  "lassi": {
+    "food_id": "lassi",
+    "canonical_name": "Lassi",
+    "aliases": [
+      "Sweet Lassi",
+      "Punjabi Lassi",
+      "Salted Lassi",
+      "Mango Lassi"
+    ],
+    "category": "Healthy Staples & Breakfast",
+    "subcategory": "Dairy Beverage",
+    "cuisine": "North Indian (Punjab)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Probiotic Digestion",
+      "Cooling Hydration & Calcium"
+    ],
+    "description": "Refreshing traditional Punjabi blended yogurt beverage churned with ice, cardamom, saffron, and a dollop of fresh clotted cream (malai).",
+    "nutrition_id": "USDA_ICMR_LASSI"
+  },
+  "ledikeni": {
+    "food_id": "ledikeni",
+    "canonical_name": "Ledikeni",
+    "aliases": [
+      "Lady Canning Sweet",
+      "Bengali Brown Sweet",
+      "Fried Chhena Dumpling"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Chhena Sweet",
+    "cuisine": "East Indian (Bengal)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1599488615731-10c59828fa68?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Historic Heritage Sweet",
+      "Calcium & Chhena Goodness"
+    ],
+    "description": "Historic 19th-century Kolkata delicacy crafted by Bhim Chandra Nag: fried chhena dumplings flavored with cardamom and soaked in light sugar syrup.",
+    "nutrition_id": "USDA_ICMR_LEDIKENI"
+  },
+  "litti_chokha": {
+    "food_id": "litti_chokha",
+    "canonical_name": "Litti Chokha",
+    "aliases": [
+      "Bihari Litti",
+      "Sattu Stuffed Litti",
+      "Bhojpuri Traditional Meal"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Specialty Platter",
+    "cuisine": "North Indian (Bihar / Jharkhand / Eastern UP)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Plant Protein",
+      "Rich Dietary Fiber",
+      "Wholesome Sattu Nutrition"
+    ],
+    "description": "Whole wheat balls stuffed with spiced roasted gram flour (sattu), baked over coal fire, dipped in desi ghee, and served with mashed brinjal-tomato chokha.",
+    "nutrition_id": "USDA_ICMR_LITTI_CHOKHA"
+  },
+  "lyangcha": {
+    "food_id": "lyangcha",
+    "canonical_name": "Lyangcha",
+    "aliases": [
+      "Langcha",
+      "Shaktigarh Langcha",
+      "Cylindrical Gulab Jamun"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Fried Sweet",
+    "cuisine": "East Indian (Bengal)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1599488615731-10c59828fa68?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Rich Indulgence",
+      "Traditional Bengal Pride"
+    ],
+    "description": "Famous Shaktigarh cylindrical fried sweet made from artisanal chhena and khoya dough, deep-fried dark and steeped in cardamom sugar syrup.",
+    "nutrition_id": "USDA_ICMR_LYANGCHA"
+  },
+  "maach_jhol": {
+    "food_id": "maach_jhol",
+    "canonical_name": "Maach Jhol",
+    "aliases": [
+      "Bengali Fish Curry",
+      "Rui Macher Jhol",
+      "Mustard Fish Curry"
+    ],
+    "category": "Meat, Poultry & Seafood",
+    "subcategory": "Seafood Curry",
+    "cuisine": "East Indian (Bengal / Odisha)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": false,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": true,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Omega-3 Fatty Acids",
+      "Heart Health & Lean Fish Protein"
+    ],
+    "description": "Comforting light Bengali fish curry cooked with Rohu or Katla fish steaks, potatoes, pointed gourd, turmeric, and freshly ground mustard and kalonji.",
+    "nutrition_id": "USDA_ICMR_MAACH_JHOL"
+  },
+  "makki_di_roti_sarson_da_saag": {
+    "food_id": "makki_di_roti_sarson_da_saag",
+    "canonical_name": "Makki di Roti & Sarson da Saag",
+    "aliases": [
+      "Corn Roti & Mustard Greens",
+      "Punjabi Winter Platter"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Specialty Platter",
+    "cuisine": "North Indian (Punjab)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Super Vitamin K & A Wealth",
+      "Immunity",
+      "Gluten-Free Corn Bread"
+    ],
+    "description": "Quintessential Punjabi winter feast: rustic unleavened yellow cornmeal flatbread paired with slow-cooked spiced mustard greens, spinach, and white butter.",
+    "nutrition_id": "USDA_ICMR_MAKKI_DI_ROTI_SARSON_DA_SAAG"
+  },
+  "malapua": {
+    "food_id": "malapua",
+    "canonical_name": "Malapua",
+    "aliases": [
+      "Malpua",
+      "Indian Sweet Pancake",
+      "Rabri Malpua"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Pancake",
+    "cuisine": "Indian (North / Odisha / Bengal)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Festive Energy",
+      "Holi & Jagannath Mahaprasad Delight"
+    ],
+    "description": "Fried spiced pancake prepared from flour, semolina, mashed banana, and fennel seeds, soaked in rich saffron syrup and topped with pistachios.",
+    "nutrition_id": "USDA_ICMR_MALAPUA"
+  },
+  "misi_roti": {
+    "food_id": "misi_roti",
+    "canonical_name": "Missi Roti",
+    "aliases": [
+      "Misi Roti",
+      "Spiced Gram Flour Flatbread",
+      "Rajasthani Missi Roti"
+    ],
+    "category": "Breads & Roti",
+    "subcategory": "Flatbread",
+    "cuisine": "North Indian (Punjab / Rajasthan)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Plant Protein",
+      "High Fiber Diabetic Friendly Bread"
+    ],
+    "description": "Nutritious North Indian flatbread made by blending whole wheat flour and chickpea gram flour with ajwain, kasuri methi, turmeric, and onions.",
+    "nutrition_id": "USDA_ICMR_MISI_ROTI"
+  },
+  "misti_doi": {
+    "food_id": "misti_doi",
+    "canonical_name": "Misti Doi",
+    "aliases": [
+      "Mishti Doi",
+      "Sweetened Caramel Yogurt",
+      "Bengali Claypot Yogurt"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Yogurt Dessert",
+    "cuisine": "East Indian (Bengal / Odisha)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Natural Probiotics",
+      "Gut Health & Cooling Calcium"
+    ],
+    "description": "Celebrated Bengali fermented sweet yogurt set in earthen clay pots with caramelized jaggery or palm sugar, giving it a distinctive nutty blush.",
+    "nutrition_id": "USDA_ICMR_MISTI_DOI"
+  },
+  "navrattan_korma": {
+    "food_id": "navrattan_korma",
+    "canonical_name": "Navrattan Korma",
+    "aliases": [
+      "Navratan Korma",
+      "Nine Gem Royal Vegetable Curry"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Vegetable Curry",
+    "cuisine": "North Indian (Mughlai)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Multi-Nutrient Vegetable Variety",
+      "Antioxidant Richness"
+    ],
+    "description": "Luxurious Mughlai curry containing nine assorted vegetables, paneer, fruits, and nuts in a velvety sweet-savory cashew and poppy seed gravy.",
+    "nutrition_id": "USDA_ICMR_NAVRATTAN_KORMA"
+  },
+  "pithe": {
+    "food_id": "pithe",
+    "canonical_name": "Pithe",
+    "aliases": [
+      "Pitha",
+      "Patishapta",
+      "Chushi Pitha",
+      "Bengali Rice Cake"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Stuffed Pastry",
+    "cuisine": "East Indian (Bengal / Assam / Odisha)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Nolen Gur Mineral Richness",
+      "Harvest Celebrations"
+    ],
+    "description": "Artisanal winter harvest treat: thin rice flour crepes rolled with a luscious filling of fresh coconut, khoya, and date palm jaggery (nolen gur).",
+    "nutrition_id": "USDA_ICMR_PITHE"
+  },
+  "poornalu": {
+    "food_id": "poornalu",
+    "canonical_name": "Poornalu",
+    "aliases": [
+      "Boorelu",
+      "Poornam Boorelu",
+      "Andhra Festive Stuffed Fritter"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Fried Sweet",
+    "cuisine": "South Indian (Andhra Pradesh / Telangana)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Plant Protein & Iron Boost",
+      "Authentic Telugu Tradition"
+    ],
+    "description": "Divine Andhra festive sweet: sphere of cooked chana dal, jaggery, and cardamom encased in a crisp fermented urad-rice batter and golden fried.",
+    "nutrition_id": "USDA_ICMR_POORNALU"
+  },
+  "pootharekulu": {
+    "food_id": "pootharekulu",
+    "canonical_name": "Pootharekulu",
+    "aliases": [
+      "Paper Sweet",
+      "Atreyapuram Pootharekulu",
+      "Sugar Paper Roll"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Wafer Sweet",
+    "cuisine": "South Indian (Andhra Pradesh - Atreyapuram)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Featherlight Crispy Sweet",
+      "Artisanal Craftsmanship"
+    ],
+    "description": "GI-tagged paper-thin edible rice starch wafer sheets hand-layered with pure ghee, powdered sugar or jaggery, and chopped dry fruits.",
+    "nutrition_id": "USDA_ICMR_POOTHAREKULU"
+  },
+  "qubani_ka_meetha": {
+    "food_id": "qubani_ka_meetha",
+    "canonical_name": "Qubani Ka Meetha",
+    "aliases": [
+      "Khubani Ka Meetha",
+      "Hyderabadi Apricot Dessert"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Fruit Dessert",
+    "cuisine": "South Indian (Hyderabad)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Potassium & Vitamin A",
+      "Rich Dietary Fiber",
+      "Heart Health"
+    ],
+    "description": "Royal Hyderabadi delicacy prepared from dried apricots stewed slowly with sugar, cardamom, and garnished with apricot almond kernels and clotted cream.",
+    "nutrition_id": "USDA_ICMR_QUBANI_KA_MEETHA"
+  },
+  "sandesh": {
+    "food_id": "sandesh",
+    "canonical_name": "Sandesh",
+    "aliases": [
+      "Shondesh",
+      "Nolen Gur Sandesh",
+      "Bengali Cottage Cheese Fudge"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Chhena Sweet",
+    "cuisine": "East Indian (Bengal)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Protein Low Fat Dessert",
+      "Rich Calcium"
+    ],
+    "description": "Refined Bengali dessert made from lightly kneaded fresh artisanal chhena gently cooked with date palm jaggery or sugar, shaped into delicate molds.",
+    "nutrition_id": "USDA_ICMR_SANDESH"
+  },
+  "shankarpali": {
+    "food_id": "shankarpali",
+    "canonical_name": "Shankarpali",
+    "aliases": [
+      "Shakarpara",
+      "Kurma Sweet",
+      "Diamond Sugar Bites"
+    ],
+    "category": "Snacks & Appetizers",
+    "subcategory": "Crispy Snack",
+    "cuisine": "Indian (Maharashtra / Gujarat / North)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Crunchy Tea Time Snack",
+      "Diwali Tradition"
+    ],
+    "description": "Crisp diamond-cut snack prepared from spiced flour dough sweetened with sugar or jaggery, flavored with cardamom, and fried until golden.",
+    "nutrition_id": "USDA_ICMR_SHANKARPALI"
+  },
+  "sheer_korma": {
+    "food_id": "sheer_korma",
+    "canonical_name": "Sheer Korma",
+    "aliases": [
+      "Sheer Khurma",
+      "Eid Vermicelli Pudding",
+      "Dates Milk Dessert"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Milk Dessert",
+    "cuisine": "Mughlai / Hyderabadi",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Calcium & Dates Iron",
+      "Festive Celebrations"
+    ],
+    "description": "Festive Eid dessert made by roasting fine vermicelli in ghee, slow-simmering in rich milk with dried dates, saffron, cardamom, and charoli nuts.",
+    "nutrition_id": "USDA_ICMR_SHEER_KORMA"
+  },
+  "sheera": {
+    "food_id": "sheera",
+    "canonical_name": "Sheera",
+    "aliases": [
+      "Suji Halwa",
+      "Rava Kesari North",
+      "Semolina Pudding"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Halwa",
+    "cuisine": "Indian Regional",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Instant Wholesome Energy",
+      "Traditional Prasad"
+    ],
+    "description": "Traditional roasted semolina pudding cooked in pure ghee, cardamom milk, and sugar, garnished with golden raisins and toasted cashews.",
+    "nutrition_id": "USDA_ICMR_SHEERA"
+  },
+  "sohan_halwa": {
+    "food_id": "sohan_halwa",
+    "canonical_name": "Sohan Halwa",
+    "aliases": [
+      "Multani Sohan Halwa",
+      "Crunchy Nutty Halwa",
+      "Caramelized Wheat Sweet"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Halwa",
+    "cuisine": "North Indian / Mughlai",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1589301760014-99b82142d590?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Dense Energy Confection",
+      "Rich Heritage Flavor"
+    ],
+    "description": "Dense, chewy caramelized confection made from sprouted wheat flour (angoori), milk, sugar, saffron, and loaded with almonds and pistachios.",
+    "nutrition_id": "USDA_ICMR_SOHAN_HALWA"
+  },
+  "sohan_papdi": {
+    "food_id": "sohan_papdi",
+    "canonical_name": "Sohan Papdi",
+    "aliases": [
+      "Soan Papdi",
+      "Flaky Besan Sweet",
+      "Patisa"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Flaky Sweet",
+    "cuisine": "North Indian",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1599488615731-10c59828fa68?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Flaky Melt-in-Mouth Texture",
+      "Diwali Gift Favorite"
+    ],
+    "description": "Delicate, crisp, multi-fibered cotton candy-like sweet made from gram flour, refined flour, ghee, sugar syrup, and cardamom.",
+    "nutrition_id": "USDA_ICMR_SOHAN_PAPDI"
+  },
+  "sutar_feni": {
+    "food_id": "sutar_feni",
+    "canonical_name": "Sutar Feni",
+    "aliases": [
+      "Sutarfeni",
+      "Shredded Dough Sweet",
+      "Rajasthan Cotton Sweet"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Flaky Sweet",
+    "cuisine": "Indian (Gujarat / Rajasthan)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Featherlight Sweet Strands",
+      "Festive Celebrations"
+    ],
+    "description": "Gossamer thread-like shredded sweet made from roasted all-purpose flour strings in ghee, steeped in sugar syrup and topped with pistachios.",
+    "nutrition_id": "USDA_ICMR_SUTAR_FENI"
+  },
+  "unni_appam": {
+    "food_id": "unni_appam",
+    "canonical_name": "Unni Appam",
+    "aliases": [
+      "Unniyappam",
+      "Neyyappam",
+      "Kerala Sweet Rice Fritter"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Fried Sweet",
+    "cuisine": "South Indian (Kerala)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Natural Jaggery & Banana Energy",
+      "Traditional Kerala Teatime"
+    ],
+    "description": "Beloved Kerala snack made from roasted rice flour, ripe bananas, dark jaggery, roasted coconut bits, cardamom, and fried in ghee appakarai.",
+    "nutrition_id": "USDA_ICMR_UNNI_APPAM"
+  },
+  "rolls": {
+    "food_id": "rolls",
+    "canonical_name": "Kathi & Spring Rolls",
+    "aliases": [
+      "Egg Roll",
+      "Veg Roll",
+      "Paneer Roll",
+      "Frankie",
+      "Spring Roll"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Wraps & Rolls",
+    "cuisine": "Indian Street Food",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1626777552726-5b4d75618b76?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Balanced On-The-Go Meal",
+      "Protein & Veggie Richness"
+    ],
+    "description": "Flaky paratha or crisp pastry wrapped around spicy paneer, egg, or sauteed vegetables with tangy mint-chili chutney and pickled onions.",
+    "nutrition_id": "USDA_ICMR_ROLLS"
+  },
+  "aloo_matar": {
+    "food_id": "aloo_matar",
+    "canonical_name": "Aloo Matar",
+    "aliases": [
+      "Aloo Mutter",
+      "Potato and Peas Curry",
+      "Punjabi Aloo Matar"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Curry",
+    "cuisine": "North Indian",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Potassium & Vitamin C",
+      "Plant Protein & Fiber"
+    ],
+    "description": "Comforting North Indian curry cooked with tender diced potatoes, sweet green peas, tomatoes, ginger, and aromatic spices.",
+    "nutrition_id": "USDA_ICMR_ALOO_MATAR"
+  },
+  "aloo_shimla_mirch": {
+    "food_id": "aloo_shimla_mirch",
+    "canonical_name": "Aloo Shimla Mirch",
+    "aliases": [
+      "Potato Capsicum Curry",
+      "Aloo Bell Pepper Stir Fry"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Dry Subzi",
+    "cuisine": "North Indian",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Super High Vitamin C",
+      "Antioxidant Boost",
+      "Low Calorie"
+    ],
+    "description": "Flavorful home-style stir fry of crisp green bell peppers and golden pan-roasted potatoes tossed with cumin, coriander, and amchur.",
+    "nutrition_id": "USDA_ICMR_ALOO_SHIMLA_MIRCH"
+  },
+  "paneer_butter_masala": {
+    "food_id": "paneer_butter_masala",
+    "canonical_name": "Paneer Butter Masala",
+    "aliases": [
+      "Paneer Makhani",
+      "Butter Paneer",
+      "Shahi Paneer Makhani"
+    ],
+    "category": "Indian Cuisines & Curries",
+    "subcategory": "Paneer Curry",
+    "cuisine": "North Indian (Punjab)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Quality Calcium & Protein",
+      "Royal Comfort Food"
+    ],
+    "description": "Soft artisanal cottage cheese cubes simmered in a velvety smooth tomato-butter sauce enriched with cashew cream and fragrant dried fenugreek leaves.",
+    "nutrition_id": "USDA_ICMR_PANEER_BUTTER_MASALA"
+  },
+  "ras_malai": {
+    "food_id": "ras_malai",
+    "canonical_name": "Ras Malai",
+    "aliases": [
+      "Rasmalai",
+      "Rossomalai",
+      "Royal Saffron Milk Sweet"
+    ],
+    "category": "Desserts & Sweets",
+    "subcategory": "Milk Dessert",
+    "cuisine": "East Indian (Bengal / Odisha)",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1547592166-418b76e01a88?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": false,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Calcium",
+      "Refreshing Chilled Milk Protein"
+    ],
+    "description": "Melt-in-mouth flattened chhena discs poached and immersed in chilled, sweetened, saffron-cardamom clotted milk garnished with pistachios.",
+    "nutrition_id": "USDA_ICMR_RAS_MALAI"
+  },
+  "dosa": {
+    "food_id": "dosa",
+    "canonical_name": "Dosa (Plain / Sada)",
+    "aliases": [
+      "Sada Dosa",
+      "Plain Dosa",
+      "Crispy Rice Crepe",
+      "Dosai"
+    ],
+    "category": "South Indian Specialties",
+    "subcategory": "Breakfast / Crepe",
+    "cuisine": "South Indian",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "Gut Probiotics from Natural Fermentation",
+      "Easy Digestion & Sustained Energy"
+    ],
+    "description": "Crisp golden fermented rice and black gram crepe roasted on a hot tawa with sesame oil or ghee, served with coconut chutney and sambar.",
+    "nutrition_id": "USDA_ICMR_DOSA"
+  },
+  "pakoda": {
+    "food_id": "pakoda",
+    "canonical_name": "Pakoda (Fritters)",
+    "aliases": [
+      "Pakora",
+      "Bhajiya",
+      "Mixed Vegetable Fritters",
+      "Crispy Pakoda"
+    ],
+    "category": "Street Food & Chaat",
+    "subcategory": "Fried Snack",
+    "cuisine": "Indian Regional",
+    "country": "India",
+    "region": "Regional India",
+    "image": "https://images.unsplash.com/photo-1599488615731-10c59828fa68?auto=format&fit=crop&w=800&q=80",
+    "vegetarian": true,
+    "vegan": true,
+    "contains_meat": false,
+    "contains_fish": false,
+    "contains_shellfish": false,
+    "good_for": [
+      "High Plant Protein Snack",
+      "Monsoon & Teatime Favorite"
+    ],
+    "description": "Crisp golden deep-fried vegetable fritters made by dipping sliced onions, potatoes, or spinach in spiced chickpea gram flour batter.",
+    "nutrition_id": "USDA_ICMR_PAKODA"
+  }
+}

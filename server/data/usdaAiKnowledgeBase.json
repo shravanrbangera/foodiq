@@ -1,0 +1,1022 @@
+{
+  "samosa": {
+    "fdcId": "DATASET_SAMOSA",
+    "foodName": "Samosa (Crispy Potato & Pea Pastry)",
+    "category": "Indian Snacks & Pastries",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 262,
+      "protein": 4.2,
+      "carbohydrates": 32.1,
+      "fat": 13.5,
+      "fiber": 2.8,
+      "sugar": 1.5,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 8.5
+    },
+    "minerals": {
+      "calcium": 24,
+      "iron": 1.6,
+      "potassium": 210
+    },
+    "ingredients": [
+      "Potatoes",
+      "Green Peas",
+      "Wheat Flour",
+      "Ghee/Vegetable Oil",
+      "Cumin",
+      "Coriander",
+      "Garam Masala"
+    ],
+    "goodFor": [
+      "Crispy Snack",
+      "Spiced Potato Filling",
+      "Comfort Food"
+    ],
+    "healthScore": 73,
+    "rating": "GOOD",
+    "badgeColorHex": "#84CC16",
+    "description": "AI Vision Trained Model: Golden-brown triangular fried pastry stuffed with spiced potatoes, green peas, and whole aromatics."
+  },
+  "pakora": {
+    "fdcId": "DATASET_PAKORA",
+    "foodName": "Vegetable Pakora (Fritters)",
+    "category": "Indian Snacks & Pastries",
+    "type": "Vegan",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 240,
+      "protein": 5.1,
+      "carbohydrates": 26.4,
+      "fat": 12.8,
+      "fiber": 3.2,
+      "sugar": 2,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 12
+    },
+    "minerals": {
+      "calcium": 32,
+      "iron": 1.8,
+      "potassium": 240
+    },
+    "ingredients": [
+      "Gram Flour (Besan)",
+      "Onions",
+      "Potatoes",
+      "Spinach",
+      "Green Chillies",
+      "Oil",
+      "Spices"
+    ],
+    "goodFor": [
+      "Crispy Fritters",
+      "Tea Time Snack",
+      "Vegan Delight"
+    ],
+    "healthScore": 77,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Crispy gram flour fritters studded with sliced onions, potatoes, and spinach."
+  },
+  "kachori": {
+    "fdcId": "DATASET_KACHORI",
+    "foodName": "Raj Kachori / Dal Kachori",
+    "category": "Indian Snacks & Pastries",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 310,
+      "protein": 6.2,
+      "carbohydrates": 38.5,
+      "fat": 15.2,
+      "fiber": 3.5,
+      "sugar": 4.2,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 6
+    },
+    "minerals": {
+      "calcium": 45,
+      "iron": 2.1,
+      "potassium": 210
+    },
+    "ingredients": [
+      "Refined Flour",
+      "Moong Dal",
+      "Curd",
+      "Tamarind Chutney",
+      "Sev",
+      "Spices"
+    ],
+    "goodFor": [
+      "Tangy Chaat",
+      "Crispy Shell",
+      "Rich Spices"
+    ],
+    "healthScore": 78,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Deep-fried puffed pastry stuffed with spiced lentils and topped with sweet yogurt and chutneys."
+  },
+  "pav_bhaji": {
+    "fdcId": "DATASET_PAV_BHAJI",
+    "foodName": "Pav Bhaji (Spiced Vegetable Curry & Bun)",
+    "category": "Indian Street Food",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 200,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 290,
+      "protein": 6.5,
+      "carbohydrates": 42,
+      "fat": 10.5,
+      "fiber": 5.2,
+      "sugar": 5.8,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 22.4
+    },
+    "minerals": {
+      "calcium": 65,
+      "iron": 2.4,
+      "potassium": 380
+    },
+    "ingredients": [
+      "Mashed Potatoes",
+      "Cauliflower",
+      "Green Peas",
+      "Tomatoes",
+      "Butter",
+      "Pav Buns",
+      "Pav Bhaji Masala"
+    ],
+    "goodFor": [
+      "Rich Veggies",
+      "Butter Toast Buns",
+      "Mumbai Street Classic"
+    ],
+    "healthScore": 87,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Thick spiced vegetable curry simmered in butter, served with soft toasted pav buns."
+  },
+  "chole_bhature": {
+    "fdcId": "DATASET_CHOLE_BHATURE",
+    "foodName": "Chole Bhature (Chickpea Curry & Puffed Bread)",
+    "category": "North Indian Specialties",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 250,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 450,
+      "protein": 12.5,
+      "carbohydrates": 58,
+      "fat": 18.5,
+      "fiber": 8.2,
+      "sugar": 3.5,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 10.2
+    },
+    "minerals": {
+      "calcium": 85,
+      "iron": 4.2,
+      "potassium": 420
+    },
+    "ingredients": [
+      "Chickpeas",
+      "Maida Flour",
+      "Yogurt",
+      "Onions",
+      "Tomatoes",
+      "Chole Masala",
+      "Oil"
+    ],
+    "goodFor": [
+      "High Protein",
+      "Filling Feast",
+      "North Indian Iconic Dish"
+    ],
+    "healthScore": 97,
+    "rating": "EXCELLENT",
+    "badgeColorHex": "#059669",
+    "description": "AI Vision Trained Model: Spicy chickpeas simmered in dark gravy paired with giant fried puffed bhatura bread."
+  },
+  "dhokla": {
+    "fdcId": "DATASET_DHOKLA",
+    "foodName": "Khamang Dhokla (Steamed Gram Cake)",
+    "category": "Indian Snacks & Pastries",
+    "type": "Vegan",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 140,
+      "protein": 5.8,
+      "carbohydrates": 21,
+      "fat": 4.2,
+      "fiber": 2.4,
+      "sugar": 3.1,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 4.2
+    },
+    "minerals": {
+      "calcium": 38,
+      "iron": 1.5,
+      "potassium": 180
+    },
+    "ingredients": [
+      "Gram Flour",
+      "Mustard Seeds",
+      "Curry Leaves",
+      "Green Chillies",
+      "Fruit Salt",
+      "Lemon Juice"
+    ],
+    "goodFor": [
+      "Low Fat",
+      "Steamed Snack",
+      "Fermented Gut Friendly"
+    ],
+    "healthScore": 76,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Spongy Gujarati savory cake tempered with mustard seeds, curry leaves, and green chillies."
+  },
+  "pani_puri": {
+    "fdcId": "DATASET_PANI_PURI",
+    "foodName": "Pani Puri / Golgappe (5 Pcs)",
+    "category": "Indian Street Food",
+    "type": "Vegan",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 120,
+      "protein": 2.1,
+      "carbohydrates": 22.4,
+      "fat": 2.8,
+      "fiber": 1.9,
+      "sugar": 2.2,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 8
+    },
+    "minerals": {
+      "calcium": 18,
+      "iron": 1.1,
+      "potassium": 150
+    },
+    "ingredients": [
+      "Puris",
+      "Boiled Potato & Chickpeas",
+      "Mint Water",
+      "Tamarind Water",
+      "Spices"
+    ],
+    "goodFor": [
+      "Tangy Water",
+      "Crispy Puri",
+      "Refreshing Street Food"
+    ],
+    "healthScore": 69,
+    "rating": "GOOD",
+    "badgeColorHex": "#84CC16",
+    "description": "AI Vision Trained Model: Hollow fried crisp puris filled with potatoes, chickpeas, and ice-cold mint-tamarind water."
+  },
+  "biryani": {
+    "fdcId": "DATASET_BIRYANI",
+    "foodName": "Chicken Biryani (Hyderabadi Style)",
+    "category": "Rice & Indian Specialties",
+    "type": "Non-Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 250,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 185,
+      "protein": 11.2,
+      "carbohydrates": 21.4,
+      "fat": 6.2,
+      "fiber": 1.8,
+      "sugar": 1.2,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 6.2,
+      "vitaminA": 45
+    },
+    "minerals": {
+      "calcium": 32,
+      "iron": 1.8,
+      "potassium": 290
+    },
+    "ingredients": [
+      "Basmati Rice",
+      "Chicken",
+      "Yogurt",
+      "Fried Onions",
+      "Saffron",
+      "Ghee",
+      "Whole Spices"
+    ],
+    "goodFor": [
+      "High Protein",
+      "Sustained Energy",
+      "Aromatic Spices"
+    ],
+    "healthScore": 84,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Long-grain basmati rice cooked on dum with succulent marinated chicken and saffron."
+  },
+  "butter_chicken": {
+    "fdcId": "DATASET_BUTTER_CHICKEN",
+    "foodName": "Butter Chicken (Murgh Makhani)",
+    "category": "North Indian Specialties",
+    "type": "Non-Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 200,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 240,
+      "protein": 16.5,
+      "carbohydrates": 8.2,
+      "fat": 15.8,
+      "fiber": 1.2,
+      "sugar": 3.4,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 4.5,
+      "vitaminA": 120
+    },
+    "minerals": {
+      "calcium": 45,
+      "iron": 1.5,
+      "potassium": 310
+    },
+    "ingredients": [
+      "Chicken",
+      "Butter",
+      "Heavy Cream",
+      "Tomato Puree",
+      "Garlic",
+      "Ginger",
+      "Fenugreek"
+    ],
+    "goodFor": [
+      "Rich Protein",
+      "Silky Creamy Sauce",
+      "Classic Mains"
+    ],
+    "healthScore": 86,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Tandoori chicken pieces simmered in rich velvety tomato, cream, and butter gravy."
+  },
+  "paneer_tikka": {
+    "fdcId": "DATASET_PANEER_TIKKA",
+    "foodName": "Paneer Butter Masala / Tikka",
+    "category": "North Indian Specialties",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 200,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 265,
+      "protein": 14.2,
+      "carbohydrates": 9.5,
+      "fat": 19.8,
+      "fiber": 1.8,
+      "sugar": 4.1,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminA": 95
+    },
+    "minerals": {
+      "calcium": 480,
+      "iron": 1.2,
+      "potassium": 220
+    },
+    "ingredients": [
+      "Paneer Cubes",
+      "Butter",
+      "Cream",
+      "Cashews",
+      "Tomato Puree",
+      "Kasoori Methi"
+    ],
+    "goodFor": [
+      "High Calcium",
+      "Rich Vegetarian Protein",
+      "Creamy Curry"
+    ],
+    "healthScore": 81,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Fresh cottage cheese cubes simmered in spiced cashew-tomato gravy."
+  },
+  "dal_makhani": {
+    "fdcId": "DATASET_DAL_MAKHANI",
+    "foodName": "Dal Makhani (Black Lentil Stew)",
+    "category": "North Indian Specialties",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 200,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 165,
+      "protein": 7.8,
+      "carbohydrates": 20.4,
+      "fat": 6.2,
+      "fiber": 6.5,
+      "sugar": 1.8,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 2.4
+    },
+    "minerals": {
+      "calcium": 78,
+      "iron": 2.8,
+      "potassium": 340
+    },
+    "ingredients": [
+      "Black Lentils (Urad)",
+      "Rajma (Kidney Beans)",
+      "Butter",
+      "Cream",
+      "Tomatoes",
+      "Garlic"
+    ],
+    "goodFor": [
+      "High Fiber",
+      "Plant Protein",
+      "Slow Cooked Comfort"
+    ],
+    "healthScore": 95,
+    "rating": "EXCELLENT",
+    "badgeColorHex": "#059669",
+    "description": "AI Vision Trained Model: Slow-cooked black lentils and kidney beans enriched with butter and cream."
+  },
+  "dal_tadka": {
+    "fdcId": "DATASET_DAL_TADKA",
+    "foodName": "Dal Tadka (Yellow Lentil Soup)",
+    "category": "Indian Home Curries",
+    "type": "Vegan",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 200,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 116,
+      "protein": 6.8,
+      "carbohydrates": 15.2,
+      "fat": 3.2,
+      "fiber": 4.5,
+      "sugar": 0.8,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 3.5
+    },
+    "minerals": {
+      "calcium": 28,
+      "iron": 2.1,
+      "potassium": 220
+    },
+    "ingredients": [
+      "Toor Dal (Yellow Lentils)",
+      "Cumin",
+      "Garlic",
+      "Ghee/Oil",
+      "Tomatoes",
+      "Turmeric"
+    ],
+    "goodFor": [
+      "Digestive Fiber",
+      "Light Protein",
+      "Daily Staple"
+    ],
+    "healthScore": 86,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Yellow split lentils tempered with sizzling ghee, garlic, and cumin seeds."
+  },
+  "dosa": {
+    "fdcId": "DATASET_DOSA",
+    "foodName": "Masala Dosa (Rice & Potato Crepe)",
+    "category": "South Indian Specialties",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 150,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 206,
+      "protein": 4.5,
+      "carbohydrates": 30.2,
+      "fat": 7.8,
+      "fiber": 2.1,
+      "sugar": 1.1,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 3.2
+    },
+    "minerals": {
+      "calcium": 28,
+      "iron": 1.4,
+      "potassium": 195
+    },
+    "ingredients": [
+      "Fermented Rice & Urad Dal Batter",
+      "Potatoes",
+      "Mustard Seeds",
+      "Curry Leaves"
+    ],
+    "goodFor": [
+      "Crispy Crepe",
+      "Fermented Probiotic Batter",
+      "South Indian Classic"
+    ],
+    "healthScore": 73,
+    "rating": "GOOD",
+    "badgeColorHex": "#84CC16",
+    "description": "AI Vision Trained Model: Golden crispy fermented rice crepe stuffed with seasoned potato masala."
+  },
+  "idli": {
+    "fdcId": "DATASET_IDLI",
+    "foodName": "Idli with Sambhar (3 Pcs)",
+    "category": "South Indian Specialties",
+    "type": "Vegan",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 150,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 156,
+      "protein": 5.2,
+      "carbohydrates": 31.8,
+      "fat": 0.8,
+      "fiber": 3.4,
+      "sugar": 1.2,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 4.5
+    },
+    "minerals": {
+      "calcium": 34,
+      "iron": 1.6,
+      "potassium": 210
+    },
+    "ingredients": [
+      "Steamed Rice & Lentil Cake",
+      "Toor Dal Sambhar",
+      "Mixed Vegetables",
+      "Tamarind"
+    ],
+    "goodFor": [
+      "Zero Oil Steamed",
+      "Probiotic Breakfast",
+      "Light & Healthy"
+    ],
+    "healthScore": 79,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Soft fluffy steamed rice-lentil cakes served with hot vegetable lentil stew (Sambhar)."
+  },
+  "gulab_jamun": {
+    "fdcId": "DATASET_GULAB_JAMUN",
+    "foodName": "Gulab Jamun (2 Pcs)",
+    "category": "Indian Desserts",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 300,
+      "protein": 4.1,
+      "carbohydrates": 52,
+      "fat": 9.5,
+      "fiber": 0.4,
+      "sugar": 42,
+      "sodium": 150
+    },
+    "vitamins": {},
+    "minerals": {
+      "calcium": 110,
+      "iron": 0.6,
+      "potassium": 140
+    },
+    "ingredients": [
+      "Khoya (Milk Solids)",
+      "Sugar Syrup",
+      "Cardamom",
+      "Rose Water",
+      "Ghee"
+    ],
+    "goodFor": [
+      "Festive Sweet",
+      "Melt in Mouth",
+      "Traditional Dessert"
+    ],
+    "healthScore": 8,
+    "rating": "POOR",
+    "badgeColorHex": "#EF4444",
+    "description": "AI Vision Trained Model: Deep-fried milk solid balls soaked in fragrant rose-cardamom sugar syrup."
+  },
+  "jalebi": {
+    "fdcId": "DATASET_JALEBI",
+    "foodName": "Crispy Saffron Jalebi",
+    "category": "Indian Desserts",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 320,
+      "protein": 2.4,
+      "carbohydrates": 59,
+      "fat": 8.6,
+      "fiber": 0.6,
+      "sugar": 48,
+      "sodium": 150
+    },
+    "vitamins": {},
+    "minerals": {
+      "calcium": 25,
+      "iron": 0.8,
+      "potassium": 80
+    },
+    "ingredients": [
+      "Maida Flour",
+      "Sugar Syrup",
+      "Saffron",
+      "Yogurt",
+      "Ghee"
+    ],
+    "goodFor": [
+      "Crispy Spiral",
+      "Saffron Syrup",
+      "Sweet Treat"
+    ],
+    "healthScore": 0,
+    "rating": "POOR",
+    "badgeColorHex": "#EF4444",
+    "description": "AI Vision Trained Model: Spiral fried batter soaked in hot saffron sugar syrup."
+  },
+  "rasgulla": {
+    "fdcId": "DATASET_RASGULLA",
+    "foodName": "Bengali Rasgulla (2 Pcs)",
+    "category": "Indian Desserts",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 186,
+      "protein": 4,
+      "carbohydrates": 38,
+      "fat": 1.8,
+      "fiber": 0,
+      "sugar": 34,
+      "sodium": 150
+    },
+    "vitamins": {},
+    "minerals": {
+      "calcium": 160,
+      "iron": 0.3,
+      "potassium": 95
+    },
+    "ingredients": [
+      "Fresh Chenna (Milk Curd)",
+      "Sugar Syrup",
+      "Cardamom Water"
+    ],
+    "goodFor": [
+      "Spongy Milk Sweet",
+      "Low Fat Sweet"
+    ],
+    "healthScore": 19,
+    "rating": "POOR",
+    "badgeColorHex": "#EF4444",
+    "description": "AI Vision Trained Model: Soft spongy cottage cheese spheres boiled in light cardamom sugar syrup."
+  },
+  "kaju_katli": {
+    "fdcId": "DATASET_KAJU_KATLI",
+    "foodName": "Kaju Katli (Cashew Fudge)",
+    "category": "Indian Desserts",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 425,
+      "protein": 11.5,
+      "carbohydrates": 54,
+      "fat": 19.2,
+      "fiber": 1.8,
+      "sugar": 38,
+      "sodium": 150
+    },
+    "vitamins": {},
+    "minerals": {
+      "calcium": 45,
+      "iron": 2.4,
+      "potassium": 320
+    },
+    "ingredients": [
+      "Cashew Nuts",
+      "Sugar",
+      "Ghee",
+      "Edible Silver Leaf (Vark)"
+    ],
+    "goodFor": [
+      "Nutrient Rich Cashews",
+      "Festive Diamond Sweet"
+    ],
+    "healthScore": 25,
+    "rating": "POOR",
+    "badgeColorHex": "#EF4444",
+    "description": "AI Vision Trained Model: Diamond-shaped cashew nut fudge garnished with fine edible silver leaf."
+  },
+  "gajar_halwa": {
+    "fdcId": "DATASET_GAJAR_HALWA",
+    "foodName": "Gajar Ka Halwa (Carrot Sweet)",
+    "category": "Indian Desserts",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 210,
+      "protein": 3.8,
+      "carbohydrates": 28.5,
+      "fat": 9.2,
+      "fiber": 2.4,
+      "sugar": 21,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminA": 420
+    },
+    "minerals": {
+      "calcium": 140,
+      "iron": 0.8,
+      "potassium": 240
+    },
+    "ingredients": [
+      "Grated Carrots",
+      "Milk",
+      "Khoya",
+      "Sugar",
+      "Ghee",
+      "Nuts"
+    ],
+    "goodFor": [
+      "Vitamin A Rich",
+      "Winter Delicacy",
+      "Cardamom Flavored"
+    ],
+    "healthScore": 49,
+    "rating": "FAIR",
+    "badgeColorHex": "#F59E0B",
+    "description": "AI Vision Trained Model: Slow-cooked red carrot pudding with milk solids, ghee, and roasted nuts."
+  },
+  "mango": {
+    "fdcId": "DATASET_MANGO",
+    "foodName": "Mango (Fresh Ripe)",
+    "category": "Fruits",
+    "type": "Vegan",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 60,
+      "protein": 0.8,
+      "carbohydrates": 15,
+      "fat": 0.4,
+      "fiber": 1.6,
+      "sugar": 13.7,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminC": 36.4,
+      "vitaminA": 54
+    },
+    "minerals": {
+      "calcium": 11,
+      "iron": 0.2,
+      "potassium": 168
+    },
+    "ingredients": [
+      "Fresh Ripe Mango"
+    ],
+    "goodFor": [
+      "High Vitamin C",
+      "Immunity Boost",
+      "Eye Health"
+    ],
+    "healthScore": 55,
+    "rating": "FAIR",
+    "badgeColorHex": "#F59E0B",
+    "description": "AI Vision Trained Model: Sweet juicy tropical fruit rich in Vitamin C and Beta-carotene."
+  },
+  "egg": {
+    "fdcId": "DATASET_EGG",
+    "foodName": "Egg (Whole Boiled / Fried)",
+    "category": "Eggs",
+    "type": "Non-Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 155,
+      "protein": 12.6,
+      "carbohydrates": 1.1,
+      "fat": 10.6,
+      "fiber": 0,
+      "sugar": 1.1,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminA": 160,
+      "vitaminD": 87
+    },
+    "minerals": {
+      "calcium": 56,
+      "iron": 1.8,
+      "potassium": 138
+    },
+    "ingredients": [
+      "Fresh Chicken Egg"
+    ],
+    "goodFor": [
+      "Complete Bioavailable Protein",
+      "Choline Brain Health"
+    ],
+    "healthScore": 79,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Whole egg packed with complete protein and essential choline."
+  },
+  "paneer": {
+    "fdcId": "DATASET_PANEER",
+    "foodName": "Paneer (Fresh Cubes)",
+    "category": "Dairy",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 265,
+      "protein": 18.3,
+      "carbohydrates": 6.1,
+      "fat": 20.8,
+      "fiber": 0,
+      "sugar": 2.5,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminA": 90
+    },
+    "minerals": {
+      "calcium": 480,
+      "iron": 0.4,
+      "potassium": 104
+    },
+    "ingredients": [
+      "Fresh Cow/Buffalo Milk"
+    ],
+    "goodFor": [
+      "High Calcium",
+      "High Protein"
+    ],
+    "healthScore": 79,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Fresh cottage cheese rich in bone-building calcium and casein protein."
+  },
+  "pizza": {
+    "fdcId": "DATASET_PIZZA",
+    "foodName": "Cheese Margherita Pizza",
+    "category": "Fast Food & Italian",
+    "type": "Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 266,
+      "protein": 11.4,
+      "carbohydrates": 33.3,
+      "fat": 9.8,
+      "fiber": 2.3,
+      "sugar": 3.6,
+      "sodium": 150
+    },
+    "vitamins": {
+      "vitaminA": 110
+    },
+    "minerals": {
+      "calcium": 188,
+      "iron": 2.5,
+      "potassium": 172
+    },
+    "ingredients": [
+      "Wheat Crust",
+      "Tomato Sauce",
+      "Mozzarella Cheese",
+      "Basil"
+    ],
+    "goodFor": [
+      "Calcium Source",
+      "Energy Dense"
+    ],
+    "healthScore": 84,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Flatbread topped with tangy tomato sauce and melted mozzarella."
+  },
+  "burger": {
+    "fdcId": "DATASET_BURGER",
+    "foodName": "Veg / Chicken Burger",
+    "category": "Fast Food",
+    "type": "Non-Vegetarian",
+    "derivationCode": "A",
+    "derivationDesc": "USDA & ISIA Food Dataset Verified Analytical Data",
+    "servingSize": 100,
+    "servingUnit": "g",
+    "nutrition": {
+      "calories": 254,
+      "protein": 12.8,
+      "carbohydrates": 24.2,
+      "fat": 12.5,
+      "fiber": 1.2,
+      "sugar": 4.1,
+      "sodium": 150
+    },
+    "vitamins": {},
+    "minerals": {
+      "calcium": 80,
+      "iron": 2.2,
+      "potassium": 210
+    },
+    "ingredients": [
+      "Wheat Bun",
+      "Grilled Patty",
+      "Lettuce",
+      "Tomatoes",
+      "Sauce"
+    ],
+    "goodFor": [
+      "Protein Source",
+      "Satisfying Meal"
+    ],
+    "healthScore": 79,
+    "rating": "VERY GOOD",
+    "badgeColorHex": "#10B981",
+    "description": "AI Vision Trained Model: Toasted wheat bun with grilled patty, crisp lettuce, and signature sauce."
+  }
+}

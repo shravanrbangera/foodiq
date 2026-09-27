@@ -1,0 +1,7 @@
+{
+  "temperature": 1.15,
+  "confidence_threshold_recognized": 0.35,
+  "confidence_margin_threshold": 0.08,
+  "confidence_threshold_uncertain": 0.2,
+  "ood_energy_threshold": 14.0
+}

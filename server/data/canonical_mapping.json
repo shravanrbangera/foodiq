@@ -1,0 +1,68 @@
+{
+  "okra": {
+    "canonical_name": "Okra",
+    "category": "Vegetables",
+    "aliases": ["Lady Finger", "Bhindi", "Ladyfinger", "Okra"]
+  },
+  "eggplant": {
+    "canonical_name": "Eggplant",
+    "category": "Vegetables",
+    "aliases": ["Brinjal", "Aubergine", "Baingan", "Eggplant"]
+  },
+  "prawns": {
+    "canonical_name": "Prawn Curry / Seafood",
+    "category": "Seafood",
+    "aliases": ["Shrimp", "Prawns", "Jhinga", "Prawn Curry"]
+  },
+  "masala dosa": {
+    "canonical_name": "Masala Dosa",
+    "category": "Indian Food",
+    "subcategory": "South Indian",
+    "aliases": ["Masala Dosa", "Dosa", "Potato Crepe"]
+  },
+  "plain dosa": {
+    "canonical_name": "Plain Dosa",
+    "category": "Indian Food",
+    "subcategory": "South Indian",
+    "aliases": ["Plain Dosa", "Crispy Dosa"]
+  },
+  "neer dosa": {
+    "canonical_name": "Neer Dosa",
+    "category": "Indian Food",
+    "subcategory": "South Indian",
+    "aliases": ["Neer Dosa", "Rice Crepe"]
+  },
+  "set dosa": {
+    "canonical_name": "Set Dosa",
+    "category": "Indian Food",
+    "subcategory": "South Indian",
+    "aliases": ["Set Dosa", "Sponge Dosa"]
+  },
+  "samosa": {
+    "canonical_name": "Samosa",
+    "category": "Indian Food",
+    "subcategory": "Snacks",
+    "aliases": ["Samosa", "Singhara", "Potato Pastry"]
+  },
+  "biryani": {
+    "canonical_name": "Chicken Biryani",
+    "category": "Indian Food",
+    "subcategory": "Rice Dishes",
+    "aliases": ["Biryani", "Hyderabadi Biryani", "Chicken Biryani"]
+  },
+  "apple": {
+    "canonical_name": "Apple",
+    "category": "Fruits",
+    "aliases": ["Apple", "Red Apple", "Fresh Apple"]
+  },
+  "banana": {
+    "canonical_name": "Banana",
+    "category": "Fruits",
+    "aliases": ["Banana", "Yellow Banana"]
+  },
+  "mango": {
+    "canonical_name": "Mango",
+    "category": "Fruits",
+    "aliases": ["Mango", "Ripe Mango", "Aam"]
+  }
+}

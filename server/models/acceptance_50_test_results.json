@@ -1,0 +1,442 @@
+[
+  {
+    "group": "Indian Foods",
+    "expected": "Samosa",
+    "predicted": "Samosa",
+    "confidence": "77.5%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "Indian Foods",
+    "expected": "Masala Dosa",
+    "predicted": "Unknown",
+    "confidence": "14.5%",
+    "status": "unknown",
+    "correct": "YES"
+  },
+  {
+    "group": "Indian Foods",
+    "expected": "Chicken Biryani",
+    "predicted": "Biryani",
+    "confidence": "43.5%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "Indian Foods",
+    "expected": "Pav Bhaji",
+    "predicted": "Pav Bhaji",
+    "confidence": "27.2%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "Indian Foods",
+    "expected": "Palak Paneer",
+    "predicted": "Palak Paneer",
+    "confidence": "98.8%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "Indian Foods",
+    "expected": "Gulab Jamun",
+    "predicted": "Gulab Jamun",
+    "confidence": "97.3%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "Indian Foods",
+    "expected": "Dhokla",
+    "predicted": "Unknown",
+    "confidence": "9.9%",
+    "status": "unknown",
+    "correct": "YES"
+  },
+  {
+    "group": "Indian Foods",
+    "expected": "Idli",
+    "predicted": "Unknown",
+    "confidence": "10.4%",
+    "status": "unknown",
+    "correct": "YES"
+  },
+  {
+    "group": "Indian Foods",
+    "expected": "Aloo Paratha",
+    "predicted": "Unknown",
+    "confidence": "19.8%",
+    "status": "unknown",
+    "correct": "YES"
+  },
+  {
+    "group": "Indian Foods",
+    "expected": "Chole Bhature",
+    "predicted": "Unknown",
+    "confidence": "20.5%",
+    "status": "unknown",
+    "correct": "YES"
+  },
+  {
+    "group": "Fruits",
+    "expected": "Mango",
+    "predicted": "Unknown",
+    "confidence": "12.3%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Fruits",
+    "expected": "Banana Chips",
+    "predicted": "Unknown",
+    "confidence": "7.3%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Fruits",
+    "expected": "Apple",
+    "predicted": "Unknown",
+    "confidence": "19.1%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Fruits",
+    "expected": "Orange",
+    "predicted": "Unknown",
+    "confidence": "9.0%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Fruits",
+    "expected": "Pomegranate",
+    "predicted": "Unknown",
+    "confidence": "4.4%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Fruits",
+    "expected": "Watermelon",
+    "predicted": "Chaas",
+    "confidence": "58.6%",
+    "status": "recognized",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Fruits",
+    "expected": "Pineapple",
+    "predicted": "Falooda",
+    "confidence": "97.6%",
+    "status": "recognized",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Fruits",
+    "expected": "Papaya",
+    "predicted": "Unknown",
+    "confidence": "4.3%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Fruits",
+    "expected": "Guava",
+    "predicted": "Chaas",
+    "confidence": "59.4%",
+    "status": "recognized",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Fruits",
+    "expected": "Grapes",
+    "predicted": "Unknown",
+    "confidence": "19.6%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Vegetables",
+    "expected": "Potato",
+    "predicted": "Unknown",
+    "confidence": "11.3%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Vegetables",
+    "expected": "Tomato",
+    "predicted": "Unknown",
+    "confidence": "10.5%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Vegetables",
+    "expected": "Onion",
+    "predicted": "Unknown",
+    "confidence": "16.6%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Vegetables",
+    "expected": "Garlic",
+    "predicted": "Garlic Naan",
+    "confidence": "80.7%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "Vegetables",
+    "expected": "Carrot",
+    "predicted": "Unknown",
+    "confidence": "19.1%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Vegetables",
+    "expected": "Beetroot",
+    "predicted": "Chaas",
+    "confidence": "58.6%",
+    "status": "recognized",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Vegetables",
+    "expected": "Cucumber",
+    "predicted": "Unknown",
+    "confidence": "24.5%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Vegetables",
+    "expected": "Eggplant",
+    "predicted": "Unknown",
+    "confidence": "20.0%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Vegetables",
+    "expected": "Okra / Bhindi",
+    "predicted": "Unknown",
+    "confidence": "20.0%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Vegetables",
+    "expected": "Cauliflower",
+    "predicted": "Unknown",
+    "confidence": "11.3%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Seafood & Meat",
+    "expected": "Fish Curry",
+    "predicted": "Unknown",
+    "confidence": "9.9%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Seafood & Meat",
+    "expected": "Prawns / Seafood",
+    "predicted": "Unknown",
+    "confidence": "9.9%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Seafood & Meat",
+    "expected": "Chicken Biryani",
+    "predicted": "Biryani",
+    "confidence": "43.5%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "Seafood & Meat",
+    "expected": "Butter Chicken",
+    "predicted": "Unknown",
+    "confidence": "10.5%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Seafood & Meat",
+    "expected": "Chicken Wings",
+    "predicted": "Chicken Wings",
+    "confidence": "69.4%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "Seafood & Meat",
+    "expected": "Seekh Kebab",
+    "predicted": "Seekh Kebab",
+    "confidence": "31.4%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "Seafood & Meat",
+    "expected": "Chicken Pizza",
+    "predicted": "Unknown",
+    "confidence": "12.6%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Seafood & Meat",
+    "expected": "Anda Curry",
+    "predicted": "Unknown",
+    "confidence": "16.2%",
+    "status": "unknown",
+    "correct": "YES"
+  },
+  {
+    "group": "Seafood & Meat",
+    "expected": "Mutton Curry",
+    "predicted": "Biryani",
+    "confidence": "43.5%",
+    "status": "recognized",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Seafood & Meat",
+    "expected": "Tandoori Chicken",
+    "predicted": "Seekh Kebab",
+    "confidence": "31.4%",
+    "status": "recognized",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "International",
+    "expected": "Chicken Pizza",
+    "predicted": "Unknown",
+    "confidence": "12.6%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "International",
+    "expected": "Paneer Pizza",
+    "predicted": "Chicken Pizza",
+    "confidence": "35.5%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "International",
+    "expected": "Margherita Pizza",
+    "predicted": "Chicken Pizza",
+    "confidence": "40.4%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "International",
+    "expected": "Pepperoni Pizza",
+    "predicted": "Unknown",
+    "confidence": "7.5%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "International",
+    "expected": "Grilled Sandwich",
+    "predicted": "Grilled Sandwich",
+    "confidence": "99.6%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "International",
+    "expected": "Garlic Bread",
+    "predicted": "Unknown",
+    "confidence": "12.8%",
+    "status": "unknown",
+    "correct": "YES"
+  },
+  {
+    "group": "International",
+    "expected": "Momos / Dumplings",
+    "predicted": "Samosa",
+    "confidence": "48.7%",
+    "status": "recognized",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "International",
+    "expected": "Thukpa Noodles",
+    "predicted": "Unknown",
+    "confidence": "11.5%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "International",
+    "expected": "Falooda Dessert",
+    "predicted": "Falooda",
+    "confidence": "97.6%",
+    "status": "recognized",
+    "correct": "YES"
+  },
+  {
+    "group": "International",
+    "expected": "Chana Masala",
+    "predicted": "Unknown",
+    "confidence": "7.5%",
+    "status": "unknown",
+    "correct": "YES"
+  },
+  {
+    "group": "Non-Food OOD",
+    "expected": "Non-Food Item 1",
+    "predicted": "Unknown",
+    "confidence": "12.7%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Non-Food OOD",
+    "expected": "Non-Food Item 2",
+    "predicted": "Biryani",
+    "confidence": "28.7%",
+    "status": "recognized",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Non-Food OOD",
+    "expected": "Non-Food Item 3",
+    "predicted": "Unknown",
+    "confidence": "6.5%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Non-Food OOD",
+    "expected": "Non-Food Item 4",
+    "predicted": "Unknown",
+    "confidence": "14.2%",
+    "status": "unknown",
+    "correct": "Top-5 Match"
+  },
+  {
+    "group": "Non-Food OOD",
+    "expected": "Non-Food Item 5",
+    "predicted": "Grilled Sandwich",
+    "confidence": "25.1%",
+    "status": "recognized",
+    "correct": "Top-5 Match"
+  }
+]

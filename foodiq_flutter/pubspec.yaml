@@ -1,0 +1,24 @@
+name: foodiq_flutter
+description: FoodIQ — Know Your Food. Know Your Nutrition. Flutter App with AI Vision & Chatbot Bot.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.2.1
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

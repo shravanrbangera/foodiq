@@ -1,0 +1,8 @@
+{
+  "top1_accuracy": 0.942,
+  "top5_accuracy": 0.988,
+  "ood_rejection_rate": 0.965,
+  "total_classes": 201,
+  "total_samples": 1980,
+  "training_duration_sec": 275.83
+}

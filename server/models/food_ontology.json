@@ -1,0 +1,23 @@
+{
+  "ontology_name": "FoodIQ Master Food Taxonomy & Hierarchy",
+  "version": "1.0.0",
+  "root": "FOOD",
+  "branches": {
+    "Prepared Dish": {
+      "Indian Food": {
+        "South Indian": ["Masala Dosa", "Plain Dosa", "Set Dosa", "Neer Dosa", "Rava Dosa", "Idli", "Medu Vada", "Uttapam", "Pongal", "Paniyaram"],
+        "North Indian": ["Butter Chicken", "Chicken Tikka", "Paneer Masala", "Palak Paneer", "Dal Makhani", "Rajma Chawal", "Chole Bhature", "Aloo Paratha", "Garlic Naan"],
+        "West Indian": ["Pav Bhaji", "Vada Pav", "Misal Pav", "Dhokla", "Dabeli", "Poha", "Sabudana Vada", "Khakhra"],
+        "East Indian": ["Rasgulla", "Fish Curry", "Luchi", "Sandesh", "Mishti Doi"],
+        "Snacks": ["Samosa", "Onion Pakoda", "Sev Puri", "Pani Puri", "Papdi Chaat", "Kachori", "Steamed Momo"],
+        "Desserts": ["Gulab Jamun", "Jalebi", "Kaju Katli", "Gajar Ka Halwa", "Kulfi", "Falooda", "Rasgulla", "Ghevar", "Modak", "Besan Laddu"]
+      },
+      "International Food": {
+        "Fast Food": ["Chicken Pizza", "Paneer Pizza", "Margherita Pizza", "Pepperoni Pizza", "Grilled Sandwich", "Garlic Bread", "Chicken Wings"]
+      }
+    },
+    "Fruits": ["Apple", "Banana", "Mango", "Orange", "Pomegranate", "Watermelon", "Pineapple", "Papaya", "Guava", "Grapes", "Strawberry", "Kiwi", "Dragon Fruit", "Coconut", "Lemon"],
+    "Vegetables": ["Potato", "Sweet Potato", "Tomato", "Onion", "Garlic", "Carrot", "Beetroot", "Radish", "Cucumber", "Eggplant", "Cauliflower", "Broccoli", "Cabbage", "Spinach", "Okra", "Green Peas", "Corn", "Capsicum"],
+    "Seafood": ["Prawns", "Shrimp", "Fish Curry", "Crab", "Lobster", "Squid"]
+  }
+}

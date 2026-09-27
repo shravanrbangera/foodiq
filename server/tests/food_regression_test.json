@@ -1,0 +1,3394 @@
+{
+  "timestamp": "2026-08-23T15:31:32Z",
+  "total_tested": 100,
+  "total_passed": 91,
+  "accuracy_pct": 91.0,
+  "category_metrics": {
+    "mandatory": {
+      "total": 5,
+      "correct": 4
+    },
+    "non_food": {
+      "total": 20,
+      "correct": 20
+    },
+    "unknown_food": {
+      "total": 20,
+      "correct": 20
+    },
+    "indian": {
+      "total": 20,
+      "correct": 16
+    },
+    "fruits_veggies": {
+      "total": 15,
+      "correct": 15
+    },
+    "desserts_fastfood": {
+      "total": 20,
+      "correct": 16
+    }
+  },
+  "regression_records": [
+    {
+      "image": "zzfzcgggyaccyimpkdwf",
+      "expected_class": "Pani Puri",
+      "predicted_class": null,
+      "confidence": 0.3317,
+      "status": "uncertain",
+      "top_5": [
+        {
+          "food_id": "hara_bhara_kabab",
+          "food_name": "Hara Bhara Kabab",
+          "raw_class": "hara bhara kabab",
+          "confidence": 0.3317,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=hara_bhara_kabab",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pani_puri",
+          "food_name": "Pani Puri",
+          "raw_class": "pani puri",
+          "confidence": 0.1613,
+          "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        },
+        {
+          "food_id": "amritsari_kulcha",
+          "food_name": "Amritsari Kulcha",
+          "raw_class": "amritsari kulcha",
+          "confidence": 0.1115,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=amritsari_kulcha",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "seekh_kebab",
+          "food_name": "Seekh Kebab",
+          "raw_class": "seekh kebab",
+          "confidence": 0.0891,
+          "image": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+          "category": "Meat Dishes"
+        },
+        {
+          "food_id": "thali",
+          "food_name": "Thali",
+          "raw_class": "thali",
+          "confidence": 0.0765,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=thali",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": false
+    },
+    {
+      "image": "french_fries_0060.jpg",
+      "expected_class": "French Fries",
+      "predicted_class": "French Fries",
+      "confidence": 0.9984,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "french_fries",
+          "food_name": "French Fries",
+          "raw_class": "french fries",
+          "confidence": 0.9984,
+          "image": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        },
+        {
+          "food_id": "aloo_mutter",
+          "food_name": "Aloo Mutter",
+          "raw_class": "aloo mutter",
+          "confidence": 0.0001,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_mutter",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "potato",
+          "food_name": "Potato",
+          "raw_class": "potato",
+          "confidence": 0.0001,
+          "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "idiyappam",
+          "food_name": "Idiyappam",
+          "raw_class": "idiyappam",
+          "confidence": 0.0001,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=idiyappam",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "tomato",
+          "food_name": "Tomato",
+          "raw_class": "tomato",
+          "confidence": 0.0001,
+          "image": "https://images.unsplash.com/photo-1546470427-e26264be0b11?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "paneer_tikka_0060.jpg",
+      "expected_class": "Paneer Tikka",
+      "predicted_class": "Paneer Tikka",
+      "confidence": 0.9636,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "paneer_tikka",
+          "food_name": "Paneer Tikka",
+          "raw_class": "paneer tikka",
+          "confidence": 0.9636,
+          "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "vada_pav",
+          "food_name": "Vada Pav",
+          "raw_class": "vada pav",
+          "confidence": 0.0018,
+          "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        },
+        {
+          "food_id": "prawns",
+          "food_name": "Prawns",
+          "raw_class": "prawns",
+          "confidence": 0.0016,
+          "image": "https://images.unsplash.com/photo-1559742811-822873691df8?auto=format&fit=crop&w=800&q=80",
+          "category": "Seafood"
+        },
+        {
+          "food_id": "dal_makhani",
+          "food_name": "Dal Makhani",
+          "raw_class": "dal makhani",
+          "confidence": 0.0015,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dal_makhani",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "french_fries",
+          "food_name": "French Fries",
+          "raw_class": "french fries",
+          "confidence": 0.0013,
+          "image": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "kathi_roll_0060.jpg",
+      "expected_class": "Kathi Roll",
+      "predicted_class": "Kathi Roll",
+      "confidence": 0.9958,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "kathi_roll",
+          "food_name": "Kathi Roll",
+          "raw_class": "kathi roll",
+          "confidence": 0.9958,
+          "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        },
+        {
+          "food_id": "masala_dosa",
+          "food_name": "Masala Dosa",
+          "raw_class": "masala dosa",
+          "confidence": 0.0002,
+          "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_tikki",
+          "food_name": "Aloo Tikki",
+          "raw_class": "aloo tikki",
+          "confidence": 0.0002,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_tikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chicken_tikka",
+          "food_name": "Chicken Tikka",
+          "raw_class": "chicken tikka",
+          "confidence": 0.0002,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chicken_tikka",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "kaju_katli",
+          "food_name": "Kaju Katli",
+          "raw_class": "kaju katli",
+          "confidence": 0.0002,
+          "image": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "noodles_0060.jpg",
+      "expected_class": "Noodles",
+      "predicted_class": "Noodles",
+      "confidence": 0.5911,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "noodles",
+          "food_name": "Noodles",
+          "raw_class": "noodles",
+          "confidence": 0.5911,
+          "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=80",
+          "category": "Asian & Fast Food"
+        },
+        {
+          "food_id": "chowmein",
+          "food_name": "Chowmein",
+          "raw_class": "chowmein",
+          "confidence": 0.3968,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chowmein",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "prawns",
+          "food_name": "Prawns",
+          "raw_class": "prawns",
+          "confidence": 0.0011,
+          "image": "https://images.unsplash.com/photo-1559742811-822873691df8?auto=format&fit=crop&w=800&q=80",
+          "category": "Seafood"
+        },
+        {
+          "food_id": "kheer",
+          "food_name": "Kheer",
+          "raw_class": "kheer",
+          "confidence": 0.0005,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "biryani",
+          "food_name": "Chicken Biryani",
+          "raw_class": "biryani",
+          "confidence": 0.0005,
+          "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "car.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "phone.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "laptop.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "human_face.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "dog.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "cat.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "building.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "tree_landscape.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "chair.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "keyboard.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "plastic_bottle.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "book.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "smart_watch.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "shoes.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "pen.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "bicycle.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "desk.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "clock.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "scissors.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "backpack.jpg",
+      "expected_class": "No food detected.",
+      "predicted_class": null,
+      "confidence": 0.02,
+      "status": "not_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "dragon_fruit.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "star_fruit.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "durian.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "rambutan.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "mangosteen.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "passion_fruit.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "persimmon.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "wood_apple.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "custard_apple.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "cherimoya.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "breadfruit.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "feijoa.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "soursop.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "salak.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "longan.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "kumquat.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "loquat.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "marula.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "sapote.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "tamarillo.jpg",
+      "expected_class": "Food detected, but not in database.",
+      "predicted_class": null,
+      "confidence": 0.22,
+      "status": "unknown_food",
+      "top_5": [],
+      "correct": true
+    },
+    {
+      "image": "samosa_sample.jpg",
+      "expected_class": "Samosa",
+      "predicted_class": "Grilled Sandwich",
+      "confidence": 0.4593,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "grilled_sandwich",
+          "food_name": "Grilled Sandwich",
+          "raw_class": "grilled sandwich",
+          "confidence": 0.4593,
+          "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80",
+          "category": "International Food"
+        },
+        {
+          "food_id": "chicken_wings",
+          "food_name": "Chicken Wings",
+          "raw_class": "chicken wings",
+          "confidence": 0.2212,
+          "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=800&q=80",
+          "category": "Meat Dishes"
+        },
+        {
+          "food_id": "gujhia",
+          "food_name": "Gujhia",
+          "raw_class": "gujhia",
+          "confidence": 0.0519,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=gujhia",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "seekh_kebab",
+          "food_name": "Seekh Kebab",
+          "raw_class": "seekh kebab",
+          "confidence": 0.0446,
+          "image": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+          "category": "Meat Dishes"
+        },
+        {
+          "food_id": "samosa",
+          "food_name": "Samosa",
+          "raw_class": "samosa",
+          "confidence": 0.0373,
+          "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "vada pav_sample.jpg",
+      "expected_class": "Vada Pav",
+      "predicted_class": "Vada Pav",
+      "confidence": 0.8081,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "vada_pav",
+          "food_name": "Vada Pav",
+          "raw_class": "vada pav",
+          "confidence": 0.8081,
+          "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        },
+        {
+          "food_id": "dabeli",
+          "food_name": "Dabeli",
+          "raw_class": "dabeli",
+          "confidence": 0.1776,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dabeli",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "misal_pav",
+          "food_name": "Misal Pav",
+          "raw_class": "misal pav",
+          "confidence": 0.0109,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=misal_pav",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pav_bhaji",
+          "food_name": "Pav Bhaji",
+          "raw_class": "pav bhaji",
+          "confidence": 0.0008,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=pav_bhaji",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "masala_dosa",
+          "food_name": "Masala Dosa",
+          "raw_class": "masala dosa",
+          "confidence": 0.0005,
+          "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "pav bhaji_sample.jpg",
+      "expected_class": "Pav Bhaji",
+      "predicted_class": null,
+      "confidence": 0.3143,
+      "status": "uncertain",
+      "top_5": [
+        {
+          "food_id": "misal_pav",
+          "food_name": "Misal Pav",
+          "raw_class": "misal pav",
+          "confidence": 0.3143,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=misal_pav",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pav_bhaji",
+          "food_name": "Pav Bhaji",
+          "raw_class": "pav bhaji",
+          "confidence": 0.2999,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=pav_bhaji",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "dabeli",
+          "food_name": "Dabeli",
+          "raw_class": "dabeli",
+          "confidence": 0.2656,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dabeli",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "papdi_chaat",
+          "food_name": "Papdi Chaat",
+          "raw_class": "papdi chaat",
+          "confidence": 0.0212,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=papdi_chaat",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "sev_puri",
+          "food_name": "Sev Puri",
+          "raw_class": "sev puri",
+          "confidence": 0.0168,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=sev_puri",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": false
+    },
+    {
+      "image": "misal pav_sample.jpg",
+      "expected_class": "Misal Pav",
+      "predicted_class": "Misal Pav",
+      "confidence": 0.9293,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "misal_pav",
+          "food_name": "Misal Pav",
+          "raw_class": "misal pav",
+          "confidence": 0.9293,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=misal_pav",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "dabeli",
+          "food_name": "Dabeli",
+          "raw_class": "dabeli",
+          "confidence": 0.0319,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dabeli",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "vada_pav",
+          "food_name": "Vada Pav",
+          "raw_class": "vada pav",
+          "confidence": 0.0115,
+          "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        },
+        {
+          "food_id": "pav_bhaji",
+          "food_name": "Pav Bhaji",
+          "raw_class": "pav bhaji",
+          "confidence": 0.0085,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=pav_bhaji",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "thukpa",
+          "food_name": "Thukpa",
+          "raw_class": "thukpa",
+          "confidence": 0.0049,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=thukpa",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "dabeli_sample.jpg",
+      "expected_class": "Dabeli",
+      "predicted_class": "Vada Pav",
+      "confidence": 0.7045,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "vada_pav",
+          "food_name": "Vada Pav",
+          "raw_class": "vada pav",
+          "confidence": 0.7045,
+          "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        },
+        {
+          "food_id": "misal_pav",
+          "food_name": "Misal Pav",
+          "raw_class": "misal pav",
+          "confidence": 0.1635,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=misal_pav",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "dabeli",
+          "food_name": "Dabeli",
+          "raw_class": "dabeli",
+          "confidence": 0.0788,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dabeli",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pav_bhaji",
+          "food_name": "Pav Bhaji",
+          "raw_class": "pav bhaji",
+          "confidence": 0.0281,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=pav_bhaji",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "masala_dosa",
+          "food_name": "Masala Dosa",
+          "raw_class": "masala dosa",
+          "confidence": 0.0082,
+          "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "steamed momo_sample.jpg",
+      "expected_class": "Momos",
+      "predicted_class": "Momos",
+      "confidence": 0.9809,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "steamed_momo",
+          "food_name": "Momos",
+          "raw_class": "steamed momo",
+          "confidence": 0.9809,
+          "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&w=800&q=80",
+          "category": "Regional Specialties"
+        },
+        {
+          "food_id": "thukpa",
+          "food_name": "Thukpa",
+          "raw_class": "thukpa",
+          "confidence": 0.0095,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=thukpa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "modak",
+          "food_name": "Modak",
+          "raw_class": "modak",
+          "confidence": 0.0029,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=modak",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "jalebi",
+          "food_name": "Jalebi",
+          "raw_class": "jalebi",
+          "confidence": 0.0016,
+          "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "idiyappam",
+          "food_name": "Idiyappam",
+          "raw_class": "idiyappam",
+          "confidence": 0.001,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=idiyappam",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "thukpa_sample.jpg",
+      "expected_class": "Thukpa",
+      "predicted_class": "Thukpa",
+      "confidence": 0.9909,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "thukpa",
+          "food_name": "Thukpa",
+          "raw_class": "thukpa",
+          "confidence": 0.9909,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=thukpa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "navratan_korma",
+          "food_name": "Navratan Korma",
+          "raw_class": "navratan korma",
+          "confidence": 0.0011,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=navratan_korma",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "biryani",
+          "food_name": "Chicken Biryani",
+          "raw_class": "biryani",
+          "confidence": 0.001,
+          "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "palak_paneer",
+          "food_name": "Palak Paneer",
+          "raw_class": "palak paneer",
+          "confidence": 0.0007,
+          "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chana_masala",
+          "food_name": "Chana Masala",
+          "raw_class": "chana masala",
+          "confidence": 0.0006,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chana_masala",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "masala dosa_sample.jpg",
+      "expected_class": "Masala Dosa",
+      "predicted_class": "Rava Dosa",
+      "confidence": 0.5261,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "rava_dosa",
+          "food_name": "Rava Dosa",
+          "raw_class": "rava dosa",
+          "confidence": 0.5261,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=rava_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_paratha",
+          "food_name": "Aloo Paratha",
+          "raw_class": "aloo paratha",
+          "confidence": 0.1159,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_paratha",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "seekh_kebab",
+          "food_name": "Seekh Kebab",
+          "raw_class": "seekh kebab",
+          "confidence": 0.073,
+          "image": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+          "category": "Meat Dishes"
+        },
+        {
+          "food_id": "garlic_naan",
+          "food_name": "Garlic Naan",
+          "raw_class": "garlic naan",
+          "confidence": 0.0703,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=garlic_naan",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "masala_papad",
+          "food_name": "Masala Papad",
+          "raw_class": "masala papad",
+          "confidence": 0.0349,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=masala_papad",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "neer dosa_sample.jpg",
+      "expected_class": "Neer Dosa",
+      "predicted_class": "Neer Dosa",
+      "confidence": 0.5039,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "neer_dosa",
+          "food_name": "Neer Dosa",
+          "raw_class": "neer dosa",
+          "confidence": 0.5039,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=neer_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "rava_dosa",
+          "food_name": "Rava Dosa",
+          "raw_class": "rava dosa",
+          "confidence": 0.1841,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=rava_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "samosa",
+          "food_name": "Samosa",
+          "raw_class": "samosa",
+          "confidence": 0.1368,
+          "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        },
+        {
+          "food_id": "khakhra",
+          "food_name": "Khakhra",
+          "raw_class": "khakhra",
+          "confidence": 0.0438,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=khakhra",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "mysore_pak",
+          "food_name": "Mysore Pak",
+          "raw_class": "mysore pak",
+          "confidence": 0.0151,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=mysore_pak",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "rava dosa_sample.jpg",
+      "expected_class": "Rava Dosa",
+      "predicted_class": "Neer Dosa",
+      "confidence": 0.4073,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "neer_dosa",
+          "food_name": "Neer Dosa",
+          "raw_class": "neer dosa",
+          "confidence": 0.4073,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=neer_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "masala_dosa",
+          "food_name": "Masala Dosa",
+          "raw_class": "masala dosa",
+          "confidence": 0.2869,
+          "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "rava_dosa",
+          "food_name": "Rava Dosa",
+          "raw_class": "rava dosa",
+          "confidence": 0.1429,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=rava_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chapati",
+          "food_name": "Chapati",
+          "raw_class": "chapati",
+          "confidence": 0.0263,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chapati",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "khakhra",
+          "food_name": "Khakhra",
+          "raw_class": "khakhra",
+          "confidence": 0.0137,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=khakhra",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "set dosa_sample.jpg",
+      "expected_class": "Set Dosa",
+      "predicted_class": "Set Dosa",
+      "confidence": 0.7145,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "set_dosa",
+          "food_name": "Set Dosa",
+          "raw_class": "set dosa",
+          "confidence": 0.7145,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=set_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "uttapam",
+          "food_name": "Uttapam",
+          "raw_class": "uttapam",
+          "confidence": 0.086,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=uttapam",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "idli",
+          "food_name": "Idli",
+          "raw_class": "idli",
+          "confidence": 0.0372,
+          "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "rava_dosa",
+          "food_name": "Rava Dosa",
+          "raw_class": "rava dosa",
+          "confidence": 0.0267,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=rava_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_paratha",
+          "food_name": "Aloo Paratha",
+          "raw_class": "aloo paratha",
+          "confidence": 0.0253,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_paratha",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "idli_sample.jpg",
+      "expected_class": "Idli",
+      "predicted_class": null,
+      "confidence": 0.3502,
+      "status": "uncertain",
+      "top_5": [
+        {
+          "food_id": "ghevar",
+          "food_name": "Ghevar",
+          "raw_class": "ghevar",
+          "confidence": 0.3502,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=ghevar",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "set_dosa",
+          "food_name": "Set Dosa",
+          "raw_class": "set dosa",
+          "confidence": 0.0808,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=set_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "sabudana_vada",
+          "food_name": "Sabudana Vada",
+          "raw_class": "sabudana vada",
+          "confidence": 0.077,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=sabudana_vada",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "dabeli",
+          "food_name": "Dabeli",
+          "raw_class": "dabeli",
+          "confidence": 0.0513,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dabeli",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "hara_bhara_kabab",
+          "food_name": "Hara Bhara Kabab",
+          "raw_class": "hara bhara kabab",
+          "confidence": 0.0386,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=hara_bhara_kabab",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": false
+    },
+    {
+      "image": "medu vada_sample.jpg",
+      "expected_class": "Medu Vada",
+      "predicted_class": "Medu Vada",
+      "confidence": 0.9635,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "medu_vada",
+          "food_name": "Medu Vada",
+          "raw_class": "medu vada",
+          "confidence": 0.9635,
+          "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pongal",
+          "food_name": "Pongal",
+          "raw_class": "pongal",
+          "confidence": 0.0091,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=pongal",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "balushahi",
+          "food_name": "Balushahi",
+          "raw_class": "balushahi",
+          "confidence": 0.0081,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=balushahi",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "paniyaram",
+          "food_name": "Paniyaram",
+          "raw_class": "paniyaram",
+          "confidence": 0.002,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=paniyaram",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "idli",
+          "food_name": "Idli",
+          "raw_class": "idli",
+          "confidence": 0.0019,
+          "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "biryani_sample.jpg",
+      "expected_class": "Chicken Biryani",
+      "predicted_class": "Chicken Biryani",
+      "confidence": 0.6882,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "biryani",
+          "food_name": "Chicken Biryani",
+          "raw_class": "biryani",
+          "confidence": 0.6882,
+          "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "masala_papad",
+          "food_name": "Masala Papad",
+          "raw_class": "masala papad",
+          "confidence": 0.0998,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=masala_papad",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "uttapam",
+          "food_name": "Uttapam",
+          "raw_class": "uttapam",
+          "confidence": 0.0364,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=uttapam",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "poha",
+          "food_name": "Poha",
+          "raw_class": "poha",
+          "confidence": 0.0246,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=poha",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "navratan_korma",
+          "food_name": "Navratan Korma",
+          "raw_class": "navratan korma",
+          "confidence": 0.0176,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=navratan_korma",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "chole bhature_sample.jpg",
+      "expected_class": "Chole Bhature",
+      "predicted_class": "Chole Bhature",
+      "confidence": 0.979,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "chole_bhature",
+          "food_name": "Chole Bhature",
+          "raw_class": "chole bhature",
+          "confidence": 0.979,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chole_bhature",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "puri_bhaji",
+          "food_name": "Puri Bhaji",
+          "raw_class": "puri bhaji",
+          "confidence": 0.0087,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=puri_bhaji",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "rava_dosa",
+          "food_name": "Rava Dosa",
+          "raw_class": "rava dosa",
+          "confidence": 0.0032,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=rava_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "neer_dosa",
+          "food_name": "Neer Dosa",
+          "raw_class": "neer dosa",
+          "confidence": 0.0012,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=neer_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "masala_dosa",
+          "food_name": "Masala Dosa",
+          "raw_class": "masala dosa",
+          "confidence": 0.0006,
+          "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "aloo paratha_sample.jpg",
+      "expected_class": "Aloo Paratha",
+      "predicted_class": null,
+      "confidence": 0.4342,
+      "status": "uncertain",
+      "top_5": [
+        {
+          "food_id": "set_dosa",
+          "food_name": "Set Dosa",
+          "raw_class": "set dosa",
+          "confidence": 0.4342,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=set_dosa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_paratha",
+          "food_name": "Aloo Paratha",
+          "raw_class": "aloo paratha",
+          "confidence": 0.3982,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_paratha",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "uttapam",
+          "food_name": "Uttapam",
+          "raw_class": "uttapam",
+          "confidence": 0.0384,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=uttapam",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "amritsari_kulcha",
+          "food_name": "Amritsari Kulcha",
+          "raw_class": "amritsari kulcha",
+          "confidence": 0.0301,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=amritsari_kulcha",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chapati",
+          "food_name": "Chapati",
+          "raw_class": "chapati",
+          "confidence": 0.0208,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chapati",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": false
+    },
+    {
+      "image": "palak paneer_sample.jpg",
+      "expected_class": "Palak Paneer",
+      "predicted_class": "Palak Paneer",
+      "confidence": 0.9065,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "palak_paneer",
+          "food_name": "Palak Paneer",
+          "raw_class": "palak paneer",
+          "confidence": 0.9065,
+          "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chaas",
+          "food_name": "Chaas",
+          "raw_class": "chaas",
+          "confidence": 0.0244,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chaas",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "rasgulla",
+          "food_name": "Rasgulla",
+          "raw_class": "rasgulla",
+          "confidence": 0.0112,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=rasgulla",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "thukpa",
+          "food_name": "Thukpa",
+          "raw_class": "thukpa",
+          "confidence": 0.0052,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=thukpa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "solkadhi",
+          "food_name": "Solkadhi",
+          "raw_class": "solkadhi",
+          "confidence": 0.0049,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=solkadhi",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "rajma chawal_sample.jpg",
+      "expected_class": "Rajma Chawal",
+      "predicted_class": null,
+      "confidence": 0.3207,
+      "status": "uncertain",
+      "top_5": [
+        {
+          "food_id": "thali",
+          "food_name": "Thali",
+          "raw_class": "thali",
+          "confidence": 0.3207,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=thali",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "rajma_chawal",
+          "food_name": "Rajma Chawal",
+          "raw_class": "rajma chawal",
+          "confidence": 0.1899,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=rajma_chawal",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "idli",
+          "food_name": "Idli",
+          "raw_class": "idli",
+          "confidence": 0.1769,
+          "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pav_bhaji",
+          "food_name": "Pav Bhaji",
+          "raw_class": "pav bhaji",
+          "confidence": 0.0313,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=pav_bhaji",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "misal_pav",
+          "food_name": "Misal Pav",
+          "raw_class": "misal pav",
+          "confidence": 0.0225,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=misal_pav",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": false
+    },
+    {
+      "image": "dal khichdi_sample.jpg",
+      "expected_class": "Dal Khichdi",
+      "predicted_class": "Dal Khichdi",
+      "confidence": 0.9956,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "dal_khichdi",
+          "food_name": "Dal Khichdi",
+          "raw_class": "dal khichdi",
+          "confidence": 0.9956,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pongal",
+          "food_name": "Pongal",
+          "raw_class": "pongal",
+          "confidence": 0.0009,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=pongal",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "poha",
+          "food_name": "Poha",
+          "raw_class": "poha",
+          "confidence": 0.0006,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=poha",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "fish_curry",
+          "food_name": "Fish Curry",
+          "raw_class": "fish curry",
+          "confidence": 0.0003,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=fish_curry",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "biryani",
+          "food_name": "Chicken Biryani",
+          "raw_class": "biryani",
+          "confidence": 0.0003,
+          "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "amritsari kulcha_sample.jpg",
+      "expected_class": "Amritsari Kulcha",
+      "predicted_class": "Amritsari Kulcha",
+      "confidence": 0.8016,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "amritsari_kulcha",
+          "food_name": "Amritsari Kulcha",
+          "raw_class": "amritsari kulcha",
+          "confidence": 0.8016,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=amritsari_kulcha",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "garlic_naan",
+          "food_name": "Garlic Naan",
+          "raw_class": "garlic naan",
+          "confidence": 0.0394,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=garlic_naan",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "garlic_bread",
+          "food_name": "Garlic Bread",
+          "raw_class": "garlic bread",
+          "confidence": 0.0287,
+          "image": "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        },
+        {
+          "food_id": "aloo_paratha",
+          "food_name": "Aloo Paratha",
+          "raw_class": "aloo paratha",
+          "confidence": 0.0223,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_paratha",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "paneer_pizza",
+          "food_name": "Paneer Pizza",
+          "raw_class": "paneer pizza",
+          "confidence": 0.012,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=paneer_pizza",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "mango_sample.jpg",
+      "expected_class": "Mango",
+      "predicted_class": "Orange",
+      "confidence": 0.6538,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "orange",
+          "food_name": "Orange",
+          "raw_class": "orange",
+          "confidence": 0.6538,
+          "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "mango",
+          "food_name": "Mango",
+          "raw_class": "mango",
+          "confidence": 0.3018,
+          "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "potato",
+          "food_name": "Potato",
+          "raw_class": "potato",
+          "confidence": 0.0196,
+          "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "tomato",
+          "food_name": "Tomato",
+          "raw_class": "tomato",
+          "confidence": 0.0024,
+          "image": "https://images.unsplash.com/photo-1546470427-e26264be0b11?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "apple",
+          "food_name": "Apple",
+          "raw_class": "apple",
+          "confidence": 0.0017,
+          "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "apple_sample.jpg",
+      "expected_class": "Apple",
+      "predicted_class": "Tomato",
+      "confidence": 0.5422,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "tomato",
+          "food_name": "Tomato",
+          "raw_class": "tomato",
+          "confidence": 0.5422,
+          "image": "https://images.unsplash.com/photo-1546470427-e26264be0b11?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "apple",
+          "food_name": "Apple",
+          "raw_class": "apple",
+          "confidence": 0.4419,
+          "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "orange",
+          "food_name": "Orange",
+          "raw_class": "orange",
+          "confidence": 0.0019,
+          "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "okra",
+          "food_name": "Okra",
+          "raw_class": "okra",
+          "confidence": 0.0011,
+          "image": "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "mango",
+          "food_name": "Mango",
+          "raw_class": "mango",
+          "confidence": 0.0011,
+          "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "banana_sample.jpg",
+      "expected_class": "Banana",
+      "predicted_class": "Banana",
+      "confidence": 0.9251,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "banana",
+          "food_name": "Banana",
+          "raw_class": "banana",
+          "confidence": 0.9251,
+          "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "bhel_puri",
+          "food_name": "Bhel Puri",
+          "raw_class": "bhel puri",
+          "confidence": 0.0294,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=bhel_puri",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "kachori",
+          "food_name": "Kachori",
+          "raw_class": "kachori",
+          "confidence": 0.007,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=kachori",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_tikki",
+          "food_name": "Aloo Tikki",
+          "raw_class": "aloo tikki",
+          "confidence": 0.0043,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_tikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "dahi_puri",
+          "food_name": "Dahi Puri",
+          "raw_class": "dahi puri",
+          "confidence": 0.0031,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dahi_puri",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "orange_sample.jpg",
+      "expected_class": "Orange",
+      "predicted_class": "Orange",
+      "confidence": 0.9776,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "orange",
+          "food_name": "Orange",
+          "raw_class": "orange",
+          "confidence": 0.9776,
+          "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "tomato",
+          "food_name": "Tomato",
+          "raw_class": "tomato",
+          "confidence": 0.0045,
+          "image": "https://images.unsplash.com/photo-1546470427-e26264be0b11?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "mango",
+          "food_name": "Mango",
+          "raw_class": "mango",
+          "confidence": 0.0042,
+          "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "pasta",
+          "food_name": "Pasta",
+          "raw_class": "pasta",
+          "confidence": 0.0024,
+          "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281048?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        },
+        {
+          "food_id": "apple",
+          "food_name": "Apple",
+          "raw_class": "apple",
+          "confidence": 0.0015,
+          "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "potato_sample.jpg",
+      "expected_class": "Potato",
+      "predicted_class": "Potato",
+      "confidence": 0.9928,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "potato",
+          "food_name": "Potato",
+          "raw_class": "potato",
+          "confidence": 0.9928,
+          "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "okra",
+          "food_name": "Okra",
+          "raw_class": "okra",
+          "confidence": 0.0019,
+          "image": "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "dahi_puri",
+          "food_name": "Dahi Puri",
+          "raw_class": "dahi puri",
+          "confidence": 0.0013,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dahi_puri",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "orange",
+          "food_name": "Orange",
+          "raw_class": "orange",
+          "confidence": 0.0007,
+          "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "eggplant",
+          "food_name": "Eggplant",
+          "raw_class": "eggplant",
+          "confidence": 0.0007,
+          "image": "https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "tomato_sample.jpg",
+      "expected_class": "Tomato",
+      "predicted_class": "Tomato",
+      "confidence": 0.6346,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "tomato",
+          "food_name": "Tomato",
+          "raw_class": "tomato",
+          "confidence": 0.6346,
+          "image": "https://images.unsplash.com/photo-1546470427-e26264be0b11?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "apple",
+          "food_name": "Apple",
+          "raw_class": "apple",
+          "confidence": 0.3523,
+          "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "orange",
+          "food_name": "Orange",
+          "raw_class": "orange",
+          "confidence": 0.0017,
+          "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "mango",
+          "food_name": "Mango",
+          "raw_class": "mango",
+          "confidence": 0.001,
+          "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "chicken_tikka",
+          "food_name": "Chicken Tikka",
+          "raw_class": "chicken tikka",
+          "confidence": 0.0009,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chicken_tikka",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "onion_sample.jpg",
+      "expected_class": "Onion",
+      "predicted_class": "Onion",
+      "confidence": 0.883,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "onion",
+          "food_name": "Onion",
+          "raw_class": "onion",
+          "confidence": 0.883,
+          "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "dal_makhani",
+          "food_name": "Dal Makhani",
+          "raw_class": "dal makhani",
+          "confidence": 0.0431,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dal_makhani",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chicken_tikka",
+          "food_name": "Chicken Tikka",
+          "raw_class": "chicken tikka",
+          "confidence": 0.0117,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chicken_tikka",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "dahi_puri",
+          "food_name": "Dahi Puri",
+          "raw_class": "dahi puri",
+          "confidence": 0.0071,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dahi_puri",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pasta",
+          "food_name": "Pasta",
+          "raw_class": "pasta",
+          "confidence": 0.0029,
+          "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281048?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "okra_sample.jpg",
+      "expected_class": "Okra",
+      "predicted_class": "Okra",
+      "confidence": 0.964,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "okra",
+          "food_name": "Okra",
+          "raw_class": "okra",
+          "confidence": 0.964,
+          "image": "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "eggplant",
+          "food_name": "Eggplant",
+          "raw_class": "eggplant",
+          "confidence": 0.007,
+          "image": "https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "tomato",
+          "food_name": "Tomato",
+          "raw_class": "tomato",
+          "confidence": 0.0038,
+          "image": "https://images.unsplash.com/photo-1546470427-e26264be0b11?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "potato",
+          "food_name": "Potato",
+          "raw_class": "potato",
+          "confidence": 0.0037,
+          "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "apple",
+          "food_name": "Apple",
+          "raw_class": "apple",
+          "confidence": 0.0025,
+          "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "eggplant_sample.jpg",
+      "expected_class": "Eggplant",
+      "predicted_class": "Eggplant",
+      "confidence": 0.9764,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "eggplant",
+          "food_name": "Eggplant",
+          "raw_class": "eggplant",
+          "confidence": 0.9764,
+          "image": "https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "apple",
+          "food_name": "Apple",
+          "raw_class": "apple",
+          "confidence": 0.0027,
+          "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        },
+        {
+          "food_id": "okra",
+          "food_name": "Okra",
+          "raw_class": "okra",
+          "confidence": 0.0019,
+          "image": "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "dal_makhani",
+          "food_name": "Dal Makhani",
+          "raw_class": "dal makhani",
+          "confidence": 0.0014,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dal_makhani",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "tomato",
+          "food_name": "Tomato",
+          "raw_class": "tomato",
+          "confidence": 0.0012,
+          "image": "https://images.unsplash.com/photo-1546470427-e26264be0b11?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "aloo gobi_sample.jpg",
+      "expected_class": "Aloo Gobi",
+      "predicted_class": "Aloo Gobi",
+      "confidence": 0.5392,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "aloo_gobi",
+          "food_name": "Aloo Gobi",
+          "raw_class": "aloo gobi",
+          "confidence": 0.5392,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_gobi",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chana_masala",
+          "food_name": "Chana Masala",
+          "raw_class": "chana masala",
+          "confidence": 0.218,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chana_masala",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_mutter",
+          "food_name": "Aloo Mutter",
+          "raw_class": "aloo mutter",
+          "confidence": 0.1306,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_mutter",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "bhindi_masala",
+          "food_name": "Bhindi Masala",
+          "raw_class": "bhindi masala",
+          "confidence": 0.0126,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=bhindi_masala",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_methi",
+          "food_name": "Aloo Methi",
+          "raw_class": "aloo methi",
+          "confidence": 0.0111,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_methi",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "aloo methi_sample.jpg",
+      "expected_class": "Aloo Methi",
+      "predicted_class": "Aloo Methi",
+      "confidence": 0.9964,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "aloo_methi",
+          "food_name": "Aloo Methi",
+          "raw_class": "aloo methi",
+          "confidence": 0.9964,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_methi",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "patrode",
+          "food_name": "Patrode",
+          "raw_class": "patrode",
+          "confidence": 0.0022,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=patrode",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "bhindi_masala",
+          "food_name": "Bhindi Masala",
+          "raw_class": "bhindi masala",
+          "confidence": 0.0005,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=bhindi_masala",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chikki",
+          "food_name": "Chikki",
+          "raw_class": "chikki",
+          "confidence": 0.0003,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "amritsari_kulcha",
+          "food_name": "Amritsari Kulcha",
+          "raw_class": "amritsari kulcha",
+          "confidence": 0.0002,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=amritsari_kulcha",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "bhindi masala_sample.jpg",
+      "expected_class": "Bhindi Masala",
+      "predicted_class": "Bhindi Masala",
+      "confidence": 0.582,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "bhindi_masala",
+          "food_name": "Bhindi Masala",
+          "raw_class": "bhindi masala",
+          "confidence": 0.582,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=bhindi_masala",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_methi",
+          "food_name": "Aloo Methi",
+          "raw_class": "aloo methi",
+          "confidence": 0.2796,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_methi",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "patrode",
+          "food_name": "Patrode",
+          "raw_class": "patrode",
+          "confidence": 0.0697,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=patrode",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_gobi",
+          "food_name": "Aloo Gobi",
+          "raw_class": "aloo gobi",
+          "confidence": 0.0195,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_gobi",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chicken_wings",
+          "food_name": "Chicken Wings",
+          "raw_class": "chicken wings",
+          "confidence": 0.0045,
+          "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=800&q=80",
+          "category": "Meat Dishes"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "onion pakoda_sample.jpg",
+      "expected_class": "Onion Pakoda",
+      "predicted_class": "Onion Pakoda",
+      "confidence": 0.9777,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "onion_pakoda",
+          "food_name": "Onion Pakoda",
+          "raw_class": "onion pakoda",
+          "confidence": 0.9777,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=onion_pakoda",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chicken_wings",
+          "food_name": "Chicken Wings",
+          "raw_class": "chicken wings",
+          "confidence": 0.0177,
+          "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=800&q=80",
+          "category": "Meat Dishes"
+        },
+        {
+          "food_id": "patrode",
+          "food_name": "Patrode",
+          "raw_class": "patrode",
+          "confidence": 0.0008,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=patrode",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "seekh_kebab",
+          "food_name": "Seekh Kebab",
+          "raw_class": "seekh kebab",
+          "confidence": 0.0006,
+          "image": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+          "category": "Meat Dishes"
+        },
+        {
+          "food_id": "aloo_gobi",
+          "food_name": "Aloo Gobi",
+          "raw_class": "aloo gobi",
+          "confidence": 0.0005,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_gobi",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "prawns_sample.jpg",
+      "expected_class": "Prawns",
+      "predicted_class": "Prawns",
+      "confidence": 0.9857,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "prawns",
+          "food_name": "Prawns",
+          "raw_class": "prawns",
+          "confidence": 0.9857,
+          "image": "https://images.unsplash.com/photo-1559742811-822873691df8?auto=format&fit=crop&w=800&q=80",
+          "category": "Seafood"
+        },
+        {
+          "food_id": "sev_puri",
+          "food_name": "Sev Puri",
+          "raw_class": "sev puri",
+          "confidence": 0.0012,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=sev_puri",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "dabeli",
+          "food_name": "Dabeli",
+          "raw_class": "dabeli",
+          "confidence": 0.0012,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dabeli",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "tomato",
+          "food_name": "Tomato",
+          "raw_class": "tomato",
+          "confidence": 0.0009,
+          "image": "https://images.unsplash.com/photo-1546470427-e26264be0b11?auto=format&fit=crop&w=800&q=80",
+          "category": "Vegetables"
+        },
+        {
+          "food_id": "vada_pav",
+          "food_name": "Vada Pav",
+          "raw_class": "vada pav",
+          "confidence": 0.0005,
+          "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "fish curry_sample.jpg",
+      "expected_class": "Fish Curry",
+      "predicted_class": "Fish Curry",
+      "confidence": 0.3936,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "fish_curry",
+          "food_name": "Fish Curry",
+          "raw_class": "fish curry",
+          "confidence": 0.3936,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=fish_curry",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "dal_khichdi",
+          "food_name": "Dal Khichdi",
+          "raw_class": "dal khichdi",
+          "confidence": 0.1914,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "kheer",
+          "food_name": "Kheer",
+          "raw_class": "kheer",
+          "confidence": 0.0725,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "navratan_korma",
+          "food_name": "Navratan Korma",
+          "raw_class": "navratan korma",
+          "confidence": 0.0476,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=navratan_korma",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "phirni",
+          "food_name": "Phirni",
+          "raw_class": "phirni",
+          "confidence": 0.0335,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=phirni",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "gulab jamun_sample.jpg",
+      "expected_class": "Gulab Jamun",
+      "predicted_class": "Gulab Jamun",
+      "confidence": 0.9994,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "gulab_jamun",
+          "food_name": "Gulab Jamun",
+          "raw_class": "gulab jamun",
+          "confidence": 0.9994,
+          "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "boondi_laddu",
+          "food_name": "Boondi Laddu",
+          "raw_class": "boondi laddu",
+          "confidence": 0.0002,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=boondi_laddu",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "balushahi",
+          "food_name": "Balushahi",
+          "raw_class": "balushahi",
+          "confidence": 0.0,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=balushahi",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "paniyaram",
+          "food_name": "Paniyaram",
+          "raw_class": "paniyaram",
+          "confidence": 0.0,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=paniyaram",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "rasgulla",
+          "food_name": "Rasgulla",
+          "raw_class": "rasgulla",
+          "confidence": 0.0,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=rasgulla",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "jalebi_sample.jpg",
+      "expected_class": "Jalebi",
+      "predicted_class": "Jalebi",
+      "confidence": 0.6824,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "jalebi",
+          "food_name": "Jalebi",
+          "raw_class": "jalebi",
+          "confidence": 0.6824,
+          "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "murukku",
+          "food_name": "Murukku",
+          "raw_class": "murukku",
+          "confidence": 0.2647,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=murukku",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "thukpa",
+          "food_name": "Thukpa",
+          "raw_class": "thukpa",
+          "confidence": 0.0066,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=thukpa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chana_masala",
+          "food_name": "Chana Masala",
+          "raw_class": "chana masala",
+          "confidence": 0.0045,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chana_masala",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chowmein",
+          "food_name": "Chowmein",
+          "raw_class": "chowmein",
+          "confidence": 0.0042,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chowmein",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "kaju katli_sample.jpg",
+      "expected_class": "Kaju Katli",
+      "predicted_class": "Kaju Katli",
+      "confidence": 0.9843,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "kaju_katli",
+          "food_name": "Kaju Katli",
+          "raw_class": "kaju katli",
+          "confidence": 0.9843,
+          "image": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "mysore_pak",
+          "food_name": "Mysore Pak",
+          "raw_class": "mysore pak",
+          "confidence": 0.002,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=mysore_pak",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chikki",
+          "food_name": "Chikki",
+          "raw_class": "chikki",
+          "confidence": 0.0014,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "gulab_jamun",
+          "food_name": "Gulab Jamun",
+          "raw_class": "gulab jamun",
+          "confidence": 0.0009,
+          "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "mango",
+          "food_name": "Mango",
+          "raw_class": "mango",
+          "confidence": 0.0008,
+          "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+          "category": "Fruits"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "kheer_sample.jpg",
+      "expected_class": "Kheer",
+      "predicted_class": "Kheer",
+      "confidence": 0.4783,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "kheer",
+          "food_name": "Kheer",
+          "raw_class": "kheer",
+          "confidence": 0.4783,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "phirni",
+          "food_name": "Phirni",
+          "raw_class": "phirni",
+          "confidence": 0.3509,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=phirni",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pongal",
+          "food_name": "Pongal",
+          "raw_class": "pongal",
+          "confidence": 0.0908,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=pongal",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chapati",
+          "food_name": "Chapati",
+          "raw_class": "chapati",
+          "confidence": 0.0093,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chapati",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "navratan_korma",
+          "food_name": "Navratan Korma",
+          "raw_class": "navratan korma",
+          "confidence": 0.0074,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=navratan_korma",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "kulfi_sample.jpg",
+      "expected_class": "Kulfi",
+      "predicted_class": "Kulfi",
+      "confidence": 0.9976,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "kulfi",
+          "food_name": "Kulfi",
+          "raw_class": "kulfi",
+          "confidence": 0.9976,
+          "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "mysore_pak",
+          "food_name": "Mysore Pak",
+          "raw_class": "mysore pak",
+          "confidence": 0.0007,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=mysore_pak",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "falooda",
+          "food_name": "Falooda",
+          "raw_class": "falooda",
+          "confidence": 0.0004,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=falooda",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "solkadhi",
+          "food_name": "Solkadhi",
+          "raw_class": "solkadhi",
+          "confidence": 0.0002,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=solkadhi",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "masala_dosa",
+          "food_name": "Masala Dosa",
+          "raw_class": "masala dosa",
+          "confidence": 0.0002,
+          "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "falooda_sample.jpg",
+      "expected_class": "Falooda",
+      "predicted_class": "Falooda",
+      "confidence": 0.6531,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "falooda",
+          "food_name": "Falooda",
+          "raw_class": "falooda",
+          "confidence": 0.6531,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=falooda",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chaas",
+          "food_name": "Chaas",
+          "raw_class": "chaas",
+          "confidence": 0.0845,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chaas",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "sabudana_khichdi",
+          "food_name": "Sabudana Khichdi",
+          "raw_class": "sabudana khichdi",
+          "confidence": 0.048,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=sabudana_khichdi",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "moong_dal_halwa",
+          "food_name": "Moong Dal Halwa",
+          "raw_class": "moong dal halwa",
+          "confidence": 0.0464,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=moong_dal_halwa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "gajar_ka_halwa",
+          "food_name": "Gajar Ka Halwa",
+          "raw_class": "gajar ka halwa",
+          "confidence": 0.0276,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=gajar_ka_halwa",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "gajar ka halwa_sample.jpg",
+      "expected_class": "Gajar Ka Halwa",
+      "predicted_class": "Gajar Ka Halwa",
+      "confidence": 0.8567,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "gajar_ka_halwa",
+          "food_name": "Gajar Ka Halwa",
+          "raw_class": "gajar ka halwa",
+          "confidence": 0.8567,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=gajar_ka_halwa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "moong_dal_halwa",
+          "food_name": "Moong Dal Halwa",
+          "raw_class": "moong dal halwa",
+          "confidence": 0.0743,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=moong_dal_halwa",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chana_masala",
+          "food_name": "Chana Masala",
+          "raw_class": "chana masala",
+          "confidence": 0.0113,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chana_masala",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "sabudana_khichdi",
+          "food_name": "Sabudana Khichdi",
+          "raw_class": "sabudana khichdi",
+          "confidence": 0.0062,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=sabudana_khichdi",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "poha",
+          "food_name": "Poha",
+          "raw_class": "poha",
+          "confidence": 0.005,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=poha",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "mysore pak_sample.jpg",
+      "expected_class": "Mysore Pak",
+      "predicted_class": "Mysore Pak",
+      "confidence": 0.9554,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "mysore_pak",
+          "food_name": "Mysore Pak",
+          "raw_class": "mysore pak",
+          "confidence": 0.9554,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=mysore_pak",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "dhokla",
+          "food_name": "Dhokla",
+          "raw_class": "dhokla",
+          "confidence": 0.0139,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dhokla",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "banana_chips",
+          "food_name": "Banana Chips",
+          "raw_class": "banana chips",
+          "confidence": 0.0033,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=banana_chips",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chikki",
+          "food_name": "Chikki",
+          "raw_class": "chikki",
+          "confidence": 0.0027,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "khakhra",
+          "food_name": "Khakhra",
+          "raw_class": "khakhra",
+          "confidence": 0.0023,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=khakhra",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "rasgulla_sample.jpg",
+      "expected_class": "Rasgulla",
+      "predicted_class": "Rasgulla",
+      "confidence": 0.9896,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "rasgulla",
+          "food_name": "Rasgulla",
+          "raw_class": "rasgulla",
+          "confidence": 0.9896,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=rasgulla",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "idli",
+          "food_name": "Idli",
+          "raw_class": "idli",
+          "confidence": 0.0081,
+          "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "kheer",
+          "food_name": "Kheer",
+          "raw_class": "kheer",
+          "confidence": 0.0004,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "boondi_laddu",
+          "food_name": "Boondi Laddu",
+          "raw_class": "boondi laddu",
+          "confidence": 0.0003,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=boondi_laddu",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pani_puri",
+          "food_name": "Pani Puri",
+          "raw_class": "pani puri",
+          "confidence": 0.0002,
+          "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "modak_sample.jpg",
+      "expected_class": "Modak",
+      "predicted_class": "Banana Chips",
+      "confidence": 0.8493,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "banana_chips",
+          "food_name": "Banana Chips",
+          "raw_class": "banana chips",
+          "confidence": 0.8493,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=banana_chips",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "balushahi",
+          "food_name": "Balushahi",
+          "raw_class": "balushahi",
+          "confidence": 0.0603,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=balushahi",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "gujhia",
+          "food_name": "Gujhia",
+          "raw_class": "gujhia",
+          "confidence": 0.0134,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=gujhia",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pani_puri",
+          "food_name": "Pani Puri",
+          "raw_class": "pani puri",
+          "confidence": 0.0125,
+          "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        },
+        {
+          "food_id": "steamed_momo",
+          "food_name": "Momos",
+          "raw_class": "steamed momo",
+          "confidence": 0.0099,
+          "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&w=800&q=80",
+          "category": "Regional Specialties"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "chicken wings_sample.jpg",
+      "expected_class": "Chicken Wings",
+      "predicted_class": "Chicken Wings",
+      "confidence": 0.9948,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "chicken_wings",
+          "food_name": "Chicken Wings",
+          "raw_class": "chicken wings",
+          "confidence": 0.9948,
+          "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=800&q=80",
+          "category": "Meat Dishes"
+        },
+        {
+          "food_id": "patrode",
+          "food_name": "Patrode",
+          "raw_class": "patrode",
+          "confidence": 0.001,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=patrode",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "modak",
+          "food_name": "Modak",
+          "raw_class": "modak",
+          "confidence": 0.0007,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=modak",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "paniyaram",
+          "food_name": "Paniyaram",
+          "raw_class": "paniyaram",
+          "confidence": 0.0006,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=paniyaram",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "onion_pakoda",
+          "food_name": "Onion Pakoda",
+          "raw_class": "onion pakoda",
+          "confidence": 0.0003,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=onion_pakoda",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "margherita pizza_sample.jpg",
+      "expected_class": "Margherita Pizza",
+      "predicted_class": null,
+      "confidence": 0.3236,
+      "status": "uncertain",
+      "top_5": [
+        {
+          "food_id": "paneer_pizza",
+          "food_name": "Paneer Pizza",
+          "raw_class": "paneer pizza",
+          "confidence": 0.3236,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=paneer_pizza",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pepperoni_pizza",
+          "food_name": "Pepperoni Pizza",
+          "raw_class": "pepperoni pizza",
+          "confidence": 0.1742,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=pepperoni_pizza",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "patrode",
+          "food_name": "Patrode",
+          "raw_class": "patrode",
+          "confidence": 0.1665,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=patrode",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chicken_pizza",
+          "food_name": "Chicken Pizza",
+          "raw_class": "chicken pizza",
+          "confidence": 0.0593,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chicken_pizza",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "paneer_masala",
+          "food_name": "Paneer Masala",
+          "raw_class": "paneer masala",
+          "confidence": 0.0536,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=paneer_masala",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": false
+    },
+    {
+      "image": "grilled sandwich_sample.jpg",
+      "expected_class": "Grilled Sandwich",
+      "predicted_class": "Grilled Sandwich",
+      "confidence": 0.7689,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "grilled_sandwich",
+          "food_name": "Grilled Sandwich",
+          "raw_class": "grilled sandwich",
+          "confidence": 0.7689,
+          "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80",
+          "category": "International Food"
+        },
+        {
+          "food_id": "vada_pav",
+          "food_name": "Vada Pav",
+          "raw_class": "vada pav",
+          "confidence": 0.1073,
+          "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Street Food"
+        },
+        {
+          "food_id": "dabeli",
+          "food_name": "Dabeli",
+          "raw_class": "dabeli",
+          "confidence": 0.0631,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dabeli",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "masala_dosa",
+          "food_name": "Masala Dosa",
+          "raw_class": "masala dosa",
+          "confidence": 0.0091,
+          "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "gujhia",
+          "food_name": "Gujhia",
+          "raw_class": "gujhia",
+          "confidence": 0.0045,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=gujhia",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "burger_sample.jpg",
+      "expected_class": "Burger",
+      "predicted_class": "Burger",
+      "confidence": 0.5188,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "burger",
+          "food_name": "Burger",
+          "raw_class": "burger",
+          "confidence": 0.5188,
+          "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        },
+        {
+          "food_id": "aloo_tikki",
+          "food_name": "Aloo Tikki",
+          "raw_class": "aloo tikki",
+          "confidence": 0.3325,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_tikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pasta",
+          "food_name": "Pasta",
+          "raw_class": "pasta",
+          "confidence": 0.041,
+          "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281048?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        },
+        {
+          "food_id": "kachori",
+          "food_name": "Kachori",
+          "raw_class": "kachori",
+          "confidence": 0.0344,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=kachori",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "bhel_puri",
+          "food_name": "Bhel Puri",
+          "raw_class": "bhel puri",
+          "confidence": 0.0212,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=bhel_puri",
+          "category": "Indian Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "pasta_sample.jpg",
+      "expected_class": "Pasta",
+      "predicted_class": null,
+      "confidence": 0.374,
+      "status": "uncertain",
+      "top_5": [
+        {
+          "food_id": "pasta",
+          "food_name": "Pasta",
+          "raw_class": "pasta",
+          "confidence": 0.374,
+          "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281048?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        },
+        {
+          "food_id": "aloo_tikki",
+          "food_name": "Aloo Tikki",
+          "raw_class": "aloo tikki",
+          "confidence": 0.2316,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_tikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "butter_chicken",
+          "food_name": "Butter Chicken",
+          "raw_class": "butter chicken",
+          "confidence": 0.1425,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=butter_chicken",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "chicken_tikka",
+          "food_name": "Chicken Tikka",
+          "raw_class": "chicken tikka",
+          "confidence": 0.0716,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chicken_tikka",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "burger",
+          "food_name": "Burger",
+          "raw_class": "burger",
+          "confidence": 0.066,
+          "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        }
+      ],
+      "correct": false
+    },
+    {
+      "image": "chowmein_sample.jpg",
+      "expected_class": "Chowmein",
+      "predicted_class": "Chowmein",
+      "confidence": 0.5456,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "chowmein",
+          "food_name": "Chowmein",
+          "raw_class": "chowmein",
+          "confidence": 0.5456,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=chowmein",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "noodles",
+          "food_name": "Noodles",
+          "raw_class": "noodles",
+          "confidence": 0.4455,
+          "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=80",
+          "category": "Asian & Fast Food"
+        },
+        {
+          "food_id": "prawns",
+          "food_name": "Prawns",
+          "raw_class": "prawns",
+          "confidence": 0.0007,
+          "image": "https://images.unsplash.com/photo-1559742811-822873691df8?auto=format&fit=crop&w=800&q=80",
+          "category": "Seafood"
+        },
+        {
+          "food_id": "kheer",
+          "food_name": "Kheer",
+          "raw_class": "kheer",
+          "confidence": 0.0003,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+          "category": "Desserts"
+        },
+        {
+          "food_id": "steamed_momo",
+          "food_name": "Momos",
+          "raw_class": "steamed momo",
+          "confidence": 0.0003,
+          "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&w=800&q=80",
+          "category": "Regional Specialties"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "dahi puri_sample.jpg",
+      "expected_class": "Dahi Puri",
+      "predicted_class": "Dahi Puri",
+      "confidence": 0.7924,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "dahi_puri",
+          "food_name": "Dahi Puri",
+          "raw_class": "dahi puri",
+          "confidence": 0.7924,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dahi_puri",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_tikki",
+          "food_name": "Aloo Tikki",
+          "raw_class": "aloo tikki",
+          "confidence": 0.0301,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_tikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "dal_makhani",
+          "food_name": "Dal Makhani",
+          "raw_class": "dal makhani",
+          "confidence": 0.0248,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=dal_makhani",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "burger",
+          "food_name": "Burger",
+          "raw_class": "burger",
+          "confidence": 0.0224,
+          "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        },
+        {
+          "food_id": "pasta",
+          "food_name": "Pasta",
+          "raw_class": "pasta",
+          "confidence": 0.0158,
+          "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281048?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "bhel puri_sample.jpg",
+      "expected_class": "Bhel Puri",
+      "predicted_class": null,
+      "confidence": 0.3129,
+      "status": "uncertain",
+      "top_5": [
+        {
+          "food_id": "bhel_puri",
+          "food_name": "Bhel Puri",
+          "raw_class": "bhel puri",
+          "confidence": 0.3129,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=bhel_puri",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "aloo_tikki",
+          "food_name": "Aloo Tikki",
+          "raw_class": "aloo tikki",
+          "confidence": 0.2678,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_tikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "kachori",
+          "food_name": "Kachori",
+          "raw_class": "kachori",
+          "confidence": 0.1781,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=kachori",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "burger",
+          "food_name": "Burger",
+          "raw_class": "burger",
+          "confidence": 0.1022,
+          "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        },
+        {
+          "food_id": "pasta",
+          "food_name": "Pasta",
+          "raw_class": "pasta",
+          "confidence": 0.031,
+          "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281048?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        }
+      ],
+      "correct": false
+    },
+    {
+      "image": "kachori_sample.jpg",
+      "expected_class": "Kachori",
+      "predicted_class": "Aloo Tikki",
+      "confidence": 0.3868,
+      "status": "recognized",
+      "top_5": [
+        {
+          "food_id": "aloo_tikki",
+          "food_name": "Aloo Tikki",
+          "raw_class": "aloo tikki",
+          "confidence": 0.3868,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_tikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "kachori",
+          "food_name": "Kachori",
+          "raw_class": "kachori",
+          "confidence": 0.2464,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=kachori",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "burger",
+          "food_name": "Burger",
+          "raw_class": "burger",
+          "confidence": 0.1346,
+          "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        },
+        {
+          "food_id": "bhel_puri",
+          "food_name": "Bhel Puri",
+          "raw_class": "bhel puri",
+          "confidence": 0.1099,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=bhel_puri",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pasta",
+          "food_name": "Pasta",
+          "raw_class": "pasta",
+          "confidence": 0.0406,
+          "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281048?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        }
+      ],
+      "correct": true
+    },
+    {
+      "image": "aloo tikki_sample.jpg",
+      "expected_class": "Aloo Tikki",
+      "predicted_class": null,
+      "confidence": 0.4111,
+      "status": "uncertain",
+      "top_5": [
+        {
+          "food_id": "aloo_tikki",
+          "food_name": "Aloo Tikki",
+          "raw_class": "aloo tikki",
+          "confidence": 0.4111,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=aloo_tikki",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "burger",
+          "food_name": "Burger",
+          "raw_class": "burger",
+          "confidence": 0.38,
+          "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        },
+        {
+          "food_id": "kachori",
+          "food_name": "Kachori",
+          "raw_class": "kachori",
+          "confidence": 0.0876,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=kachori",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "bhel_puri",
+          "food_name": "Bhel Puri",
+          "raw_class": "bhel puri",
+          "confidence": 0.0564,
+          "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&food=bhel_puri",
+          "category": "Indian Food"
+        },
+        {
+          "food_id": "pasta",
+          "food_name": "Pasta",
+          "raw_class": "pasta",
+          "confidence": 0.0236,
+          "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281048?auto=format&fit=crop&w=800&q=80",
+          "category": "Fast Food"
+        }
+      ],
+      "correct": false
+    }
+  ]
+}

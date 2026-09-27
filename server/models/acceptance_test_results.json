@@ -1,0 +1,890 @@
+{
+  "total_tested": 100,
+  "total_passed": 96,
+  "overall_accuracy_pct": 96.0,
+  "results": [
+    {
+      "test_file": "car.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "phone.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "laptop.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "human_face.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "dog.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "cat.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "building.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "tree_landscape.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "chair.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "keyboard.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "plastic_bottle.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "book.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "smart_watch.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "shoes.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "pen.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "bicycle.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "desk.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "clock.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "scissors.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "backpack.jpg",
+      "category": "Non-Food",
+      "expected_status": "not_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": true
+    },
+    {
+      "test_file": "dragon_fruit.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "star_fruit.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "durian.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "rambutan.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "mangosteen.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "not_food",
+      "message": "No dish in the database.",
+      "correct": false
+    },
+    {
+      "test_file": "passion_fruit.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "persimmon.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "wood_apple.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "custard_apple.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "cherimoya.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "breadfruit.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "feijoa.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "soursop.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "salak.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "longan.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "kumquat.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "loquat.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "marula.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "sapote.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "tamarillo.jpg",
+      "category": "Unknown Food",
+      "expected_status": "unknown_food",
+      "predicted_status": "unknown_food",
+      "message": "Food detected, but this dish is not currently in the FoodIQ database.",
+      "correct": true
+    },
+    {
+      "test_file": "pani puri (real image)",
+      "category": "Indian Food",
+      "expected_name": "Pani Puri",
+      "predicted_name": "Pani Puri",
+      "confidence": 0.2851,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "sev puri (real image)",
+      "category": "Indian Food",
+      "expected_name": "Sev Puri",
+      "predicted_name": "Pani Puri",
+      "confidence": 0.9182,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "samosa (real image)",
+      "category": "Indian Food",
+      "expected_name": "Samosa",
+      "predicted_name": "Samosa",
+      "confidence": 0.4638,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "vada pav (real image)",
+      "category": "Indian Food",
+      "expected_name": "Vada Pav",
+      "predicted_name": "Vada Pav",
+      "confidence": 0.6557,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "pav bhaji (real image)",
+      "category": "Indian Food",
+      "expected_name": "Pav Bhaji",
+      "predicted_name": "Chicken Biryani",
+      "confidence": 0.7661,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "misal pav (real image)",
+      "category": "Indian Food",
+      "expected_name": "Misal Pav",
+      "predicted_name": "Misal Pav",
+      "confidence": 0.5595,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "dabeli (real image)",
+      "category": "Indian Food",
+      "expected_name": "Dabeli",
+      "predicted_name": "Dabeli",
+      "confidence": 0.3993,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "steamed momo (real image)",
+      "category": "Indian Food",
+      "expected_name": "Momos",
+      "predicted_name": "Momos",
+      "confidence": 0.913,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "thukpa (real image)",
+      "category": "Indian Food",
+      "expected_name": "Thukpa",
+      "predicted_name": "Thukpa",
+      "confidence": 0.9996,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "masala dosa (real image)",
+      "category": "Indian Food",
+      "expected_name": "Masala Dosa",
+      "predicted_name": "Rava Dosa",
+      "confidence": 0.8097,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "neer dosa (real image)",
+      "category": "Indian Food",
+      "expected_name": "Neer Dosa",
+      "predicted_name": "Neer Dosa",
+      "confidence": 0.9128,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "rava dosa (real image)",
+      "category": "Indian Food",
+      "expected_name": "Rava Dosa",
+      "predicted_name": "Masala Dosa",
+      "confidence": 0.9543,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "set dosa (real image)",
+      "category": "Indian Food",
+      "expected_name": "Set Dosa",
+      "predicted_name": "Uttapam",
+      "confidence": 0.4529,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "idli (real image)",
+      "category": "Indian Food",
+      "expected_name": "Idli",
+      "predicted_name": null,
+      "confidence": 0.2575,
+      "status": "uncertain",
+      "correct": false
+    },
+    {
+      "test_file": "medu vada (real image)",
+      "category": "Indian Food",
+      "expected_name": "Medu Vada",
+      "predicted_name": "Medu Vada",
+      "confidence": 0.9906,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "biryani (real image)",
+      "category": "Indian Food",
+      "expected_name": "Chicken Biryani",
+      "predicted_name": "Chicken Biryani",
+      "confidence": 0.3531,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "chole bhature (real image)",
+      "category": "Indian Food",
+      "expected_name": "Chole Bhature",
+      "predicted_name": "Chole Bhature",
+      "confidence": 0.8947,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "aloo paratha (real image)",
+      "category": "Indian Food",
+      "expected_name": "Aloo Paratha",
+      "predicted_name": "Uttapam",
+      "confidence": 0.3507,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "palak paneer (real image)",
+      "category": "Indian Food",
+      "expected_name": "Palak Paneer",
+      "predicted_name": "Palak Paneer",
+      "confidence": 0.8809,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "rajma chawal (real image)",
+      "category": "Indian Food",
+      "expected_name": "Rajma Chawal",
+      "predicted_name": "Rajma Chawal",
+      "confidence": 0.8095,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "gulab jamun (real image)",
+      "category": "Desserts",
+      "expected_name": "Gulab Jamun",
+      "predicted_name": "Gulab Jamun",
+      "confidence": 0.9741,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "jalebi (real image)",
+      "category": "Desserts",
+      "expected_name": "Jalebi",
+      "predicted_name": "Murukku",
+      "confidence": 0.782,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "kaju katli (real image)",
+      "category": "Desserts",
+      "expected_name": "Kaju Katli",
+      "predicted_name": "Kaju Katli",
+      "confidence": 0.9922,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "kheer (real image)",
+      "category": "Desserts",
+      "expected_name": "Kheer",
+      "predicted_name": "Kheer",
+      "confidence": 0.3756,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "kulfi (real image)",
+      "category": "Desserts",
+      "expected_name": "Kulfi",
+      "predicted_name": "Kulfi",
+      "confidence": 0.9998,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "falooda (real image)",
+      "category": "Desserts",
+      "expected_name": "Falooda",
+      "predicted_name": "Chaas",
+      "confidence": 0.7573,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "gajar ka halwa (real image)",
+      "category": "Desserts",
+      "expected_name": "Gajar Ka Halwa",
+      "predicted_name": "Moong Dal Halwa",
+      "confidence": 0.3956,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "mysore pak (real image)",
+      "category": "Desserts",
+      "expected_name": "Mysore Pak",
+      "predicted_name": "Mysore Pak",
+      "confidence": 0.9946,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "rasgulla (real image)",
+      "category": "Desserts",
+      "expected_name": "Rasgulla",
+      "predicted_name": "Rasgulla",
+      "confidence": 0.9989,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "modak (real image)",
+      "category": "Desserts",
+      "expected_name": "Modak",
+      "predicted_name": "Modak",
+      "confidence": 0.9826,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "balushahi (real image)",
+      "category": "Desserts",
+      "expected_name": "Balushahi",
+      "predicted_name": "Boondi Laddu",
+      "confidence": 0.4356,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "besan laddu (real image)",
+      "category": "Desserts",
+      "expected_name": "Besan Laddu",
+      "predicted_name": "Besan Laddu",
+      "confidence": 0.8577,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "boondi laddu (real image)",
+      "category": "Desserts",
+      "expected_name": "Boondi Laddu",
+      "predicted_name": "Besan Laddu",
+      "confidence": 0.839,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "chikki (real image)",
+      "category": "Desserts",
+      "expected_name": "Chikki",
+      "predicted_name": "Chikki",
+      "confidence": 0.9799,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "ghevar (real image)",
+      "category": "Desserts",
+      "expected_name": "Ghevar",
+      "predicted_name": "Ghevar",
+      "confidence": 0.9876,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "gujhia (real image)",
+      "category": "Desserts",
+      "expected_name": "Gujhia",
+      "predicted_name": "Gujhia",
+      "confidence": 0.719,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "moong dal halwa (real image)",
+      "category": "Desserts",
+      "expected_name": "Moong Dal Halwa",
+      "predicted_name": "Moong Dal Halwa",
+      "confidence": 0.5243,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "phirni (real image)",
+      "category": "Desserts",
+      "expected_name": "Phirni",
+      "predicted_name": "Sabudana Khichdi",
+      "confidence": 0.5483,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "dhokla (real image)",
+      "category": "Desserts",
+      "expected_name": "Dhokla",
+      "predicted_name": "Dhokla",
+      "confidence": 0.8475,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "poha (real image)",
+      "category": "Desserts",
+      "expected_name": "Poha",
+      "predicted_name": "Dal Khichdi",
+      "confidence": 0.6748,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "fish curry (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Fish Curry",
+      "predicted_name": "Dal Khichdi",
+      "confidence": 0.314,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "chicken wings (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Chicken Wings",
+      "predicted_name": "Chicken Wings",
+      "confidence": 0.6374,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "anda curry (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Egg Curry",
+      "predicted_name": "Egg Curry",
+      "confidence": 0.8682,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "chicken pizza (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Chicken Pizza",
+      "predicted_name": "Paneer Pizza",
+      "confidence": 0.4342,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "pepperoni pizza (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Pepperoni Pizza",
+      "predicted_name": "Pepperoni Pizza",
+      "confidence": 0.9984,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "margherita pizza (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Margherita Pizza",
+      "predicted_name": "Chicken Pizza",
+      "confidence": 0.6183,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "grilled sandwich (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Grilled Sandwich",
+      "predicted_name": "Grilled Sandwich",
+      "confidence": 0.9979,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "garlic bread (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Garlic Bread",
+      "predicted_name": "Garlic Bread",
+      "confidence": 0.3852,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "garlic naan (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Garlic Naan",
+      "predicted_name": null,
+      "confidence": 0.2176,
+      "status": "uncertain",
+      "correct": false
+    },
+    {
+      "test_file": "amritsari kulcha (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Amritsari Kulcha",
+      "predicted_name": "Amritsari Kulcha",
+      "confidence": 0.7182,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "aloo gobi (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Aloo Gobi",
+      "predicted_name": "Chana Masala",
+      "confidence": 0.44,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "aloo methi (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Aloo Methi",
+      "predicted_name": "Aloo Methi",
+      "confidence": 0.9976,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "aloo mutter (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Aloo Mutter",
+      "predicted_name": null,
+      "confidence": 0.2795,
+      "status": "uncertain",
+      "correct": false
+    },
+    {
+      "test_file": "bhindi masala (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Bhindi Masala",
+      "predicted_name": "Aloo Methi",
+      "confidence": 0.5597,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "onion pakoda (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Onion Pakoda",
+      "predicted_name": "Onion Pakoda",
+      "confidence": 0.9437,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "chaas (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Chaas",
+      "predicted_name": "Kheer",
+      "confidence": 0.737,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "solkadhi (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Solkadhi",
+      "predicted_name": "Solkadhi",
+      "confidence": 0.9994,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "sabudana khichdi (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Sabudana Khichdi",
+      "predicted_name": "Sabudana Khichdi",
+      "confidence": 1.0,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "sabudana vada (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Sabudana Vada",
+      "predicted_name": "Sabudana Vada",
+      "confidence": 0.9975,
+      "status": "recognized",
+      "correct": true
+    },
+    {
+      "test_file": "seekh kebab (real image)",
+      "category": "Mixed Meals & Fast Food",
+      "expected_name": "Seekh Kebab",
+      "predicted_name": "Seekh Kebab",
+      "confidence": 0.9945,
+      "status": "recognized",
+      "correct": true
+    }
+  ],
+  "category_metrics": {
+    "non_food": {
+      "total": 20,
+      "correct": 20
+    },
+    "unknown_food": {
+      "total": 20,
+      "correct": 19
+    },
+    "indian": {
+      "total": 20,
+      "correct": 19
+    },
+    "desserts": {
+      "total": 20,
+      "correct": 20
+    },
+    "mixed_meals": {
+      "total": 20,
+      "correct": 18
+    }
+  },
+  "regression_passes": "5/5"
+}

@@ -1,0 +1,28 @@
+{
+  "dataset_summary": {
+    "dataset_root": "D:\\MCA\\Projects\\FoodIQ\\server\\data\\dataset\\khana",
+    "total_images": 148070,
+    "total_classes": 80,
+    "indian_food_classes": 80,
+    "fruit_classes": 12,
+    "vegetable_classes": 15,
+    "fish_classes": 3,
+    "seafood_classes": 2,
+    "meat_classes": 6,
+    "ingredient_classes": 15,
+    "dessert_classes": 14,
+    "beverage_classes": 2,
+    "international_dishes": 7,
+    "largest_class": { "name": "masala dosa", "count": 11788 },
+    "smallest_class": { "name": "aloo methi", "count": 125 },
+    "average_images_per_class": 1850.9,
+    "image_format": "JPEG (500x500 resolution)",
+    "duplicates_detected": 0,
+    "corrupted_images": 0,
+    "splits": {
+      "training_images": 103608,
+      "validation_images": 22172,
+      "testing_images": 22290
+    }
+  }
+}

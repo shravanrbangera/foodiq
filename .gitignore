@@ -1,0 +1,64 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build Outputs
+dist/
+build/
+*.egg-info/
+.venv/
+env/
+venv/
+ENV/
+
+# PyTorch & Machine Learning Large Binaries (> 100MB)
+*.pth
+*.pt
+*.bin
+*.onnx
+*.h5
+*.tflite
+*.ckpt
+*.z01
+*.zip
+*.tar
+*.tar.gz
+*.crdownload
+
+# Heavy Raw Datasets & Downloaded Image Archives
+server/data/raw_datasets/
+server/data/dataset/
+server/data/Indian Food Images/
+server/data/Foodies_Challenge_Dataset/
+server/data/FoodData_Central_csv_2026-04-30/
+server/data/quarantine/
+server/data/real_world_test/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs and databases
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.sf/
